@@ -1,4 +1,4 @@
-#pragma
+#pragma once
 #include <fstream>
 #include <vector>
 class Day01 {
