@@ -1,5 +1,6 @@
 # adventofcode2024
 Coding challanges from https://adventofcode.com/
+The application for solving the challenges is written in c++. For me, this is a way to get more experience in writing c++ code. Thus, any poor implementation or suggestions on improvements are much appreciated. The logic, however, should hold :D
 
 ## The build and run setup
 I have a CMake script that build the aoc application.
