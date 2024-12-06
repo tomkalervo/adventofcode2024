@@ -29,6 +29,7 @@ bool Day06::patrolGuard(const std::vector<std::vector<char>> &map,
       if ('^' == map[y][x]) {
         x_in = x;
         y_in = y;
+        break;
       }
     }
   }
@@ -74,56 +75,54 @@ void Day06::run(std::ifstream &file) {
     std::cerr << "Invalid init of map Matrix." << std::endl;
     return;
   }
-  {
-    std::cout << "Executing Part 1" << std::endl;
 
-    // visit_M : Matrix that holds info on what positions the guard has
-    // visited.
-    std::vector<std::vector<char>> visit_M(column_size);
-    std::vector<char> tmp_row(row_size);
-    std::fill(tmp_row.begin(), tmp_row.end(), '0');
-    std::fill(visit_M.begin(), visit_M.end(), tmp_row);
+  std::cout << "Executing Part 1" << std::endl;
 
-    // printMatrix(map_M);
-    // printMatrix(visit_M);
+  // visit_M : Matrix that holds info on what positions the guard has
+  // visited.
+  std::vector<std::vector<char>> visit_M(column_size);
+  std::vector<char> tmp_row(row_size);
+  std::fill(tmp_row.begin(), tmp_row.end(), '0');
+  std::fill(visit_M.begin(), visit_M.end(), tmp_row);
 
-    patrolGuard(map_M, visit_M);
-    // printMatrix(visit_M);
-    int visited = 0;
-    for (int y = 0; y < visit_M.size(); y++) {
-      for (int x = 0; x < visit_M[y].size(); x++) {
-        if ('0' != visit_M[y][x]) {
-          visited += 1;
-        }
+  // printMatrix(map_M);
+  // printMatrix(visit_M);
+
+  patrolGuard(map_M, visit_M);
+  // printMatrix(visit_M);
+  int visited = 0;
+  for (int y = 0; y < visit_M.size(); y++) {
+    for (int x = 0; x < visit_M[y].size(); x++) {
+      if ('0' != visit_M[y][x]) {
+        visited += 1;
       }
     }
-    std::cout << "Patrolled positions by the guard: " << visited << std::endl;
   }
-  {
-    std::cout << "Executing Part 2" << std::endl;
-    // This is a naive solution: check all possible placements on the board.
-    // It takes a while, but works.
-    int obstruction = 0;
-    for (int y = 0; y < map_M.size(); y++) {
-      for (int x = 0; x < map_M[y].size(); x++) {
-        std::vector<std::vector<char>> visit_M(column_size);
-        std::vector<char> tmp_row(row_size);
-        std::fill(tmp_row.begin(), tmp_row.end(), '0');
-        std::fill(visit_M.begin(), visit_M.end(), tmp_row);
+  std::cout << "Patrolled positions by the guard: " << visited << std::endl;
 
-        if ('.' == map_M[y][x]) {
-          map_M[y][x] = '#';
-          if (patrolGuard(map_M, visit_M)) {
-            obstruction += 1;
-            // map_M[y][x] = 'O';
-            // printMatrix(map_M);
-          }
-          map_M[y][x] = '.';
+  std::cout << "Executing Part 2" << std::endl;
+  // This is a naive solution: check all possible placements on the board.
+  // Small enhancement, only put new obstacle on the original guard path.
+  // It takes a while, but works.
+  int obstruction = 0;
+  for (int y = 0; y < map_M.size(); y++) {
+    for (int x = 0; x < map_M[y].size(); x++) {
+      std::vector<std::vector<char>> visit_M_part2(column_size);
+      std::fill(tmp_row.begin(), tmp_row.end(), '0');
+      std::fill(visit_M_part2.begin(), visit_M_part2.end(), tmp_row);
+
+      if ('.' == map_M[y][x] && '0' != visit_M[y][x]) {
+        map_M[y][x] = '#';
+        if (patrolGuard(map_M, visit_M_part2)) {
+          obstruction += 1;
+          // map_M[y][x] = 'O';
+          // printMatrix(map_M);
         }
+        map_M[y][x] = '.';
       }
     }
-
-    std::cout << "Possible obstructions to trap the guard: " << obstruction
-              << std::endl;
   }
+
+  std::cout << "Possible obstructions to trap the guard: " << obstruction
+            << std::endl;
 }
