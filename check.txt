@@ -1,0 +1,7613 @@
+Running challenge 21
+code: 0 2 9 A 
+Movements: [2,0] [-2,3] [2,2] 
+code: 9 8 0 A 
+Movements: [2,-1] [-2,-2] [2,5] 
+code: 1 7 9 A 
+Movements: [0,2] [-1,1] [2,2] 
+code: 4 5 6 A 
+Movements: [1,0] [-2,1] [2,3] 
+code: 3 7 9 A 
+Movements: [1,1] [-1,1] [2,2] 
+Executing Part 1
+got x: -1 y: 0 from 11 to 10
+got x: 0 y: -1 from 10 to 7
+got x: 1 y: -2 from 7 to 2
+got x: 0 y: 3 from 2 to 11
+Num seq translated: 
+321211524442
+<A^A^^>AvvvA
+Calculating robot # 0
+ Parsing delta_code, high 13 low 0: 
+2321211524442
+A<A^A^^>AvvvA
+ Parsing delta_code, high 12 low 0: 
+232121152444
+A<A^A^^>Avvv
+ Parsing delta_code, high 11 low 0: 
+23212115244
+A<A^A^^>Avv
+ Parsing delta_code, high 10 low 0: 
+2321211524
+A<A^A^^>Av
+ Parsing delta_code, high 9 low 0: 
+232121152
+A<A^A^^>A
+ Parsing delta_code, high 8 low 0: 
+23212115
+A<A^A^^>
+ Parsing delta_code, high 7 low 0: 
+2321211
+A<A^A^^
+ Parsing delta_code, high 6 low 0: 
+232121
+A<A^A^
+ Parsing delta_code, high 5 low 0: 
+23212
+A<A^A
+ Parsing delta_code, high 4 low 0: 
+2321
+A<A^
+ Parsing delta_code, high 3 low 0: 
+232
+A<A
+ Parsing delta_code, high 2 low 0: 
+23
+A<
+entry from keymap :
+4332
+v<<A
+ Parsing delta_code, high 12 low 1: 
+321211524442
+<A^A^^>AvvvA
+ Parsing delta_code, high 11 low 1: 
+32121152444
+<A^A^^>Avvv
+ Parsing delta_code, high 10 low 1: 
+3212115244
+<A^A^^>Avv
+ Parsing delta_code, high 9 low 1: 
+321211524
+<A^A^^>Av
+ Parsing delta_code, high 8 low 1: 
+32121152
+<A^A^^>A
+ Parsing delta_code, high 7 low 1: 
+3212115
+<A^A^^>
+ Parsing delta_code, high 6 low 1: 
+321211
+<A^A^^
+ Parsing delta_code, high 5 low 1: 
+32121
+<A^A^
+ Parsing delta_code, high 4 low 1: 
+3212
+<A^A
+ Parsing delta_code, high 3 low 1: 
+321
+<A^
+ Parsing delta_code, high 2 low 1: 
+32
+<A
+entry from keymap :
+43325512
+v<<A>>^A
+ Parsing delta_code, high 11 low 2: 
+21211524442
+A^A^^>AvvvA
+ Parsing delta_code, high 10 low 2: 
+2121152444
+A^A^^>Avvv
+ Parsing delta_code, high 9 low 2: 
+212115244
+A^A^^>Avv
+ Parsing delta_code, high 8 low 2: 
+21211524
+A^A^^>Av
+ Parsing delta_code, high 7 low 2: 
+2121152
+A^A^^>A
+ Parsing delta_code, high 6 low 2: 
+212115
+A^A^^>
+ Parsing delta_code, high 5 low 2: 
+21211
+A^A^^
+ Parsing delta_code, high 4 low 2: 
+2121
+A^A^
+ Parsing delta_code, high 3 low 2: 
+212
+A^A
+ Parsing delta_code, high 2 low 2: 
+21
+A^
+entry from keymap :
+4332551232
+v<<A>>^A<A
+ Parsing delta_code, high 10 low 3: 
+1211524442
+^A^^>AvvvA
+ Parsing delta_code, high 9 low 3: 
+121152444
+^A^^>Avvv
+ Parsing delta_code, high 8 low 3: 
+12115244
+^A^^>Avv
+ Parsing delta_code, high 7 low 3: 
+1211524
+^A^^>Av
+ Parsing delta_code, high 6 low 3: 
+121152
+^A^^>A
+ Parsing delta_code, high 5 low 3: 
+12115
+^A^^>
+ Parsing delta_code, high 4 low 3: 
+1211
+^A^^
+ Parsing delta_code, high 3 low 3: 
+121
+^A^
+ Parsing delta_code, high 2 low 3: 
+12
+^A
+entry from keymap :
+433255123252
+v<<A>>^A<A>A
+ Parsing delta_code, high 9 low 4: 
+211524442
+A^^>AvvvA
+ Parsing delta_code, high 8 low 4: 
+21152444
+A^^>Avvv
+ Parsing delta_code, high 7 low 4: 
+2115244
+A^^>Avv
+ Parsing delta_code, high 6 low 4: 
+211524
+A^^>Av
+ Parsing delta_code, high 5 low 4: 
+21152
+A^^>A
+ Parsing delta_code, high 4 low 4: 
+2115
+A^^>
+ Parsing delta_code, high 3 low 4: 
+211
+A^^
+ Parsing delta_code, high 2 low 4: 
+21
+A^
+entry from keymap :
+43325512325232
+v<<A>>^A<A>A<A
+ Parsing delta_code, high 8 low 5: 
+11524442
+^^>AvvvA
+ Parsing delta_code, high 7 low 5: 
+1152444
+^^>Avvv
+ Parsing delta_code, high 6 low 5: 
+115244
+^^>Avv
+ Parsing delta_code, high 5 low 5: 
+11524
+^^>Av
+ Parsing delta_code, high 4 low 5: 
+1152
+^^>A
+ Parsing delta_code, high 3 low 5: 
+115
+^^>
+ Parsing delta_code, high 2 low 5: 
+11
+^^
+entry from keymap :
+433255123252322
+v<<A>>^A<A>A<AA
+ Parsing delta_code, high 7 low 6: 
+1524442
+^>AvvvA
+ Parsing delta_code, high 6 low 6: 
+152444
+^>Avvv
+ Parsing delta_code, high 5 low 6: 
+15244
+^>Avv
+ Parsing delta_code, high 4 low 6: 
+1524
+^>Av
+ Parsing delta_code, high 3 low 6: 
+152
+^>A
+ Parsing delta_code, high 2 low 6: 
+15
+^>
+entry from keymap :
+433255123252322452
+v<<A>>^A<A>A<AAv>A
+ Parsing delta_code, high 6 low 7: 
+524442
+>AvvvA
+ Parsing delta_code, high 5 low 7: 
+52444
+>Avvv
+ Parsing delta_code, high 4 low 7: 
+5244
+>Avv
+ Parsing delta_code, high 3 low 7: 
+524
+>Av
+ Parsing delta_code, high 2 low 7: 
+52
+>A
+entry from keymap :
+43325512325232245212
+v<<A>>^A<A>A<AAv>A^A
+ Parsing delta_code, high 5 low 8: 
+24442
+AvvvA
+ Parsing delta_code, high 4 low 8: 
+2444
+Avvv
+ Parsing delta_code, high 3 low 8: 
+244
+Avv
+ Parsing delta_code, high 2 low 8: 
+24
+Av
+entry from keymap :
+43325512325232245212342
+v<<A>>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 4 low 9: 
+4442
+vvvA
+ Parsing delta_code, high 3 low 9: 
+444
+vvv
+ Parsing delta_code, high 2 low 9: 
+44
+vv
+entry from keymap :
+433255123252322452123422
+v<<A>>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 3 low 10: 
+442
+vvA
+ Parsing delta_code, high 2 low 10: 
+44
+vv
+entry from keymap :
+4332551232523224521234222
+v<<A>>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 2 low 11: 
+42
+vA
+entry from keymap :
+4332551232523224521234222152
+v<<A>>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 1 low 12: 
+2
+A
+4332551232523224521234222152
+v<<A>>^A<A>A<AAv>A^A<vAAA^>A
+Calculating robot # 1
+ Parsing delta_code, high 29 low 0: 
+24332551232523224521234222152
+Av<<A>>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 28 low 0: 
+2433255123252322452123422215
+Av<<A>>^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 27 low 0: 
+243325512325232245212342221
+Av<<A>>^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 26 low 0: 
+24332551232523224521234222
+Av<<A>>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 25 low 0: 
+2433255123252322452123422
+Av<<A>>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 24 low 0: 
+243325512325232245212342
+Av<<A>>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 23 low 0: 
+24332551232523224521234
+Av<<A>>^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 22 low 0: 
+2433255123252322452123
+Av<<A>>^A<A>A<AAv>A^A<
+ Parsing delta_code, high 21 low 0: 
+243325512325232245212
+Av<<A>>^A<A>A<AAv>A^A
+ Parsing delta_code, high 20 low 0: 
+24332551232523224521
+Av<<A>>^A<A>A<AAv>A^
+ Parsing delta_code, high 19 low 0: 
+2433255123252322452
+Av<<A>>^A<A>A<AAv>A
+ Parsing delta_code, high 18 low 0: 
+243325512325232245
+Av<<A>>^A<A>A<AAv>
+ Parsing delta_code, high 17 low 0: 
+24332551232523224
+Av<<A>>^A<A>A<AAv
+ Parsing delta_code, high 16 low 0: 
+2433255123252322
+Av<<A>>^A<A>A<AA
+ Parsing delta_code, high 15 low 0: 
+243325512325232
+Av<<A>>^A<A>A<A
+ Parsing delta_code, high 14 low 0: 
+24332551232523
+Av<<A>>^A<A>A<
+ Parsing delta_code, high 13 low 0: 
+2433255123252
+Av<<A>>^A<A>A
+ Parsing delta_code, high 12 low 0: 
+243325512325
+Av<<A>>^A<A>
+ Parsing delta_code, high 11 low 0: 
+24332551232
+Av<<A>>^A<A
+ Parsing delta_code, high 10 low 0: 
+2433255123
+Av<<A>>^A<
+ Parsing delta_code, high 9 low 0: 
+243325512
+Av<<A>>^A
+ Parsing delta_code, high 8 low 0: 
+24332551
+Av<<A>>^
+ Parsing delta_code, high 7 low 0: 
+2433255
+Av<<A>>
+ Parsing delta_code, high 6 low 0: 
+243325
+Av<<A>
+ Parsing delta_code, high 5 low 0: 
+24332
+Av<<A
+ Parsing delta_code, high 4 low 0: 
+2433
+Av<<
+ Parsing delta_code, high 3 low 0: 
+243
+Av<
+ Parsing delta_code, high 2 low 0: 
+24
+Av
+entry from keymap :
+342
+<vA
+ Parsing delta_code, high 28 low 1: 
+4332551232523224521234222152
+v<<A>>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 27 low 1: 
+433255123252322452123422215
+v<<A>>^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 26 low 1: 
+43325512325232245212342221
+v<<A>>^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 25 low 1: 
+4332551232523224521234222
+v<<A>>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 24 low 1: 
+433255123252322452123422
+v<<A>>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 23 low 1: 
+43325512325232245212342
+v<<A>>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 22 low 1: 
+4332551232523224521234
+v<<A>>^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 21 low 1: 
+433255123252322452123
+v<<A>>^A<A>A<AAv>A^A<
+ Parsing delta_code, high 20 low 1: 
+43325512325232245212
+v<<A>>^A<A>A<AAv>A^A
+ Parsing delta_code, high 19 low 1: 
+4332551232523224521
+v<<A>>^A<A>A<AAv>A^
+ Parsing delta_code, high 18 low 1: 
+433255123252322452
+v<<A>>^A<A>A<AAv>A
+ Parsing delta_code, high 17 low 1: 
+43325512325232245
+v<<A>>^A<A>A<AAv>
+ Parsing delta_code, high 16 low 1: 
+4332551232523224
+v<<A>>^A<A>A<AAv
+ Parsing delta_code, high 15 low 1: 
+433255123252322
+v<<A>>^A<A>A<AA
+ Parsing delta_code, high 14 low 1: 
+43325512325232
+v<<A>>^A<A>A<A
+ Parsing delta_code, high 13 low 1: 
+4332551232523
+v<<A>>^A<A>A<
+ Parsing delta_code, high 12 low 1: 
+433255123252
+v<<A>>^A<A>A
+ Parsing delta_code, high 11 low 1: 
+43325512325
+v<<A>>^A<A>
+ Parsing delta_code, high 10 low 1: 
+4332551232
+v<<A>>^A<A
+ Parsing delta_code, high 9 low 1: 
+433255123
+v<<A>>^A<
+ Parsing delta_code, high 8 low 1: 
+43325512
+v<<A>>^A
+ Parsing delta_code, high 7 low 1: 
+4332551
+v<<A>>^
+ Parsing delta_code, high 6 low 1: 
+433255
+v<<A>>
+ Parsing delta_code, high 5 low 1: 
+43325
+v<<A>
+ Parsing delta_code, high 4 low 1: 
+4332
+v<<A
+ Parsing delta_code, high 3 low 1: 
+433
+v<<
+ Parsing delta_code, high 2 low 1: 
+43
+v<
+entry from keymap :
+34232
+<vA<A
+ Parsing delta_code, high 27 low 2: 
+332551232523224521234222152
+<<A>>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 26 low 2: 
+33255123252322452123422215
+<<A>>^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 25 low 2: 
+3325512325232245212342221
+<<A>>^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 24 low 2: 
+332551232523224521234222
+<<A>>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 23 low 2: 
+33255123252322452123422
+<<A>>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 22 low 2: 
+3325512325232245212342
+<<A>>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 21 low 2: 
+332551232523224521234
+<<A>>^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 20 low 2: 
+33255123252322452123
+<<A>>^A<A>A<AAv>A^A<
+ Parsing delta_code, high 19 low 2: 
+3325512325232245212
+<<A>>^A<A>A<AAv>A^A
+ Parsing delta_code, high 18 low 2: 
+332551232523224521
+<<A>>^A<A>A<AAv>A^
+ Parsing delta_code, high 17 low 2: 
+33255123252322452
+<<A>>^A<A>A<AAv>A
+ Parsing delta_code, high 16 low 2: 
+3325512325232245
+<<A>>^A<A>A<AAv>
+ Parsing delta_code, high 15 low 2: 
+332551232523224
+<<A>>^A<A>A<AAv
+ Parsing delta_code, high 14 low 2: 
+33255123252322
+<<A>>^A<A>A<AA
+ Parsing delta_code, high 13 low 2: 
+3325512325232
+<<A>>^A<A>A<A
+ Parsing delta_code, high 12 low 2: 
+332551232523
+<<A>>^A<A>A<
+ Parsing delta_code, high 11 low 2: 
+33255123252
+<<A>>^A<A>A
+ Parsing delta_code, high 10 low 2: 
+3325512325
+<<A>>^A<A>
+ Parsing delta_code, high 9 low 2: 
+332551232
+<<A>>^A<A
+ Parsing delta_code, high 8 low 2: 
+33255123
+<<A>>^A<
+ Parsing delta_code, high 7 low 2: 
+3325512
+<<A>>^A
+ Parsing delta_code, high 6 low 2: 
+332551
+<<A>>^
+ Parsing delta_code, high 5 low 2: 
+33255
+<<A>>
+ Parsing delta_code, high 4 low 2: 
+3325
+<<A>
+ Parsing delta_code, high 3 low 2: 
+332
+<<A
+ Parsing delta_code, high 2 low 2: 
+33
+<<
+entry from keymap :
+342322
+<vA<AA
+ Parsing delta_code, high 26 low 3: 
+32551232523224521234222152
+<A>>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 25 low 3: 
+3255123252322452123422215
+<A>>^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 24 low 3: 
+325512325232245212342221
+<A>>^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 23 low 3: 
+32551232523224521234222
+<A>>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 22 low 3: 
+3255123252322452123422
+<A>>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 21 low 3: 
+325512325232245212342
+<A>>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 20 low 3: 
+32551232523224521234
+<A>>^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 19 low 3: 
+3255123252322452123
+<A>>^A<A>A<AAv>A^A<
+ Parsing delta_code, high 18 low 3: 
+325512325232245212
+<A>>^A<A>A<AAv>A^A
+ Parsing delta_code, high 17 low 3: 
+32551232523224521
+<A>>^A<A>A<AAv>A^
+ Parsing delta_code, high 16 low 3: 
+3255123252322452
+<A>>^A<A>A<AAv>A
+ Parsing delta_code, high 15 low 3: 
+325512325232245
+<A>>^A<A>A<AAv>
+ Parsing delta_code, high 14 low 3: 
+32551232523224
+<A>>^A<A>A<AAv
+ Parsing delta_code, high 13 low 3: 
+3255123252322
+<A>>^A<A>A<AA
+ Parsing delta_code, high 12 low 3: 
+325512325232
+<A>>^A<A>A<A
+ Parsing delta_code, high 11 low 3: 
+32551232523
+<A>>^A<A>A<
+ Parsing delta_code, high 10 low 3: 
+3255123252
+<A>>^A<A>A
+ Parsing delta_code, high 9 low 3: 
+325512325
+<A>>^A<A>
+ Parsing delta_code, high 8 low 3: 
+32551232
+<A>>^A<A
+ Parsing delta_code, high 7 low 3: 
+3255123
+<A>>^A<
+ Parsing delta_code, high 6 low 3: 
+325512
+<A>>^A
+ Parsing delta_code, high 5 low 3: 
+32551
+<A>>^
+ Parsing delta_code, high 4 low 3: 
+3255
+<A>>
+ Parsing delta_code, high 3 low 3: 
+325
+<A>
+ Parsing delta_code, high 2 low 3: 
+32
+<A
+entry from keymap :
+3423225512
+<vA<AA>>^A
+ Parsing delta_code, high 25 low 4: 
+2551232523224521234222152
+A>>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 24 low 4: 
+255123252322452123422215
+A>>^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 23 low 4: 
+25512325232245212342221
+A>>^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 22 low 4: 
+2551232523224521234222
+A>>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 21 low 4: 
+255123252322452123422
+A>>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 20 low 4: 
+25512325232245212342
+A>>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 19 low 4: 
+2551232523224521234
+A>>^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 18 low 4: 
+255123252322452123
+A>>^A<A>A<AAv>A^A<
+ Parsing delta_code, high 17 low 4: 
+25512325232245212
+A>>^A<A>A<AAv>A^A
+ Parsing delta_code, high 16 low 4: 
+2551232523224521
+A>>^A<A>A<AAv>A^
+ Parsing delta_code, high 15 low 4: 
+255123252322452
+A>>^A<A>A<AAv>A
+ Parsing delta_code, high 14 low 4: 
+25512325232245
+A>>^A<A>A<AAv>
+ Parsing delta_code, high 13 low 4: 
+2551232523224
+A>>^A<A>A<AAv
+ Parsing delta_code, high 12 low 4: 
+255123252322
+A>>^A<A>A<AA
+ Parsing delta_code, high 11 low 4: 
+25512325232
+A>>^A<A>A<A
+ Parsing delta_code, high 10 low 4: 
+2551232523
+A>>^A<A>A<
+ Parsing delta_code, high 9 low 4: 
+255123252
+A>>^A<A>A
+ Parsing delta_code, high 8 low 4: 
+25512325
+A>>^A<A>
+ Parsing delta_code, high 7 low 4: 
+2551232
+A>>^A<A
+ Parsing delta_code, high 6 low 4: 
+255123
+A>>^A<
+ Parsing delta_code, high 5 low 4: 
+25512
+A>>^A
+ Parsing delta_code, high 4 low 4: 
+2551
+A>>^
+ Parsing delta_code, high 3 low 4: 
+255
+A>>
+ Parsing delta_code, high 2 low 4: 
+25
+A>
+entry from keymap :
+342322551242
+<vA<AA>>^AvA
+ Parsing delta_code, high 24 low 5: 
+551232523224521234222152
+>>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 23 low 5: 
+55123252322452123422215
+>>^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 22 low 5: 
+5512325232245212342221
+>>^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 21 low 5: 
+551232523224521234222
+>>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 20 low 5: 
+55123252322452123422
+>>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 19 low 5: 
+5512325232245212342
+>>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 18 low 5: 
+551232523224521234
+>>^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 17 low 5: 
+55123252322452123
+>>^A<A>A<AAv>A^A<
+ Parsing delta_code, high 16 low 5: 
+5512325232245212
+>>^A<A>A<AAv>A^A
+ Parsing delta_code, high 15 low 5: 
+551232523224521
+>>^A<A>A<AAv>A^
+ Parsing delta_code, high 14 low 5: 
+55123252322452
+>>^A<A>A<AAv>A
+ Parsing delta_code, high 13 low 5: 
+5512325232245
+>>^A<A>A<AAv>
+ Parsing delta_code, high 12 low 5: 
+551232523224
+>>^A<A>A<AAv
+ Parsing delta_code, high 11 low 5: 
+55123252322
+>>^A<A>A<AA
+ Parsing delta_code, high 10 low 5: 
+5512325232
+>>^A<A>A<A
+ Parsing delta_code, high 9 low 5: 
+551232523
+>>^A<A>A<
+ Parsing delta_code, high 8 low 5: 
+55123252
+>>^A<A>A
+ Parsing delta_code, high 7 low 5: 
+5512325
+>>^A<A>
+ Parsing delta_code, high 6 low 5: 
+551232
+>>^A<A
+ Parsing delta_code, high 5 low 5: 
+55123
+>>^A<
+ Parsing delta_code, high 4 low 5: 
+5512
+>>^A
+ Parsing delta_code, high 3 low 5: 
+551
+>>^
+ Parsing delta_code, high 2 low 5: 
+55
+>>
+entry from keymap :
+3423225512422
+<vA<AA>>^AvAA
+ Parsing delta_code, high 23 low 6: 
+51232523224521234222152
+>^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 22 low 6: 
+5123252322452123422215
+>^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 21 low 6: 
+512325232245212342221
+>^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 20 low 6: 
+51232523224521234222
+>^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 19 low 6: 
+5123252322452123422
+>^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 18 low 6: 
+512325232245212342
+>^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 17 low 6: 
+51232523224521234
+>^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 16 low 6: 
+5123252322452123
+>^A<A>A<AAv>A^A<
+ Parsing delta_code, high 15 low 6: 
+512325232245212
+>^A<A>A<AAv>A^A
+ Parsing delta_code, high 14 low 6: 
+51232523224521
+>^A<A>A<AAv>A^
+ Parsing delta_code, high 13 low 6: 
+5123252322452
+>^A<A>A<AAv>A
+ Parsing delta_code, high 12 low 6: 
+512325232245
+>^A<A>A<AAv>
+ Parsing delta_code, high 11 low 6: 
+51232523224
+>^A<A>A<AAv
+ Parsing delta_code, high 10 low 6: 
+5123252322
+>^A<A>A<AA
+ Parsing delta_code, high 9 low 6: 
+512325232
+>^A<A>A<A
+ Parsing delta_code, high 8 low 6: 
+51232523
+>^A<A>A<
+ Parsing delta_code, high 7 low 6: 
+5123252
+>^A<A>A
+ Parsing delta_code, high 6 low 6: 
+512325
+>^A<A>
+ Parsing delta_code, high 5 low 6: 
+51232
+>^A<A
+ Parsing delta_code, high 4 low 6: 
+5123
+>^A<
+ Parsing delta_code, high 3 low 6: 
+512
+>^A
+ Parsing delta_code, high 2 low 6: 
+51
+>^
+entry from keymap :
+3423225512422312
+<vA<AA>>^AvAA<^A
+ Parsing delta_code, high 22 low 7: 
+1232523224521234222152
+^A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 21 low 7: 
+123252322452123422215
+^A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 20 low 7: 
+12325232245212342221
+^A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 19 low 7: 
+1232523224521234222
+^A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 18 low 7: 
+123252322452123422
+^A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 17 low 7: 
+12325232245212342
+^A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 16 low 7: 
+1232523224521234
+^A<A>A<AAv>A^A<v
+ Parsing delta_code, high 15 low 7: 
+123252322452123
+^A<A>A<AAv>A^A<
+ Parsing delta_code, high 14 low 7: 
+12325232245212
+^A<A>A<AAv>A^A
+ Parsing delta_code, high 13 low 7: 
+1232523224521
+^A<A>A<AAv>A^
+ Parsing delta_code, high 12 low 7: 
+123252322452
+^A<A>A<AAv>A
+ Parsing delta_code, high 11 low 7: 
+12325232245
+^A<A>A<AAv>
+ Parsing delta_code, high 10 low 7: 
+1232523224
+^A<A>A<AAv
+ Parsing delta_code, high 9 low 7: 
+123252322
+^A<A>A<AA
+ Parsing delta_code, high 8 low 7: 
+12325232
+^A<A>A<A
+ Parsing delta_code, high 7 low 7: 
+1232523
+^A<A>A<
+ Parsing delta_code, high 6 low 7: 
+123252
+^A<A>A
+ Parsing delta_code, high 5 low 7: 
+12325
+^A<A>
+ Parsing delta_code, high 4 low 7: 
+1232
+^A<A
+ Parsing delta_code, high 3 low 7: 
+123
+^A<
+ Parsing delta_code, high 2 low 7: 
+12
+^A
+entry from keymap :
+342322551242231252
+<vA<AA>>^AvAA<^A>A
+ Parsing delta_code, high 21 low 8: 
+232523224521234222152
+A<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 20 low 8: 
+23252322452123422215
+A<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 19 low 8: 
+2325232245212342221
+A<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 18 low 8: 
+232523224521234222
+A<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 17 low 8: 
+23252322452123422
+A<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 16 low 8: 
+2325232245212342
+A<A>A<AAv>A^A<vA
+ Parsing delta_code, high 15 low 8: 
+232523224521234
+A<A>A<AAv>A^A<v
+ Parsing delta_code, high 14 low 8: 
+23252322452123
+A<A>A<AAv>A^A<
+ Parsing delta_code, high 13 low 8: 
+2325232245212
+A<A>A<AAv>A^A
+ Parsing delta_code, high 12 low 8: 
+232523224521
+A<A>A<AAv>A^
+ Parsing delta_code, high 11 low 8: 
+23252322452
+A<A>A<AAv>A
+ Parsing delta_code, high 10 low 8: 
+2325232245
+A<A>A<AAv>
+ Parsing delta_code, high 9 low 8: 
+232523224
+A<A>A<AAv
+ Parsing delta_code, high 8 low 8: 
+23252322
+A<A>A<AA
+ Parsing delta_code, high 7 low 8: 
+2325232
+A<A>A<A
+ Parsing delta_code, high 6 low 8: 
+232523
+A<A>A<
+ Parsing delta_code, high 5 low 8: 
+23252
+A<A>A
+ Parsing delta_code, high 4 low 8: 
+2325
+A<A>
+ Parsing delta_code, high 3 low 8: 
+232
+A<A
+ Parsing delta_code, high 2 low 8: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 20 low 9: 
+32523224521234222152
+<A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 19 low 9: 
+3252322452123422215
+<A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 18 low 9: 
+325232245212342221
+<A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 17 low 9: 
+32523224521234222
+<A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 16 low 9: 
+3252322452123422
+<A>A<AAv>A^A<vAA
+ Parsing delta_code, high 15 low 9: 
+325232245212342
+<A>A<AAv>A^A<vA
+ Parsing delta_code, high 14 low 9: 
+32523224521234
+<A>A<AAv>A^A<v
+ Parsing delta_code, high 13 low 9: 
+3252322452123
+<A>A<AAv>A^A<
+ Parsing delta_code, high 12 low 9: 
+325232245212
+<A>A<AAv>A^A
+ Parsing delta_code, high 11 low 9: 
+32523224521
+<A>A<AAv>A^
+ Parsing delta_code, high 10 low 9: 
+3252322452
+<A>A<AAv>A
+ Parsing delta_code, high 9 low 9: 
+325232245
+<A>A<AAv>
+ Parsing delta_code, high 8 low 9: 
+32523224
+<A>A<AAv
+ Parsing delta_code, high 7 low 9: 
+3252322
+<A>A<AA
+ Parsing delta_code, high 6 low 9: 
+325232
+<A>A<A
+ Parsing delta_code, high 5 low 9: 
+32523
+<A>A<
+ Parsing delta_code, high 4 low 9: 
+3252
+<A>A
+ Parsing delta_code, high 3 low 9: 
+325
+<A>
+ Parsing delta_code, high 2 low 9: 
+32
+<A
+entry from keymap :
+34232255124223125243325512
+<vA<AA>>^AvAA<^A>Av<<A>>^A
+ Parsing delta_code, high 19 low 10: 
+2523224521234222152
+A>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 18 low 10: 
+252322452123422215
+A>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 17 low 10: 
+25232245212342221
+A>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 16 low 10: 
+2523224521234222
+A>A<AAv>A^A<vAAA
+ Parsing delta_code, high 15 low 10: 
+252322452123422
+A>A<AAv>A^A<vAA
+ Parsing delta_code, high 14 low 10: 
+25232245212342
+A>A<AAv>A^A<vA
+ Parsing delta_code, high 13 low 10: 
+2523224521234
+A>A<AAv>A^A<v
+ Parsing delta_code, high 12 low 10: 
+252322452123
+A>A<AAv>A^A<
+ Parsing delta_code, high 11 low 10: 
+25232245212
+A>A<AAv>A^A
+ Parsing delta_code, high 10 low 10: 
+2523224521
+A>A<AAv>A^
+ Parsing delta_code, high 9 low 10: 
+252322452
+A>A<AAv>A
+ Parsing delta_code, high 8 low 10: 
+25232245
+A>A<AAv>
+ Parsing delta_code, high 7 low 10: 
+2523224
+A>A<AAv
+ Parsing delta_code, high 6 low 10: 
+252322
+A>A<AA
+ Parsing delta_code, high 5 low 10: 
+25232
+A>A<A
+ Parsing delta_code, high 4 low 10: 
+2523
+A>A<
+ Parsing delta_code, high 3 low 10: 
+252
+A>A
+ Parsing delta_code, high 2 low 10: 
+25
+A>
+entry from keymap :
+3423225512422312524332551242
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA
+ Parsing delta_code, high 18 low 11: 
+523224521234222152
+>A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 17 low 11: 
+52322452123422215
+>A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 16 low 11: 
+5232245212342221
+>A<AAv>A^A<vAAA^
+ Parsing delta_code, high 15 low 11: 
+523224521234222
+>A<AAv>A^A<vAAA
+ Parsing delta_code, high 14 low 11: 
+52322452123422
+>A<AAv>A^A<vAA
+ Parsing delta_code, high 13 low 11: 
+5232245212342
+>A<AAv>A^A<vA
+ Parsing delta_code, high 12 low 11: 
+523224521234
+>A<AAv>A^A<v
+ Parsing delta_code, high 11 low 11: 
+52322452123
+>A<AAv>A^A<
+ Parsing delta_code, high 10 low 11: 
+5232245212
+>A<AAv>A^A
+ Parsing delta_code, high 9 low 11: 
+523224521
+>A<AAv>A^
+ Parsing delta_code, high 8 low 11: 
+52322452
+>A<AAv>A
+ Parsing delta_code, high 7 low 11: 
+5232245
+>A<AAv>
+ Parsing delta_code, high 6 low 11: 
+523224
+>A<AAv
+ Parsing delta_code, high 5 low 11: 
+52322
+>A<AA
+ Parsing delta_code, high 4 low 11: 
+5232
+>A<A
+ Parsing delta_code, high 3 low 11: 
+523
+>A<
+ Parsing delta_code, high 2 low 11: 
+52
+>A
+entry from keymap :
+342322551242231252433255124212
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^A
+ Parsing delta_code, high 17 low 12: 
+23224521234222152
+A<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 16 low 12: 
+2322452123422215
+A<AAv>A^A<vAAA^>
+ Parsing delta_code, high 15 low 12: 
+232245212342221
+A<AAv>A^A<vAAA^
+ Parsing delta_code, high 14 low 12: 
+23224521234222
+A<AAv>A^A<vAAA
+ Parsing delta_code, high 13 low 12: 
+2322452123422
+A<AAv>A^A<vAA
+ Parsing delta_code, high 12 low 12: 
+232245212342
+A<AAv>A^A<vA
+ Parsing delta_code, high 11 low 12: 
+23224521234
+A<AAv>A^A<v
+ Parsing delta_code, high 10 low 12: 
+2322452123
+A<AAv>A^A<
+ Parsing delta_code, high 9 low 12: 
+232245212
+A<AAv>A^A
+ Parsing delta_code, high 8 low 12: 
+23224521
+A<AAv>A^
+ Parsing delta_code, high 7 low 12: 
+2322452
+A<AAv>A
+ Parsing delta_code, high 6 low 12: 
+232245
+A<AAv>
+ Parsing delta_code, high 5 low 12: 
+23224
+A<AAv
+ Parsing delta_code, high 4 low 12: 
+2322
+A<AA
+ Parsing delta_code, high 3 low 12: 
+232
+A<A
+ Parsing delta_code, high 2 low 12: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 16 low 13: 
+3224521234222152
+<AAv>A^A<vAAA^>A
+ Parsing delta_code, high 15 low 13: 
+322452123422215
+<AAv>A^A<vAAA^>
+ Parsing delta_code, high 14 low 13: 
+32245212342221
+<AAv>A^A<vAAA^
+ Parsing delta_code, high 13 low 13: 
+3224521234222
+<AAv>A^A<vAAA
+ Parsing delta_code, high 12 low 13: 
+322452123422
+<AAv>A^A<vAA
+ Parsing delta_code, high 11 low 13: 
+32245212342
+<AAv>A^A<vA
+ Parsing delta_code, high 10 low 13: 
+3224521234
+<AAv>A^A<v
+ Parsing delta_code, high 9 low 13: 
+322452123
+<AAv>A^A<
+ Parsing delta_code, high 8 low 13: 
+32245212
+<AAv>A^A
+ Parsing delta_code, high 7 low 13: 
+3224521
+<AAv>A^
+ Parsing delta_code, high 6 low 13: 
+322452
+<AAv>A
+ Parsing delta_code, high 5 low 13: 
+32245
+<AAv>
+ Parsing delta_code, high 4 low 13: 
+3224
+<AAv
+ Parsing delta_code, high 3 low 13: 
+322
+<AA
+ Parsing delta_code, high 2 low 13: 
+32
+<A
+entry from keymap :
+34232255124223125243325512421243325512
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^A
+ Parsing delta_code, high 15 low 14: 
+224521234222152
+AAv>A^A<vAAA^>A
+ Parsing delta_code, high 14 low 14: 
+22452123422215
+AAv>A^A<vAAA^>
+ Parsing delta_code, high 13 low 14: 
+2245212342221
+AAv>A^A<vAAA^
+ Parsing delta_code, high 12 low 14: 
+224521234222
+AAv>A^A<vAAA
+ Parsing delta_code, high 11 low 14: 
+22452123422
+AAv>A^A<vAA
+ Parsing delta_code, high 10 low 14: 
+2245212342
+AAv>A^A<vA
+ Parsing delta_code, high 9 low 14: 
+224521234
+AAv>A^A<v
+ Parsing delta_code, high 8 low 14: 
+22452123
+AAv>A^A<
+ Parsing delta_code, high 7 low 14: 
+2245212
+AAv>A^A
+ Parsing delta_code, high 6 low 14: 
+224521
+AAv>A^
+ Parsing delta_code, high 5 low 14: 
+22452
+AAv>A
+ Parsing delta_code, high 4 low 14: 
+2245
+AAv>
+ Parsing delta_code, high 3 low 14: 
+224
+AAv
+ Parsing delta_code, high 2 low 14: 
+22
+AA
+entry from keymap :
+342322551242231252433255124212433255122
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA
+ Parsing delta_code, high 14 low 15: 
+24521234222152
+Av>A^A<vAAA^>A
+ Parsing delta_code, high 13 low 15: 
+2452123422215
+Av>A^A<vAAA^>
+ Parsing delta_code, high 12 low 15: 
+245212342221
+Av>A^A<vAAA^
+ Parsing delta_code, high 11 low 15: 
+24521234222
+Av>A^A<vAAA
+ Parsing delta_code, high 10 low 15: 
+2452123422
+Av>A^A<vAA
+ Parsing delta_code, high 9 low 15: 
+245212342
+Av>A^A<vA
+ Parsing delta_code, high 8 low 15: 
+24521234
+Av>A^A<v
+ Parsing delta_code, high 7 low 15: 
+2452123
+Av>A^A<
+ Parsing delta_code, high 6 low 15: 
+245212
+Av>A^A
+ Parsing delta_code, high 5 low 15: 
+24521
+Av>A^
+ Parsing delta_code, high 4 low 15: 
+2452
+Av>A
+ Parsing delta_code, high 3 low 15: 
+245
+Av>
+ Parsing delta_code, high 2 low 15: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 13 low 16: 
+4521234222152
+v>A^A<vAAA^>A
+ Parsing delta_code, high 12 low 16: 
+452123422215
+v>A^A<vAAA^>
+ Parsing delta_code, high 11 low 16: 
+45212342221
+v>A^A<vAAA^
+ Parsing delta_code, high 10 low 16: 
+4521234222
+v>A^A<vAAA
+ Parsing delta_code, high 9 low 16: 
+452123422
+v>A^A<vAA
+ Parsing delta_code, high 8 low 16: 
+45212342
+v>A^A<vA
+ Parsing delta_code, high 7 low 16: 
+4521234
+v>A^A<v
+ Parsing delta_code, high 6 low 16: 
+452123
+v>A^A<
+ Parsing delta_code, high 5 low 16: 
+45212
+v>A^A
+ Parsing delta_code, high 4 low 16: 
+4521
+v>A^
+ Parsing delta_code, high 3 low 16: 
+452
+v>A
+ Parsing delta_code, high 2 low 16: 
+45
+v>
+entry from keymap :
+34232255124223125243325512421243325512234252
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A
+ Parsing delta_code, high 12 low 17: 
+521234222152
+>A^A<vAAA^>A
+ Parsing delta_code, high 11 low 17: 
+52123422215
+>A^A<vAAA^>
+ Parsing delta_code, high 10 low 17: 
+5212342221
+>A^A<vAAA^
+ Parsing delta_code, high 9 low 17: 
+521234222
+>A^A<vAAA
+ Parsing delta_code, high 8 low 17: 
+52123422
+>A^A<vAA
+ Parsing delta_code, high 7 low 17: 
+5212342
+>A^A<vA
+ Parsing delta_code, high 6 low 17: 
+521234
+>A^A<v
+ Parsing delta_code, high 5 low 17: 
+52123
+>A^A<
+ Parsing delta_code, high 4 low 17: 
+5212
+>A^A
+ Parsing delta_code, high 3 low 17: 
+521
+>A^
+ Parsing delta_code, high 2 low 17: 
+52
+>A
+entry from keymap :
+3423225512422312524332551242124332551223425212
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A
+ Parsing delta_code, high 11 low 18: 
+21234222152
+A^A<vAAA^>A
+ Parsing delta_code, high 10 low 18: 
+2123422215
+A^A<vAAA^>
+ Parsing delta_code, high 9 low 18: 
+212342221
+A^A<vAAA^
+ Parsing delta_code, high 8 low 18: 
+21234222
+A^A<vAAA
+ Parsing delta_code, high 7 low 18: 
+2123422
+A^A<vAA
+ Parsing delta_code, high 6 low 18: 
+212342
+A^A<vA
+ Parsing delta_code, high 5 low 18: 
+21234
+A^A<v
+ Parsing delta_code, high 4 low 18: 
+2123
+A^A<
+ Parsing delta_code, high 3 low 18: 
+212
+A^A
+ Parsing delta_code, high 2 low 18: 
+21
+A^
+entry from keymap :
+342322551242231252433255124212433255122342521232
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A
+ Parsing delta_code, high 10 low 19: 
+1234222152
+^A<vAAA^>A
+ Parsing delta_code, high 9 low 19: 
+123422215
+^A<vAAA^>
+ Parsing delta_code, high 8 low 19: 
+12342221
+^A<vAAA^
+ Parsing delta_code, high 7 low 19: 
+1234222
+^A<vAAA
+ Parsing delta_code, high 6 low 19: 
+123422
+^A<vAA
+ Parsing delta_code, high 5 low 19: 
+12342
+^A<vA
+ Parsing delta_code, high 4 low 19: 
+1234
+^A<v
+ Parsing delta_code, high 3 low 19: 
+123
+^A<
+ Parsing delta_code, high 2 low 19: 
+12
+^A
+entry from keymap :
+34232255124223125243325512421243325512234252123252
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>A
+ Parsing delta_code, high 9 low 20: 
+234222152
+A<vAAA^>A
+ Parsing delta_code, high 8 low 20: 
+23422215
+A<vAAA^>
+ Parsing delta_code, high 7 low 20: 
+2342221
+A<vAAA^
+ Parsing delta_code, high 6 low 20: 
+234222
+A<vAAA
+ Parsing delta_code, high 5 low 20: 
+23422
+A<vAA
+ Parsing delta_code, high 4 low 20: 
+2342
+A<vA
+ Parsing delta_code, high 3 low 20: 
+234
+A<v
+ Parsing delta_code, high 2 low 20: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 8 low 21: 
+34222152
+<vAAA^>A
+ Parsing delta_code, high 7 low 21: 
+3422215
+<vAAA^>
+ Parsing delta_code, high 6 low 21: 
+342221
+<vAAA^
+ Parsing delta_code, high 5 low 21: 
+34222
+<vAAA
+ Parsing delta_code, high 4 low 21: 
+3422
+<vAA
+ Parsing delta_code, high 3 low 21: 
+342
+<vA
+ Parsing delta_code, high 2 low 21: 
+34
+<v
+entry from keymap :
+34232255124223125243325512421243325512234252123252433252
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A
+ Parsing delta_code, high 7 low 22: 
+4222152
+vAAA^>A
+ Parsing delta_code, high 6 low 22: 
+422215
+vAAA^>
+ Parsing delta_code, high 5 low 22: 
+42221
+vAAA^
+ Parsing delta_code, high 4 low 22: 
+4222
+vAAA
+ Parsing delta_code, high 3 low 22: 
+422
+vAA
+ Parsing delta_code, high 2 low 22: 
+42
+vA
+entry from keymap :
+34232255124223125243325512421243325512234252123252433252152
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A^>A
+ Parsing delta_code, high 6 low 23: 
+222152
+AAA^>A
+ Parsing delta_code, high 5 low 23: 
+22215
+AAA^>
+ Parsing delta_code, high 4 low 23: 
+2221
+AAA^
+ Parsing delta_code, high 3 low 23: 
+222
+AAA
+ Parsing delta_code, high 2 low 23: 
+22
+AA
+entry from keymap :
+342322551242231252433255124212433255122342521232524332521522
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A^>AA
+ Parsing delta_code, high 5 low 24: 
+22152
+AA^>A
+ Parsing delta_code, high 4 low 24: 
+2215
+AA^>
+ Parsing delta_code, high 3 low 24: 
+221
+AA^
+ Parsing delta_code, high 2 low 24: 
+22
+AA
+entry from keymap :
+3423225512422312524332551242124332551223425212325243325215222
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A^>AAA
+ Parsing delta_code, high 4 low 25: 
+2152
+A^>A
+ Parsing delta_code, high 3 low 25: 
+215
+A^>
+ Parsing delta_code, high 2 low 25: 
+21
+A^
+entry from keymap :
+342322551242231252433255124212433255122342521232524332521522232
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A^>AAA<A
+ Parsing delta_code, high 3 low 26: 
+152
+^>A
+ Parsing delta_code, high 2 low 26: 
+15
+^>
+entry from keymap :
+342322551242231252433255124212433255122342521232524332521522232452
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A^>AAA<Av>A
+ Parsing delta_code, high 2 low 27: 
+52
+>A
+entry from keymap :
+34232255124223125243325512421243325512234252123252433252152223245212
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A^>AAA<Av>A^A
+ Parsing delta_code, high 1 low 28: 
+2
+A
+34232255124223125243325512421243325512234252123252433252152223245212
+<vA<AA>>^AvAA<^A>Av<<A>>^AvA^Av<<A>>^AA<vA>A^A<A>Av<<A>A^>AAA<Av>A^A
+Number of key presses are: 68
+got x: 0 y: -3 from 11 to 2
+got x: -1 y: 0 from 2 to 1
+got x: 0 y: 3 from 1 to 10
+got x: 1 y: 0 from 10 to 11
+Num seq translated: 
+111232444252
+^^^A<AvvvA>A
+Calculating robot # 0
+ Parsing delta_code, high 13 low 0: 
+2111232444252
+A^^^A<AvvvA>A
+ Parsing delta_code, high 12 low 0: 
+211123244425
+A^^^A<AvvvA>
+ Parsing delta_code, high 11 low 0: 
+21112324442
+A^^^A<AvvvA
+ Parsing delta_code, high 10 low 0: 
+2111232444
+A^^^A<Avvv
+ Parsing delta_code, high 9 low 0: 
+211123244
+A^^^A<Avv
+ Parsing delta_code, high 8 low 0: 
+21112324
+A^^^A<Av
+ Parsing delta_code, high 7 low 0: 
+2111232
+A^^^A<A
+ Parsing delta_code, high 6 low 0: 
+211123
+A^^^A<
+ Parsing delta_code, high 5 low 0: 
+21112
+A^^^A
+ Parsing delta_code, high 4 low 0: 
+2111
+A^^^
+ Parsing delta_code, high 3 low 0: 
+211
+A^^
+ Parsing delta_code, high 2 low 0: 
+21
+A^
+entry from keymap :
+32
+<A
+ Parsing delta_code, high 12 low 1: 
+111232444252
+^^^A<AvvvA>A
+ Parsing delta_code, high 11 low 1: 
+11123244425
+^^^A<AvvvA>
+ Parsing delta_code, high 10 low 1: 
+1112324442
+^^^A<AvvvA
+ Parsing delta_code, high 9 low 1: 
+111232444
+^^^A<Avvv
+ Parsing delta_code, high 8 low 1: 
+11123244
+^^^A<Avv
+ Parsing delta_code, high 7 low 1: 
+1112324
+^^^A<Av
+ Parsing delta_code, high 6 low 1: 
+111232
+^^^A<A
+ Parsing delta_code, high 5 low 1: 
+11123
+^^^A<
+ Parsing delta_code, high 4 low 1: 
+1112
+^^^A
+ Parsing delta_code, high 3 low 1: 
+111
+^^^
+ Parsing delta_code, high 2 low 1: 
+11
+^^
+entry from keymap :
+322
+<AA
+ Parsing delta_code, high 11 low 2: 
+11232444252
+^^A<AvvvA>A
+ Parsing delta_code, high 10 low 2: 
+1123244425
+^^A<AvvvA>
+ Parsing delta_code, high 9 low 2: 
+112324442
+^^A<AvvvA
+ Parsing delta_code, high 8 low 2: 
+11232444
+^^A<Avvv
+ Parsing delta_code, high 7 low 2: 
+1123244
+^^A<Avv
+ Parsing delta_code, high 6 low 2: 
+112324
+^^A<Av
+ Parsing delta_code, high 5 low 2: 
+11232
+^^A<A
+ Parsing delta_code, high 4 low 2: 
+1123
+^^A<
+ Parsing delta_code, high 3 low 2: 
+112
+^^A
+ Parsing delta_code, high 2 low 2: 
+11
+^^
+entry from keymap :
+3222
+<AAA
+ Parsing delta_code, high 10 low 3: 
+1232444252
+^A<AvvvA>A
+ Parsing delta_code, high 9 low 3: 
+123244425
+^A<AvvvA>
+ Parsing delta_code, high 8 low 3: 
+12324442
+^A<AvvvA
+ Parsing delta_code, high 7 low 3: 
+1232444
+^A<Avvv
+ Parsing delta_code, high 6 low 3: 
+123244
+^A<Avv
+ Parsing delta_code, high 5 low 3: 
+12324
+^A<Av
+ Parsing delta_code, high 4 low 3: 
+1232
+^A<A
+ Parsing delta_code, high 3 low 3: 
+123
+^A<
+ Parsing delta_code, high 2 low 3: 
+12
+^A
+entry from keymap :
+322252
+<AAA>A
+ Parsing delta_code, high 9 low 4: 
+232444252
+A<AvvvA>A
+ Parsing delta_code, high 8 low 4: 
+23244425
+A<AvvvA>
+ Parsing delta_code, high 7 low 4: 
+2324442
+A<AvvvA
+ Parsing delta_code, high 6 low 4: 
+232444
+A<Avvv
+ Parsing delta_code, high 5 low 4: 
+23244
+A<Avv
+ Parsing delta_code, high 4 low 4: 
+2324
+A<Av
+ Parsing delta_code, high 3 low 4: 
+232
+A<A
+ Parsing delta_code, high 2 low 4: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 8 low 5: 
+32444252
+<AvvvA>A
+ Parsing delta_code, high 7 low 5: 
+3244425
+<AvvvA>
+ Parsing delta_code, high 6 low 5: 
+324442
+<AvvvA
+ Parsing delta_code, high 5 low 5: 
+32444
+<Avvv
+ Parsing delta_code, high 4 low 5: 
+3244
+<Avv
+ Parsing delta_code, high 3 low 5: 
+324
+<Av
+ Parsing delta_code, high 2 low 5: 
+32
+<A
+entry from keymap :
+32225243325512
+<AAA>Av<<A>>^A
+ Parsing delta_code, high 7 low 6: 
+2444252
+AvvvA>A
+ Parsing delta_code, high 6 low 6: 
+244425
+AvvvA>
+ Parsing delta_code, high 5 low 6: 
+24442
+AvvvA
+ Parsing delta_code, high 4 low 6: 
+2444
+Avvv
+ Parsing delta_code, high 3 low 6: 
+244
+Avv
+ Parsing delta_code, high 2 low 6: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 6 low 7: 
+444252
+vvvA>A
+ Parsing delta_code, high 5 low 7: 
+44425
+vvvA>
+ Parsing delta_code, high 4 low 7: 
+4442
+vvvA
+ Parsing delta_code, high 3 low 7: 
+444
+vvv
+ Parsing delta_code, high 2 low 7: 
+44
+vv
+entry from keymap :
+322252433255123422
+<AAA>Av<<A>>^A<vAA
+ Parsing delta_code, high 5 low 8: 
+44252
+vvA>A
+ Parsing delta_code, high 4 low 8: 
+4425
+vvA>
+ Parsing delta_code, high 3 low 8: 
+442
+vvA
+ Parsing delta_code, high 2 low 8: 
+44
+vv
+entry from keymap :
+3222524332551234222
+<AAA>Av<<A>>^A<vAAA
+ Parsing delta_code, high 4 low 9: 
+4252
+vA>A
+ Parsing delta_code, high 3 low 9: 
+425
+vA>
+ Parsing delta_code, high 2 low 9: 
+42
+vA
+entry from keymap :
+3222524332551234222152
+<AAA>Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 3 low 10: 
+252
+A>A
+ Parsing delta_code, high 2 low 10: 
+25
+A>
+entry from keymap :
+322252433255123422215242
+<AAA>Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 2 low 11: 
+52
+>A
+entry from keymap :
+32225243325512342221524212
+<AAA>Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 1 low 12: 
+2
+A
+32225243325512342221524212
+<AAA>Av<<A>>^A<vAAA^>AvA^A
+Calculating robot # 1
+ Parsing delta_code, high 27 low 0: 
+232225243325512342221524212
+A<AAA>Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 26 low 0: 
+23222524332551234222152421
+A<AAA>Av<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 25 low 0: 
+2322252433255123422215242
+A<AAA>Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 24 low 0: 
+232225243325512342221524
+A<AAA>Av<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 23 low 0: 
+23222524332551234222152
+A<AAA>Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 22 low 0: 
+2322252433255123422215
+A<AAA>Av<<A>>^A<vAAA^>
+ Parsing delta_code, high 21 low 0: 
+232225243325512342221
+A<AAA>Av<<A>>^A<vAAA^
+ Parsing delta_code, high 20 low 0: 
+23222524332551234222
+A<AAA>Av<<A>>^A<vAAA
+ Parsing delta_code, high 19 low 0: 
+2322252433255123422
+A<AAA>Av<<A>>^A<vAA
+ Parsing delta_code, high 18 low 0: 
+232225243325512342
+A<AAA>Av<<A>>^A<vA
+ Parsing delta_code, high 17 low 0: 
+23222524332551234
+A<AAA>Av<<A>>^A<v
+ Parsing delta_code, high 16 low 0: 
+2322252433255123
+A<AAA>Av<<A>>^A<
+ Parsing delta_code, high 15 low 0: 
+232225243325512
+A<AAA>Av<<A>>^A
+ Parsing delta_code, high 14 low 0: 
+23222524332551
+A<AAA>Av<<A>>^
+ Parsing delta_code, high 13 low 0: 
+2322252433255
+A<AAA>Av<<A>>
+ Parsing delta_code, high 12 low 0: 
+232225243325
+A<AAA>Av<<A>
+ Parsing delta_code, high 11 low 0: 
+23222524332
+A<AAA>Av<<A
+ Parsing delta_code, high 10 low 0: 
+2322252433
+A<AAA>Av<<
+ Parsing delta_code, high 9 low 0: 
+232225243
+A<AAA>Av<
+ Parsing delta_code, high 8 low 0: 
+23222524
+A<AAA>Av
+ Parsing delta_code, high 7 low 0: 
+2322252
+A<AAA>A
+ Parsing delta_code, high 6 low 0: 
+232225
+A<AAA>
+ Parsing delta_code, high 5 low 0: 
+23222
+A<AAA
+ Parsing delta_code, high 4 low 0: 
+2322
+A<AA
+ Parsing delta_code, high 3 low 0: 
+232
+A<A
+ Parsing delta_code, high 2 low 0: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 26 low 1: 
+32225243325512342221524212
+<AAA>Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 25 low 1: 
+3222524332551234222152421
+<AAA>Av<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 24 low 1: 
+322252433255123422215242
+<AAA>Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 23 low 1: 
+32225243325512342221524
+<AAA>Av<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 22 low 1: 
+3222524332551234222152
+<AAA>Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 21 low 1: 
+322252433255123422215
+<AAA>Av<<A>>^A<vAAA^>
+ Parsing delta_code, high 20 low 1: 
+32225243325512342221
+<AAA>Av<<A>>^A<vAAA^
+ Parsing delta_code, high 19 low 1: 
+3222524332551234222
+<AAA>Av<<A>>^A<vAAA
+ Parsing delta_code, high 18 low 1: 
+322252433255123422
+<AAA>Av<<A>>^A<vAA
+ Parsing delta_code, high 17 low 1: 
+32225243325512342
+<AAA>Av<<A>>^A<vA
+ Parsing delta_code, high 16 low 1: 
+3222524332551234
+<AAA>Av<<A>>^A<v
+ Parsing delta_code, high 15 low 1: 
+322252433255123
+<AAA>Av<<A>>^A<
+ Parsing delta_code, high 14 low 1: 
+32225243325512
+<AAA>Av<<A>>^A
+ Parsing delta_code, high 13 low 1: 
+3222524332551
+<AAA>Av<<A>>^
+ Parsing delta_code, high 12 low 1: 
+322252433255
+<AAA>Av<<A>>
+ Parsing delta_code, high 11 low 1: 
+32225243325
+<AAA>Av<<A>
+ Parsing delta_code, high 10 low 1: 
+3222524332
+<AAA>Av<<A
+ Parsing delta_code, high 9 low 1: 
+322252433
+<AAA>Av<<
+ Parsing delta_code, high 8 low 1: 
+32225243
+<AAA>Av<
+ Parsing delta_code, high 7 low 1: 
+3222524
+<AAA>Av
+ Parsing delta_code, high 6 low 1: 
+322252
+<AAA>A
+ Parsing delta_code, high 5 low 1: 
+32225
+<AAA>
+ Parsing delta_code, high 4 low 1: 
+3222
+<AAA
+ Parsing delta_code, high 3 low 1: 
+322
+<AA
+ Parsing delta_code, high 2 low 1: 
+32
+<A
+entry from keymap :
+43325512
+v<<A>>^A
+ Parsing delta_code, high 25 low 2: 
+2225243325512342221524212
+AAA>Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 24 low 2: 
+222524332551234222152421
+AAA>Av<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 23 low 2: 
+22252433255123422215242
+AAA>Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 22 low 2: 
+2225243325512342221524
+AAA>Av<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 21 low 2: 
+222524332551234222152
+AAA>Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 20 low 2: 
+22252433255123422215
+AAA>Av<<A>>^A<vAAA^>
+ Parsing delta_code, high 19 low 2: 
+2225243325512342221
+AAA>Av<<A>>^A<vAAA^
+ Parsing delta_code, high 18 low 2: 
+222524332551234222
+AAA>Av<<A>>^A<vAAA
+ Parsing delta_code, high 17 low 2: 
+22252433255123422
+AAA>Av<<A>>^A<vAA
+ Parsing delta_code, high 16 low 2: 
+2225243325512342
+AAA>Av<<A>>^A<vA
+ Parsing delta_code, high 15 low 2: 
+222524332551234
+AAA>Av<<A>>^A<v
+ Parsing delta_code, high 14 low 2: 
+22252433255123
+AAA>Av<<A>>^A<
+ Parsing delta_code, high 13 low 2: 
+2225243325512
+AAA>Av<<A>>^A
+ Parsing delta_code, high 12 low 2: 
+222524332551
+AAA>Av<<A>>^
+ Parsing delta_code, high 11 low 2: 
+22252433255
+AAA>Av<<A>>
+ Parsing delta_code, high 10 low 2: 
+2225243325
+AAA>Av<<A>
+ Parsing delta_code, high 9 low 2: 
+222524332
+AAA>Av<<A
+ Parsing delta_code, high 8 low 2: 
+22252433
+AAA>Av<<
+ Parsing delta_code, high 7 low 2: 
+2225243
+AAA>Av<
+ Parsing delta_code, high 6 low 2: 
+222524
+AAA>Av
+ Parsing delta_code, high 5 low 2: 
+22252
+AAA>A
+ Parsing delta_code, high 4 low 2: 
+2225
+AAA>
+ Parsing delta_code, high 3 low 2: 
+222
+AAA
+ Parsing delta_code, high 2 low 2: 
+22
+AA
+entry from keymap :
+433255122
+v<<A>>^AA
+ Parsing delta_code, high 24 low 3: 
+225243325512342221524212
+AA>Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 23 low 3: 
+22524332551234222152421
+AA>Av<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 22 low 3: 
+2252433255123422215242
+AA>Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 21 low 3: 
+225243325512342221524
+AA>Av<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 20 low 3: 
+22524332551234222152
+AA>Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 19 low 3: 
+2252433255123422215
+AA>Av<<A>>^A<vAAA^>
+ Parsing delta_code, high 18 low 3: 
+225243325512342221
+AA>Av<<A>>^A<vAAA^
+ Parsing delta_code, high 17 low 3: 
+22524332551234222
+AA>Av<<A>>^A<vAAA
+ Parsing delta_code, high 16 low 3: 
+2252433255123422
+AA>Av<<A>>^A<vAA
+ Parsing delta_code, high 15 low 3: 
+225243325512342
+AA>Av<<A>>^A<vA
+ Parsing delta_code, high 14 low 3: 
+22524332551234
+AA>Av<<A>>^A<v
+ Parsing delta_code, high 13 low 3: 
+2252433255123
+AA>Av<<A>>^A<
+ Parsing delta_code, high 12 low 3: 
+225243325512
+AA>Av<<A>>^A
+ Parsing delta_code, high 11 low 3: 
+22524332551
+AA>Av<<A>>^
+ Parsing delta_code, high 10 low 3: 
+2252433255
+AA>Av<<A>>
+ Parsing delta_code, high 9 low 3: 
+225243325
+AA>Av<<A>
+ Parsing delta_code, high 8 low 3: 
+22524332
+AA>Av<<A
+ Parsing delta_code, high 7 low 3: 
+2252433
+AA>Av<<
+ Parsing delta_code, high 6 low 3: 
+225243
+AA>Av<
+ Parsing delta_code, high 5 low 3: 
+22524
+AA>Av
+ Parsing delta_code, high 4 low 3: 
+2252
+AA>A
+ Parsing delta_code, high 3 low 3: 
+225
+AA>
+ Parsing delta_code, high 2 low 3: 
+22
+AA
+entry from keymap :
+4332551222
+v<<A>>^AAA
+ Parsing delta_code, high 23 low 4: 
+25243325512342221524212
+A>Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 22 low 4: 
+2524332551234222152421
+A>Av<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 21 low 4: 
+252433255123422215242
+A>Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 20 low 4: 
+25243325512342221524
+A>Av<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 19 low 4: 
+2524332551234222152
+A>Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 18 low 4: 
+252433255123422215
+A>Av<<A>>^A<vAAA^>
+ Parsing delta_code, high 17 low 4: 
+25243325512342221
+A>Av<<A>>^A<vAAA^
+ Parsing delta_code, high 16 low 4: 
+2524332551234222
+A>Av<<A>>^A<vAAA
+ Parsing delta_code, high 15 low 4: 
+252433255123422
+A>Av<<A>>^A<vAA
+ Parsing delta_code, high 14 low 4: 
+25243325512342
+A>Av<<A>>^A<vA
+ Parsing delta_code, high 13 low 4: 
+2524332551234
+A>Av<<A>>^A<v
+ Parsing delta_code, high 12 low 4: 
+252433255123
+A>Av<<A>>^A<
+ Parsing delta_code, high 11 low 4: 
+25243325512
+A>Av<<A>>^A
+ Parsing delta_code, high 10 low 4: 
+2524332551
+A>Av<<A>>^
+ Parsing delta_code, high 9 low 4: 
+252433255
+A>Av<<A>>
+ Parsing delta_code, high 8 low 4: 
+25243325
+A>Av<<A>
+ Parsing delta_code, high 7 low 4: 
+2524332
+A>Av<<A
+ Parsing delta_code, high 6 low 4: 
+252433
+A>Av<<
+ Parsing delta_code, high 5 low 4: 
+25243
+A>Av<
+ Parsing delta_code, high 4 low 4: 
+2524
+A>Av
+ Parsing delta_code, high 3 low 4: 
+252
+A>A
+ Parsing delta_code, high 2 low 4: 
+25
+A>
+entry from keymap :
+433255122242
+v<<A>>^AAAvA
+ Parsing delta_code, high 22 low 5: 
+5243325512342221524212
+>Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 21 low 5: 
+524332551234222152421
+>Av<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 20 low 5: 
+52433255123422215242
+>Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 19 low 5: 
+5243325512342221524
+>Av<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 18 low 5: 
+524332551234222152
+>Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 17 low 5: 
+52433255123422215
+>Av<<A>>^A<vAAA^>
+ Parsing delta_code, high 16 low 5: 
+5243325512342221
+>Av<<A>>^A<vAAA^
+ Parsing delta_code, high 15 low 5: 
+524332551234222
+>Av<<A>>^A<vAAA
+ Parsing delta_code, high 14 low 5: 
+52433255123422
+>Av<<A>>^A<vAA
+ Parsing delta_code, high 13 low 5: 
+5243325512342
+>Av<<A>>^A<vA
+ Parsing delta_code, high 12 low 5: 
+524332551234
+>Av<<A>>^A<v
+ Parsing delta_code, high 11 low 5: 
+52433255123
+>Av<<A>>^A<
+ Parsing delta_code, high 10 low 5: 
+5243325512
+>Av<<A>>^A
+ Parsing delta_code, high 9 low 5: 
+524332551
+>Av<<A>>^
+ Parsing delta_code, high 8 low 5: 
+52433255
+>Av<<A>>
+ Parsing delta_code, high 7 low 5: 
+5243325
+>Av<<A>
+ Parsing delta_code, high 6 low 5: 
+524332
+>Av<<A
+ Parsing delta_code, high 5 low 5: 
+52433
+>Av<<
+ Parsing delta_code, high 4 low 5: 
+5243
+>Av<
+ Parsing delta_code, high 3 low 5: 
+524
+>Av
+ Parsing delta_code, high 2 low 5: 
+52
+>A
+entry from keymap :
+43325512224212
+v<<A>>^AAAvA^A
+ Parsing delta_code, high 21 low 6: 
+243325512342221524212
+Av<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 20 low 6: 
+24332551234222152421
+Av<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 19 low 6: 
+2433255123422215242
+Av<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 18 low 6: 
+243325512342221524
+Av<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 17 low 6: 
+24332551234222152
+Av<<A>>^A<vAAA^>A
+ Parsing delta_code, high 16 low 6: 
+2433255123422215
+Av<<A>>^A<vAAA^>
+ Parsing delta_code, high 15 low 6: 
+243325512342221
+Av<<A>>^A<vAAA^
+ Parsing delta_code, high 14 low 6: 
+24332551234222
+Av<<A>>^A<vAAA
+ Parsing delta_code, high 13 low 6: 
+2433255123422
+Av<<A>>^A<vAA
+ Parsing delta_code, high 12 low 6: 
+243325512342
+Av<<A>>^A<vA
+ Parsing delta_code, high 11 low 6: 
+24332551234
+Av<<A>>^A<v
+ Parsing delta_code, high 10 low 6: 
+2433255123
+Av<<A>>^A<
+ Parsing delta_code, high 9 low 6: 
+243325512
+Av<<A>>^A
+ Parsing delta_code, high 8 low 6: 
+24332551
+Av<<A>>^
+ Parsing delta_code, high 7 low 6: 
+2433255
+Av<<A>>
+ Parsing delta_code, high 6 low 6: 
+243325
+Av<<A>
+ Parsing delta_code, high 5 low 6: 
+24332
+Av<<A
+ Parsing delta_code, high 4 low 6: 
+2433
+Av<<
+ Parsing delta_code, high 3 low 6: 
+243
+Av<
+ Parsing delta_code, high 2 low 6: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 20 low 7: 
+43325512342221524212
+v<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 19 low 7: 
+4332551234222152421
+v<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 18 low 7: 
+433255123422215242
+v<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 17 low 7: 
+43325512342221524
+v<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 16 low 7: 
+4332551234222152
+v<<A>>^A<vAAA^>A
+ Parsing delta_code, high 15 low 7: 
+433255123422215
+v<<A>>^A<vAAA^>
+ Parsing delta_code, high 14 low 7: 
+43325512342221
+v<<A>>^A<vAAA^
+ Parsing delta_code, high 13 low 7: 
+4332551234222
+v<<A>>^A<vAAA
+ Parsing delta_code, high 12 low 7: 
+433255123422
+v<<A>>^A<vAA
+ Parsing delta_code, high 11 low 7: 
+43325512342
+v<<A>>^A<vA
+ Parsing delta_code, high 10 low 7: 
+4332551234
+v<<A>>^A<v
+ Parsing delta_code, high 9 low 7: 
+433255123
+v<<A>>^A<
+ Parsing delta_code, high 8 low 7: 
+43325512
+v<<A>>^A
+ Parsing delta_code, high 7 low 7: 
+4332551
+v<<A>>^
+ Parsing delta_code, high 6 low 7: 
+433255
+v<<A>>
+ Parsing delta_code, high 5 low 7: 
+43325
+v<<A>
+ Parsing delta_code, high 4 low 7: 
+4332
+v<<A
+ Parsing delta_code, high 3 low 7: 
+433
+v<<
+ Parsing delta_code, high 2 low 7: 
+43
+v<
+entry from keymap :
+4332551222421234232
+v<<A>>^AAAvA^A<vA<A
+ Parsing delta_code, high 19 low 8: 
+3325512342221524212
+<<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 18 low 8: 
+332551234222152421
+<<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 17 low 8: 
+33255123422215242
+<<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 16 low 8: 
+3325512342221524
+<<A>>^A<vAAA^>Av
+ Parsing delta_code, high 15 low 8: 
+332551234222152
+<<A>>^A<vAAA^>A
+ Parsing delta_code, high 14 low 8: 
+33255123422215
+<<A>>^A<vAAA^>
+ Parsing delta_code, high 13 low 8: 
+3325512342221
+<<A>>^A<vAAA^
+ Parsing delta_code, high 12 low 8: 
+332551234222
+<<A>>^A<vAAA
+ Parsing delta_code, high 11 low 8: 
+33255123422
+<<A>>^A<vAA
+ Parsing delta_code, high 10 low 8: 
+3325512342
+<<A>>^A<vA
+ Parsing delta_code, high 9 low 8: 
+332551234
+<<A>>^A<v
+ Parsing delta_code, high 8 low 8: 
+33255123
+<<A>>^A<
+ Parsing delta_code, high 7 low 8: 
+3325512
+<<A>>^A
+ Parsing delta_code, high 6 low 8: 
+332551
+<<A>>^
+ Parsing delta_code, high 5 low 8: 
+33255
+<<A>>
+ Parsing delta_code, high 4 low 8: 
+3325
+<<A>
+ Parsing delta_code, high 3 low 8: 
+332
+<<A
+ Parsing delta_code, high 2 low 8: 
+33
+<<
+entry from keymap :
+43325512224212342322
+v<<A>>^AAAvA^A<vA<AA
+ Parsing delta_code, high 18 low 9: 
+325512342221524212
+<A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 17 low 9: 
+32551234222152421
+<A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 16 low 9: 
+3255123422215242
+<A>>^A<vAAA^>AvA
+ Parsing delta_code, high 15 low 9: 
+325512342221524
+<A>>^A<vAAA^>Av
+ Parsing delta_code, high 14 low 9: 
+32551234222152
+<A>>^A<vAAA^>A
+ Parsing delta_code, high 13 low 9: 
+3255123422215
+<A>>^A<vAAA^>
+ Parsing delta_code, high 12 low 9: 
+325512342221
+<A>>^A<vAAA^
+ Parsing delta_code, high 11 low 9: 
+32551234222
+<A>>^A<vAAA
+ Parsing delta_code, high 10 low 9: 
+3255123422
+<A>>^A<vAA
+ Parsing delta_code, high 9 low 9: 
+325512342
+<A>>^A<vA
+ Parsing delta_code, high 8 low 9: 
+32551234
+<A>>^A<v
+ Parsing delta_code, high 7 low 9: 
+3255123
+<A>>^A<
+ Parsing delta_code, high 6 low 9: 
+325512
+<A>>^A
+ Parsing delta_code, high 5 low 9: 
+32551
+<A>>^
+ Parsing delta_code, high 4 low 9: 
+3255
+<A>>
+ Parsing delta_code, high 3 low 9: 
+325
+<A>
+ Parsing delta_code, high 2 low 9: 
+32
+<A
+entry from keymap :
+433255122242123423225512
+v<<A>>^AAAvA^A<vA<AA>>^A
+ Parsing delta_code, high 17 low 10: 
+25512342221524212
+A>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 16 low 10: 
+2551234222152421
+A>>^A<vAAA^>AvA^
+ Parsing delta_code, high 15 low 10: 
+255123422215242
+A>>^A<vAAA^>AvA
+ Parsing delta_code, high 14 low 10: 
+25512342221524
+A>>^A<vAAA^>Av
+ Parsing delta_code, high 13 low 10: 
+2551234222152
+A>>^A<vAAA^>A
+ Parsing delta_code, high 12 low 10: 
+255123422215
+A>>^A<vAAA^>
+ Parsing delta_code, high 11 low 10: 
+25512342221
+A>>^A<vAAA^
+ Parsing delta_code, high 10 low 10: 
+2551234222
+A>>^A<vAAA
+ Parsing delta_code, high 9 low 10: 
+255123422
+A>>^A<vAA
+ Parsing delta_code, high 8 low 10: 
+25512342
+A>>^A<vA
+ Parsing delta_code, high 7 low 10: 
+2551234
+A>>^A<v
+ Parsing delta_code, high 6 low 10: 
+255123
+A>>^A<
+ Parsing delta_code, high 5 low 10: 
+25512
+A>>^A
+ Parsing delta_code, high 4 low 10: 
+2551
+A>>^
+ Parsing delta_code, high 3 low 10: 
+255
+A>>
+ Parsing delta_code, high 2 low 10: 
+25
+A>
+entry from keymap :
+43325512224212342322551242
+v<<A>>^AAAvA^A<vA<AA>>^AvA
+ Parsing delta_code, high 16 low 11: 
+5512342221524212
+>>^A<vAAA^>AvA^A
+ Parsing delta_code, high 15 low 11: 
+551234222152421
+>>^A<vAAA^>AvA^
+ Parsing delta_code, high 14 low 11: 
+55123422215242
+>>^A<vAAA^>AvA
+ Parsing delta_code, high 13 low 11: 
+5512342221524
+>>^A<vAAA^>Av
+ Parsing delta_code, high 12 low 11: 
+551234222152
+>>^A<vAAA^>A
+ Parsing delta_code, high 11 low 11: 
+55123422215
+>>^A<vAAA^>
+ Parsing delta_code, high 10 low 11: 
+5512342221
+>>^A<vAAA^
+ Parsing delta_code, high 9 low 11: 
+551234222
+>>^A<vAAA
+ Parsing delta_code, high 8 low 11: 
+55123422
+>>^A<vAA
+ Parsing delta_code, high 7 low 11: 
+5512342
+>>^A<vA
+ Parsing delta_code, high 6 low 11: 
+551234
+>>^A<v
+ Parsing delta_code, high 5 low 11: 
+55123
+>>^A<
+ Parsing delta_code, high 4 low 11: 
+5512
+>>^A
+ Parsing delta_code, high 3 low 11: 
+551
+>>^
+ Parsing delta_code, high 2 low 11: 
+55
+>>
+entry from keymap :
+433255122242123423225512422
+v<<A>>^AAAvA^A<vA<AA>>^AvAA
+ Parsing delta_code, high 15 low 12: 
+512342221524212
+>^A<vAAA^>AvA^A
+ Parsing delta_code, high 14 low 12: 
+51234222152421
+>^A<vAAA^>AvA^
+ Parsing delta_code, high 13 low 12: 
+5123422215242
+>^A<vAAA^>AvA
+ Parsing delta_code, high 12 low 12: 
+512342221524
+>^A<vAAA^>Av
+ Parsing delta_code, high 11 low 12: 
+51234222152
+>^A<vAAA^>A
+ Parsing delta_code, high 10 low 12: 
+5123422215
+>^A<vAAA^>
+ Parsing delta_code, high 9 low 12: 
+512342221
+>^A<vAAA^
+ Parsing delta_code, high 8 low 12: 
+51234222
+>^A<vAAA
+ Parsing delta_code, high 7 low 12: 
+5123422
+>^A<vAA
+ Parsing delta_code, high 6 low 12: 
+512342
+>^A<vA
+ Parsing delta_code, high 5 low 12: 
+51234
+>^A<v
+ Parsing delta_code, high 4 low 12: 
+5123
+>^A<
+ Parsing delta_code, high 3 low 12: 
+512
+>^A
+ Parsing delta_code, high 2 low 12: 
+51
+>^
+entry from keymap :
+433255122242123423225512422312
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A
+ Parsing delta_code, high 14 low 13: 
+12342221524212
+^A<vAAA^>AvA^A
+ Parsing delta_code, high 13 low 13: 
+1234222152421
+^A<vAAA^>AvA^
+ Parsing delta_code, high 12 low 13: 
+123422215242
+^A<vAAA^>AvA
+ Parsing delta_code, high 11 low 13: 
+12342221524
+^A<vAAA^>Av
+ Parsing delta_code, high 10 low 13: 
+1234222152
+^A<vAAA^>A
+ Parsing delta_code, high 9 low 13: 
+123422215
+^A<vAAA^>
+ Parsing delta_code, high 8 low 13: 
+12342221
+^A<vAAA^
+ Parsing delta_code, high 7 low 13: 
+1234222
+^A<vAAA
+ Parsing delta_code, high 6 low 13: 
+123422
+^A<vAA
+ Parsing delta_code, high 5 low 13: 
+12342
+^A<vA
+ Parsing delta_code, high 4 low 13: 
+1234
+^A<v
+ Parsing delta_code, high 3 low 13: 
+123
+^A<
+ Parsing delta_code, high 2 low 13: 
+12
+^A
+entry from keymap :
+43325512224212342322551242231252
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>A
+ Parsing delta_code, high 13 low 14: 
+2342221524212
+A<vAAA^>AvA^A
+ Parsing delta_code, high 12 low 14: 
+234222152421
+A<vAAA^>AvA^
+ Parsing delta_code, high 11 low 14: 
+23422215242
+A<vAAA^>AvA
+ Parsing delta_code, high 10 low 14: 
+2342221524
+A<vAAA^>Av
+ Parsing delta_code, high 9 low 14: 
+234222152
+A<vAAA^>A
+ Parsing delta_code, high 8 low 14: 
+23422215
+A<vAAA^>
+ Parsing delta_code, high 7 low 14: 
+2342221
+A<vAAA^
+ Parsing delta_code, high 6 low 14: 
+234222
+A<vAAA
+ Parsing delta_code, high 5 low 14: 
+23422
+A<vAA
+ Parsing delta_code, high 4 low 14: 
+2342
+A<vA
+ Parsing delta_code, high 3 low 14: 
+234
+A<v
+ Parsing delta_code, high 2 low 14: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 12 low 15: 
+342221524212
+<vAAA^>AvA^A
+ Parsing delta_code, high 11 low 15: 
+34222152421
+<vAAA^>AvA^
+ Parsing delta_code, high 10 low 15: 
+3422215242
+<vAAA^>AvA
+ Parsing delta_code, high 9 low 15: 
+342221524
+<vAAA^>Av
+ Parsing delta_code, high 8 low 15: 
+34222152
+<vAAA^>A
+ Parsing delta_code, high 7 low 15: 
+3422215
+<vAAA^>
+ Parsing delta_code, high 6 low 15: 
+342221
+<vAAA^
+ Parsing delta_code, high 5 low 15: 
+34222
+<vAAA
+ Parsing delta_code, high 4 low 15: 
+3422
+<vAA
+ Parsing delta_code, high 3 low 15: 
+342
+<vA
+ Parsing delta_code, high 2 low 15: 
+34
+<v
+entry from keymap :
+43325512224212342322551242231252433252
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A
+ Parsing delta_code, high 11 low 16: 
+42221524212
+vAAA^>AvA^A
+ Parsing delta_code, high 10 low 16: 
+4222152421
+vAAA^>AvA^
+ Parsing delta_code, high 9 low 16: 
+422215242
+vAAA^>AvA
+ Parsing delta_code, high 8 low 16: 
+42221524
+vAAA^>Av
+ Parsing delta_code, high 7 low 16: 
+4222152
+vAAA^>A
+ Parsing delta_code, high 6 low 16: 
+422215
+vAAA^>
+ Parsing delta_code, high 5 low 16: 
+42221
+vAAA^
+ Parsing delta_code, high 4 low 16: 
+4222
+vAAA
+ Parsing delta_code, high 3 low 16: 
+422
+vAA
+ Parsing delta_code, high 2 low 16: 
+42
+vA
+entry from keymap :
+43325512224212342322551242231252433252152
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>A
+ Parsing delta_code, high 10 low 17: 
+2221524212
+AAA^>AvA^A
+ Parsing delta_code, high 9 low 17: 
+222152421
+AAA^>AvA^
+ Parsing delta_code, high 8 low 17: 
+22215242
+AAA^>AvA
+ Parsing delta_code, high 7 low 17: 
+2221524
+AAA^>Av
+ Parsing delta_code, high 6 low 17: 
+222152
+AAA^>A
+ Parsing delta_code, high 5 low 17: 
+22215
+AAA^>
+ Parsing delta_code, high 4 low 17: 
+2221
+AAA^
+ Parsing delta_code, high 3 low 17: 
+222
+AAA
+ Parsing delta_code, high 2 low 17: 
+22
+AA
+entry from keymap :
+433255122242123423225512422312524332521522
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>AA
+ Parsing delta_code, high 9 low 18: 
+221524212
+AA^>AvA^A
+ Parsing delta_code, high 8 low 18: 
+22152421
+AA^>AvA^
+ Parsing delta_code, high 7 low 18: 
+2215242
+AA^>AvA
+ Parsing delta_code, high 6 low 18: 
+221524
+AA^>Av
+ Parsing delta_code, high 5 low 18: 
+22152
+AA^>A
+ Parsing delta_code, high 4 low 18: 
+2215
+AA^>
+ Parsing delta_code, high 3 low 18: 
+221
+AA^
+ Parsing delta_code, high 2 low 18: 
+22
+AA
+entry from keymap :
+4332551222421234232255124223125243325215222
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>AAA
+ Parsing delta_code, high 8 low 19: 
+21524212
+A^>AvA^A
+ Parsing delta_code, high 7 low 19: 
+2152421
+A^>AvA^
+ Parsing delta_code, high 6 low 19: 
+215242
+A^>AvA
+ Parsing delta_code, high 5 low 19: 
+21524
+A^>Av
+ Parsing delta_code, high 4 low 19: 
+2152
+A^>A
+ Parsing delta_code, high 3 low 19: 
+215
+A^>
+ Parsing delta_code, high 2 low 19: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 7 low 20: 
+1524212
+^>AvA^A
+ Parsing delta_code, high 6 low 20: 
+152421
+^>AvA^
+ Parsing delta_code, high 5 low 20: 
+15242
+^>AvA
+ Parsing delta_code, high 4 low 20: 
+1524
+^>Av
+ Parsing delta_code, high 3 low 20: 
+152
+^>A
+ Parsing delta_code, high 2 low 20: 
+15
+^>
+entry from keymap :
+433255122242123423225512422312524332521522232452
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>AAA<Av>A
+ Parsing delta_code, high 6 low 21: 
+524212
+>AvA^A
+ Parsing delta_code, high 5 low 21: 
+52421
+>AvA^
+ Parsing delta_code, high 4 low 21: 
+5242
+>AvA
+ Parsing delta_code, high 3 low 21: 
+524
+>Av
+ Parsing delta_code, high 2 low 21: 
+52
+>A
+entry from keymap :
+43325512224212342322551242231252433252152223245212
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>AAA<Av>A^A
+ Parsing delta_code, high 5 low 22: 
+24212
+AvA^A
+ Parsing delta_code, high 4 low 22: 
+2421
+AvA^
+ Parsing delta_code, high 3 low 22: 
+242
+AvA
+ Parsing delta_code, high 2 low 22: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 4 low 23: 
+4212
+vA^A
+ Parsing delta_code, high 3 low 23: 
+421
+vA^
+ Parsing delta_code, high 2 low 23: 
+42
+vA
+entry from keymap :
+43325512224212342322551242231252433252152223245212342152
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>AAA<Av>A^A<vA^>A
+ Parsing delta_code, high 3 low 24: 
+212
+A^A
+ Parsing delta_code, high 2 low 24: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 2 low 25: 
+12
+^A
+entry from keymap :
+433255122242123423225512422312524332521522232452123421523252
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>AAA<Av>A^A<vA^>A<A>A
+ Parsing delta_code, high 1 low 26: 
+2
+A
+433255122242123423225512422312524332521522232452123421523252
+v<<A>>^AAAvA^A<vA<AA>>^AvAA<^A>Av<<A>A^>AAA<Av>A^A<vA^>A<A>A
+Number of key presses are: 60
+got x: -2 y: -1 from 11 to 6
+got x: 0 y: -2 from 6 to 0
+got x: 2 y: 0 from 0 to 2
+got x: 0 y: 3 from 2 to 11
+Num seq translated: 
+43321125524442
+v<<A^^A>>AvvvA
+Calculating robot # 0
+ Parsing delta_code, high 15 low 0: 
+243321125524442
+Av<<A^^A>>AvvvA
+ Parsing delta_code, high 14 low 0: 
+24332112552444
+Av<<A^^A>>Avvv
+ Parsing delta_code, high 13 low 0: 
+2433211255244
+Av<<A^^A>>Avv
+ Parsing delta_code, high 12 low 0: 
+243321125524
+Av<<A^^A>>Av
+ Parsing delta_code, high 11 low 0: 
+24332112552
+Av<<A^^A>>A
+ Parsing delta_code, high 10 low 0: 
+2433211255
+Av<<A^^A>>
+ Parsing delta_code, high 9 low 0: 
+243321125
+Av<<A^^A>
+ Parsing delta_code, high 8 low 0: 
+24332112
+Av<<A^^A
+ Parsing delta_code, high 7 low 0: 
+2433211
+Av<<A^^
+ Parsing delta_code, high 6 low 0: 
+243321
+Av<<A^
+ Parsing delta_code, high 5 low 0: 
+24332
+Av<<A
+ Parsing delta_code, high 4 low 0: 
+2433
+Av<<
+ Parsing delta_code, high 3 low 0: 
+243
+Av<
+ Parsing delta_code, high 2 low 0: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 14 low 1: 
+43321125524442
+v<<A^^A>>AvvvA
+ Parsing delta_code, high 13 low 1: 
+4332112552444
+v<<A^^A>>Avvv
+ Parsing delta_code, high 12 low 1: 
+433211255244
+v<<A^^A>>Avv
+ Parsing delta_code, high 11 low 1: 
+43321125524
+v<<A^^A>>Av
+ Parsing delta_code, high 10 low 1: 
+4332112552
+v<<A^^A>>A
+ Parsing delta_code, high 9 low 1: 
+433211255
+v<<A^^A>>
+ Parsing delta_code, high 8 low 1: 
+43321125
+v<<A^^A>
+ Parsing delta_code, high 7 low 1: 
+4332112
+v<<A^^A
+ Parsing delta_code, high 6 low 1: 
+433211
+v<<A^^
+ Parsing delta_code, high 5 low 1: 
+43321
+v<<A^
+ Parsing delta_code, high 4 low 1: 
+4332
+v<<A
+ Parsing delta_code, high 3 low 1: 
+433
+v<<
+ Parsing delta_code, high 2 low 1: 
+43
+v<
+entry from keymap :
+34232
+<vA<A
+ Parsing delta_code, high 13 low 2: 
+3321125524442
+<<A^^A>>AvvvA
+ Parsing delta_code, high 12 low 2: 
+332112552444
+<<A^^A>>Avvv
+ Parsing delta_code, high 11 low 2: 
+33211255244
+<<A^^A>>Avv
+ Parsing delta_code, high 10 low 2: 
+3321125524
+<<A^^A>>Av
+ Parsing delta_code, high 9 low 2: 
+332112552
+<<A^^A>>A
+ Parsing delta_code, high 8 low 2: 
+33211255
+<<A^^A>>
+ Parsing delta_code, high 7 low 2: 
+3321125
+<<A^^A>
+ Parsing delta_code, high 6 low 2: 
+332112
+<<A^^A
+ Parsing delta_code, high 5 low 2: 
+33211
+<<A^^
+ Parsing delta_code, high 4 low 2: 
+3321
+<<A^
+ Parsing delta_code, high 3 low 2: 
+332
+<<A
+ Parsing delta_code, high 2 low 2: 
+33
+<<
+entry from keymap :
+342322
+<vA<AA
+ Parsing delta_code, high 12 low 3: 
+321125524442
+<A^^A>>AvvvA
+ Parsing delta_code, high 11 low 3: 
+32112552444
+<A^^A>>Avvv
+ Parsing delta_code, high 10 low 3: 
+3211255244
+<A^^A>>Avv
+ Parsing delta_code, high 9 low 3: 
+321125524
+<A^^A>>Av
+ Parsing delta_code, high 8 low 3: 
+32112552
+<A^^A>>A
+ Parsing delta_code, high 7 low 3: 
+3211255
+<A^^A>>
+ Parsing delta_code, high 6 low 3: 
+321125
+<A^^A>
+ Parsing delta_code, high 5 low 3: 
+32112
+<A^^A
+ Parsing delta_code, high 4 low 3: 
+3211
+<A^^
+ Parsing delta_code, high 3 low 3: 
+321
+<A^
+ Parsing delta_code, high 2 low 3: 
+32
+<A
+entry from keymap :
+3423225512
+<vA<AA>>^A
+ Parsing delta_code, high 11 low 4: 
+21125524442
+A^^A>>AvvvA
+ Parsing delta_code, high 10 low 4: 
+2112552444
+A^^A>>Avvv
+ Parsing delta_code, high 9 low 4: 
+211255244
+A^^A>>Avv
+ Parsing delta_code, high 8 low 4: 
+21125524
+A^^A>>Av
+ Parsing delta_code, high 7 low 4: 
+2112552
+A^^A>>A
+ Parsing delta_code, high 6 low 4: 
+211255
+A^^A>>
+ Parsing delta_code, high 5 low 4: 
+21125
+A^^A>
+ Parsing delta_code, high 4 low 4: 
+2112
+A^^A
+ Parsing delta_code, high 3 low 4: 
+211
+A^^
+ Parsing delta_code, high 2 low 4: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 10 low 5: 
+1125524442
+^^A>>AvvvA
+ Parsing delta_code, high 9 low 5: 
+112552444
+^^A>>Avvv
+ Parsing delta_code, high 8 low 5: 
+11255244
+^^A>>Avv
+ Parsing delta_code, high 7 low 5: 
+1125524
+^^A>>Av
+ Parsing delta_code, high 6 low 5: 
+112552
+^^A>>A
+ Parsing delta_code, high 5 low 5: 
+11255
+^^A>>
+ Parsing delta_code, high 4 low 5: 
+1125
+^^A>
+ Parsing delta_code, high 3 low 5: 
+112
+^^A
+ Parsing delta_code, high 2 low 5: 
+11
+^^
+entry from keymap :
+3423225512322
+<vA<AA>>^A<AA
+ Parsing delta_code, high 9 low 6: 
+125524442
+^A>>AvvvA
+ Parsing delta_code, high 8 low 6: 
+12552444
+^A>>Avvv
+ Parsing delta_code, high 7 low 6: 
+1255244
+^A>>Avv
+ Parsing delta_code, high 6 low 6: 
+125524
+^A>>Av
+ Parsing delta_code, high 5 low 6: 
+12552
+^A>>A
+ Parsing delta_code, high 4 low 6: 
+1255
+^A>>
+ Parsing delta_code, high 3 low 6: 
+125
+^A>
+ Parsing delta_code, high 2 low 6: 
+12
+^A
+entry from keymap :
+342322551232252
+<vA<AA>>^A<AA>A
+ Parsing delta_code, high 8 low 7: 
+25524442
+A>>AvvvA
+ Parsing delta_code, high 7 low 7: 
+2552444
+A>>Avvv
+ Parsing delta_code, high 6 low 7: 
+255244
+A>>Avv
+ Parsing delta_code, high 5 low 7: 
+25524
+A>>Av
+ Parsing delta_code, high 4 low 7: 
+2552
+A>>A
+ Parsing delta_code, high 3 low 7: 
+255
+A>>
+ Parsing delta_code, high 2 low 7: 
+25
+A>
+entry from keymap :
+34232255123225242
+<vA<AA>>^A<AA>AvA
+ Parsing delta_code, high 7 low 8: 
+5524442
+>>AvvvA
+ Parsing delta_code, high 6 low 8: 
+552444
+>>Avvv
+ Parsing delta_code, high 5 low 8: 
+55244
+>>Avv
+ Parsing delta_code, high 4 low 8: 
+5524
+>>Av
+ Parsing delta_code, high 3 low 8: 
+552
+>>A
+ Parsing delta_code, high 2 low 8: 
+55
+>>
+entry from keymap :
+342322551232252422
+<vA<AA>>^A<AA>AvAA
+ Parsing delta_code, high 6 low 9: 
+524442
+>AvvvA
+ Parsing delta_code, high 5 low 9: 
+52444
+>Avvv
+ Parsing delta_code, high 4 low 9: 
+5244
+>Avv
+ Parsing delta_code, high 3 low 9: 
+524
+>Av
+ Parsing delta_code, high 2 low 9: 
+52
+>A
+entry from keymap :
+34232255123225242212
+<vA<AA>>^A<AA>AvAA^A
+ Parsing delta_code, high 5 low 10: 
+24442
+AvvvA
+ Parsing delta_code, high 4 low 10: 
+2444
+Avvv
+ Parsing delta_code, high 3 low 10: 
+244
+Avv
+ Parsing delta_code, high 2 low 10: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 4 low 11: 
+4442
+vvvA
+ Parsing delta_code, high 3 low 11: 
+444
+vvv
+ Parsing delta_code, high 2 low 11: 
+44
+vv
+entry from keymap :
+342322551232252422123422
+<vA<AA>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 3 low 12: 
+442
+vvA
+ Parsing delta_code, high 2 low 12: 
+44
+vv
+entry from keymap :
+3423225512322524221234222
+<vA<AA>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 2 low 13: 
+42
+vA
+entry from keymap :
+3423225512322524221234222152
+<vA<AA>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 1 low 14: 
+2
+A
+3423225512322524221234222152
+<vA<AA>>^A<AA>AvAA^A<vAAA^>A
+Calculating robot # 1
+ Parsing delta_code, high 29 low 0: 
+23423225512322524221234222152
+A<vA<AA>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 28 low 0: 
+2342322551232252422123422215
+A<vA<AA>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 27 low 0: 
+234232255123225242212342221
+A<vA<AA>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 26 low 0: 
+23423225512322524221234222
+A<vA<AA>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 25 low 0: 
+2342322551232252422123422
+A<vA<AA>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 24 low 0: 
+234232255123225242212342
+A<vA<AA>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 23 low 0: 
+23423225512322524221234
+A<vA<AA>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 22 low 0: 
+2342322551232252422123
+A<vA<AA>>^A<AA>AvAA^A<
+ Parsing delta_code, high 21 low 0: 
+234232255123225242212
+A<vA<AA>>^A<AA>AvAA^A
+ Parsing delta_code, high 20 low 0: 
+23423225512322524221
+A<vA<AA>>^A<AA>AvAA^
+ Parsing delta_code, high 19 low 0: 
+2342322551232252422
+A<vA<AA>>^A<AA>AvAA
+ Parsing delta_code, high 18 low 0: 
+234232255123225242
+A<vA<AA>>^A<AA>AvA
+ Parsing delta_code, high 17 low 0: 
+23423225512322524
+A<vA<AA>>^A<AA>Av
+ Parsing delta_code, high 16 low 0: 
+2342322551232252
+A<vA<AA>>^A<AA>A
+ Parsing delta_code, high 15 low 0: 
+234232255123225
+A<vA<AA>>^A<AA>
+ Parsing delta_code, high 14 low 0: 
+23423225512322
+A<vA<AA>>^A<AA
+ Parsing delta_code, high 13 low 0: 
+2342322551232
+A<vA<AA>>^A<A
+ Parsing delta_code, high 12 low 0: 
+234232255123
+A<vA<AA>>^A<
+ Parsing delta_code, high 11 low 0: 
+23423225512
+A<vA<AA>>^A
+ Parsing delta_code, high 10 low 0: 
+2342322551
+A<vA<AA>>^
+ Parsing delta_code, high 9 low 0: 
+234232255
+A<vA<AA>>
+ Parsing delta_code, high 8 low 0: 
+23423225
+A<vA<AA>
+ Parsing delta_code, high 7 low 0: 
+2342322
+A<vA<AA
+ Parsing delta_code, high 6 low 0: 
+234232
+A<vA<A
+ Parsing delta_code, high 5 low 0: 
+23423
+A<vA<
+ Parsing delta_code, high 4 low 0: 
+2342
+A<vA
+ Parsing delta_code, high 3 low 0: 
+234
+A<v
+ Parsing delta_code, high 2 low 0: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 28 low 1: 
+3423225512322524221234222152
+<vA<AA>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 27 low 1: 
+342322551232252422123422215
+<vA<AA>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 26 low 1: 
+34232255123225242212342221
+<vA<AA>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 25 low 1: 
+3423225512322524221234222
+<vA<AA>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 24 low 1: 
+342322551232252422123422
+<vA<AA>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 23 low 1: 
+34232255123225242212342
+<vA<AA>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 22 low 1: 
+3423225512322524221234
+<vA<AA>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 21 low 1: 
+342322551232252422123
+<vA<AA>>^A<AA>AvAA^A<
+ Parsing delta_code, high 20 low 1: 
+34232255123225242212
+<vA<AA>>^A<AA>AvAA^A
+ Parsing delta_code, high 19 low 1: 
+3423225512322524221
+<vA<AA>>^A<AA>AvAA^
+ Parsing delta_code, high 18 low 1: 
+342322551232252422
+<vA<AA>>^A<AA>AvAA
+ Parsing delta_code, high 17 low 1: 
+34232255123225242
+<vA<AA>>^A<AA>AvA
+ Parsing delta_code, high 16 low 1: 
+3423225512322524
+<vA<AA>>^A<AA>Av
+ Parsing delta_code, high 15 low 1: 
+342322551232252
+<vA<AA>>^A<AA>A
+ Parsing delta_code, high 14 low 1: 
+34232255123225
+<vA<AA>>^A<AA>
+ Parsing delta_code, high 13 low 1: 
+3423225512322
+<vA<AA>>^A<AA
+ Parsing delta_code, high 12 low 1: 
+342322551232
+<vA<AA>>^A<A
+ Parsing delta_code, high 11 low 1: 
+34232255123
+<vA<AA>>^A<
+ Parsing delta_code, high 10 low 1: 
+3423225512
+<vA<AA>>^A
+ Parsing delta_code, high 9 low 1: 
+342322551
+<vA<AA>>^
+ Parsing delta_code, high 8 low 1: 
+34232255
+<vA<AA>>
+ Parsing delta_code, high 7 low 1: 
+3423225
+<vA<AA>
+ Parsing delta_code, high 6 low 1: 
+342322
+<vA<AA
+ Parsing delta_code, high 5 low 1: 
+34232
+<vA<A
+ Parsing delta_code, high 4 low 1: 
+3423
+<vA<
+ Parsing delta_code, high 3 low 1: 
+342
+<vA
+ Parsing delta_code, high 2 low 1: 
+34
+<v
+entry from keymap :
+433252
+v<<A>A
+ Parsing delta_code, high 27 low 2: 
+423225512322524221234222152
+vA<AA>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 26 low 2: 
+42322551232252422123422215
+vA<AA>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 25 low 2: 
+4232255123225242212342221
+vA<AA>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 24 low 2: 
+423225512322524221234222
+vA<AA>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 23 low 2: 
+42322551232252422123422
+vA<AA>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 22 low 2: 
+4232255123225242212342
+vA<AA>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 21 low 2: 
+423225512322524221234
+vA<AA>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 20 low 2: 
+42322551232252422123
+vA<AA>>^A<AA>AvAA^A<
+ Parsing delta_code, high 19 low 2: 
+4232255123225242212
+vA<AA>>^A<AA>AvAA^A
+ Parsing delta_code, high 18 low 2: 
+423225512322524221
+vA<AA>>^A<AA>AvAA^
+ Parsing delta_code, high 17 low 2: 
+42322551232252422
+vA<AA>>^A<AA>AvAA
+ Parsing delta_code, high 16 low 2: 
+4232255123225242
+vA<AA>>^A<AA>AvA
+ Parsing delta_code, high 15 low 2: 
+423225512322524
+vA<AA>>^A<AA>Av
+ Parsing delta_code, high 14 low 2: 
+42322551232252
+vA<AA>>^A<AA>A
+ Parsing delta_code, high 13 low 2: 
+4232255123225
+vA<AA>>^A<AA>
+ Parsing delta_code, high 12 low 2: 
+423225512322
+vA<AA>>^A<AA
+ Parsing delta_code, high 11 low 2: 
+42322551232
+vA<AA>>^A<A
+ Parsing delta_code, high 10 low 2: 
+4232255123
+vA<AA>>^A<
+ Parsing delta_code, high 9 low 2: 
+423225512
+vA<AA>>^A
+ Parsing delta_code, high 8 low 2: 
+42322551
+vA<AA>>^
+ Parsing delta_code, high 7 low 2: 
+4232255
+vA<AA>>
+ Parsing delta_code, high 6 low 2: 
+423225
+vA<AA>
+ Parsing delta_code, high 5 low 2: 
+42322
+vA<AA
+ Parsing delta_code, high 4 low 2: 
+4232
+vA<A
+ Parsing delta_code, high 3 low 2: 
+423
+vA<
+ Parsing delta_code, high 2 low 2: 
+42
+vA
+entry from keymap :
+433252152
+v<<A>A^>A
+ Parsing delta_code, high 26 low 3: 
+23225512322524221234222152
+A<AA>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 25 low 3: 
+2322551232252422123422215
+A<AA>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 24 low 3: 
+232255123225242212342221
+A<AA>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 23 low 3: 
+23225512322524221234222
+A<AA>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 22 low 3: 
+2322551232252422123422
+A<AA>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 21 low 3: 
+232255123225242212342
+A<AA>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 20 low 3: 
+23225512322524221234
+A<AA>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 19 low 3: 
+2322551232252422123
+A<AA>>^A<AA>AvAA^A<
+ Parsing delta_code, high 18 low 3: 
+232255123225242212
+A<AA>>^A<AA>AvAA^A
+ Parsing delta_code, high 17 low 3: 
+23225512322524221
+A<AA>>^A<AA>AvAA^
+ Parsing delta_code, high 16 low 3: 
+2322551232252422
+A<AA>>^A<AA>AvAA
+ Parsing delta_code, high 15 low 3: 
+232255123225242
+A<AA>>^A<AA>AvA
+ Parsing delta_code, high 14 low 3: 
+23225512322524
+A<AA>>^A<AA>Av
+ Parsing delta_code, high 13 low 3: 
+2322551232252
+A<AA>>^A<AA>A
+ Parsing delta_code, high 12 low 3: 
+232255123225
+A<AA>>^A<AA>
+ Parsing delta_code, high 11 low 3: 
+23225512322
+A<AA>>^A<AA
+ Parsing delta_code, high 10 low 3: 
+2322551232
+A<AA>>^A<A
+ Parsing delta_code, high 9 low 3: 
+232255123
+A<AA>>^A<
+ Parsing delta_code, high 8 low 3: 
+23225512
+A<AA>>^A
+ Parsing delta_code, high 7 low 3: 
+2322551
+A<AA>>^
+ Parsing delta_code, high 6 low 3: 
+232255
+A<AA>>
+ Parsing delta_code, high 5 low 3: 
+23225
+A<AA>
+ Parsing delta_code, high 4 low 3: 
+2322
+A<AA
+ Parsing delta_code, high 3 low 3: 
+232
+A<A
+ Parsing delta_code, high 2 low 3: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 25 low 4: 
+3225512322524221234222152
+<AA>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 24 low 4: 
+322551232252422123422215
+<AA>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 23 low 4: 
+32255123225242212342221
+<AA>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 22 low 4: 
+3225512322524221234222
+<AA>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 21 low 4: 
+322551232252422123422
+<AA>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 20 low 4: 
+32255123225242212342
+<AA>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 19 low 4: 
+3225512322524221234
+<AA>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 18 low 4: 
+322551232252422123
+<AA>>^A<AA>AvAA^A<
+ Parsing delta_code, high 17 low 4: 
+32255123225242212
+<AA>>^A<AA>AvAA^A
+ Parsing delta_code, high 16 low 4: 
+3225512322524221
+<AA>>^A<AA>AvAA^
+ Parsing delta_code, high 15 low 4: 
+322551232252422
+<AA>>^A<AA>AvAA
+ Parsing delta_code, high 14 low 4: 
+32255123225242
+<AA>>^A<AA>AvA
+ Parsing delta_code, high 13 low 4: 
+3225512322524
+<AA>>^A<AA>Av
+ Parsing delta_code, high 12 low 4: 
+322551232252
+<AA>>^A<AA>A
+ Parsing delta_code, high 11 low 4: 
+32255123225
+<AA>>^A<AA>
+ Parsing delta_code, high 10 low 4: 
+3225512322
+<AA>>^A<AA
+ Parsing delta_code, high 9 low 4: 
+322551232
+<AA>>^A<A
+ Parsing delta_code, high 8 low 4: 
+32255123
+<AA>>^A<
+ Parsing delta_code, high 7 low 4: 
+3225512
+<AA>>^A
+ Parsing delta_code, high 6 low 4: 
+322551
+<AA>>^
+ Parsing delta_code, high 5 low 4: 
+32255
+<AA>>
+ Parsing delta_code, high 4 low 4: 
+3225
+<AA>
+ Parsing delta_code, high 3 low 4: 
+322
+<AA
+ Parsing delta_code, high 2 low 4: 
+32
+<A
+entry from keymap :
+43325215243325512
+v<<A>A^>Av<<A>>^A
+ Parsing delta_code, high 24 low 5: 
+225512322524221234222152
+AA>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 23 low 5: 
+22551232252422123422215
+AA>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 22 low 5: 
+2255123225242212342221
+AA>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 21 low 5: 
+225512322524221234222
+AA>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 20 low 5: 
+22551232252422123422
+AA>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 19 low 5: 
+2255123225242212342
+AA>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 18 low 5: 
+225512322524221234
+AA>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 17 low 5: 
+22551232252422123
+AA>>^A<AA>AvAA^A<
+ Parsing delta_code, high 16 low 5: 
+2255123225242212
+AA>>^A<AA>AvAA^A
+ Parsing delta_code, high 15 low 5: 
+225512322524221
+AA>>^A<AA>AvAA^
+ Parsing delta_code, high 14 low 5: 
+22551232252422
+AA>>^A<AA>AvAA
+ Parsing delta_code, high 13 low 5: 
+2255123225242
+AA>>^A<AA>AvA
+ Parsing delta_code, high 12 low 5: 
+225512322524
+AA>>^A<AA>Av
+ Parsing delta_code, high 11 low 5: 
+22551232252
+AA>>^A<AA>A
+ Parsing delta_code, high 10 low 5: 
+2255123225
+AA>>^A<AA>
+ Parsing delta_code, high 9 low 5: 
+225512322
+AA>>^A<AA
+ Parsing delta_code, high 8 low 5: 
+22551232
+AA>>^A<A
+ Parsing delta_code, high 7 low 5: 
+2255123
+AA>>^A<
+ Parsing delta_code, high 6 low 5: 
+225512
+AA>>^A
+ Parsing delta_code, high 5 low 5: 
+22551
+AA>>^
+ Parsing delta_code, high 4 low 5: 
+2255
+AA>>
+ Parsing delta_code, high 3 low 5: 
+225
+AA>
+ Parsing delta_code, high 2 low 5: 
+22
+AA
+entry from keymap :
+433252152433255122
+v<<A>A^>Av<<A>>^AA
+ Parsing delta_code, high 23 low 6: 
+25512322524221234222152
+A>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 22 low 6: 
+2551232252422123422215
+A>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 21 low 6: 
+255123225242212342221
+A>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 20 low 6: 
+25512322524221234222
+A>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 19 low 6: 
+2551232252422123422
+A>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 18 low 6: 
+255123225242212342
+A>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 17 low 6: 
+25512322524221234
+A>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 16 low 6: 
+2551232252422123
+A>>^A<AA>AvAA^A<
+ Parsing delta_code, high 15 low 6: 
+255123225242212
+A>>^A<AA>AvAA^A
+ Parsing delta_code, high 14 low 6: 
+25512322524221
+A>>^A<AA>AvAA^
+ Parsing delta_code, high 13 low 6: 
+2551232252422
+A>>^A<AA>AvAA
+ Parsing delta_code, high 12 low 6: 
+255123225242
+A>>^A<AA>AvA
+ Parsing delta_code, high 11 low 6: 
+25512322524
+A>>^A<AA>Av
+ Parsing delta_code, high 10 low 6: 
+2551232252
+A>>^A<AA>A
+ Parsing delta_code, high 9 low 6: 
+255123225
+A>>^A<AA>
+ Parsing delta_code, high 8 low 6: 
+25512322
+A>>^A<AA
+ Parsing delta_code, high 7 low 6: 
+2551232
+A>>^A<A
+ Parsing delta_code, high 6 low 6: 
+255123
+A>>^A<
+ Parsing delta_code, high 5 low 6: 
+25512
+A>>^A
+ Parsing delta_code, high 4 low 6: 
+2551
+A>>^
+ Parsing delta_code, high 3 low 6: 
+255
+A>>
+ Parsing delta_code, high 2 low 6: 
+25
+A>
+entry from keymap :
+43325215243325512242
+v<<A>A^>Av<<A>>^AAvA
+ Parsing delta_code, high 22 low 7: 
+5512322524221234222152
+>>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 21 low 7: 
+551232252422123422215
+>>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 20 low 7: 
+55123225242212342221
+>>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 19 low 7: 
+5512322524221234222
+>>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 18 low 7: 
+551232252422123422
+>>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 17 low 7: 
+55123225242212342
+>>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 16 low 7: 
+5512322524221234
+>>^A<AA>AvAA^A<v
+ Parsing delta_code, high 15 low 7: 
+551232252422123
+>>^A<AA>AvAA^A<
+ Parsing delta_code, high 14 low 7: 
+55123225242212
+>>^A<AA>AvAA^A
+ Parsing delta_code, high 13 low 7: 
+5512322524221
+>>^A<AA>AvAA^
+ Parsing delta_code, high 12 low 7: 
+551232252422
+>>^A<AA>AvAA
+ Parsing delta_code, high 11 low 7: 
+55123225242
+>>^A<AA>AvA
+ Parsing delta_code, high 10 low 7: 
+5512322524
+>>^A<AA>Av
+ Parsing delta_code, high 9 low 7: 
+551232252
+>>^A<AA>A
+ Parsing delta_code, high 8 low 7: 
+55123225
+>>^A<AA>
+ Parsing delta_code, high 7 low 7: 
+5512322
+>>^A<AA
+ Parsing delta_code, high 6 low 7: 
+551232
+>>^A<A
+ Parsing delta_code, high 5 low 7: 
+55123
+>>^A<
+ Parsing delta_code, high 4 low 7: 
+5512
+>>^A
+ Parsing delta_code, high 3 low 7: 
+551
+>>^
+ Parsing delta_code, high 2 low 7: 
+55
+>>
+entry from keymap :
+433252152433255122422
+v<<A>A^>Av<<A>>^AAvAA
+ Parsing delta_code, high 21 low 8: 
+512322524221234222152
+>^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 20 low 8: 
+51232252422123422215
+>^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 19 low 8: 
+5123225242212342221
+>^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 18 low 8: 
+512322524221234222
+>^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 17 low 8: 
+51232252422123422
+>^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 16 low 8: 
+5123225242212342
+>^A<AA>AvAA^A<vA
+ Parsing delta_code, high 15 low 8: 
+512322524221234
+>^A<AA>AvAA^A<v
+ Parsing delta_code, high 14 low 8: 
+51232252422123
+>^A<AA>AvAA^A<
+ Parsing delta_code, high 13 low 8: 
+5123225242212
+>^A<AA>AvAA^A
+ Parsing delta_code, high 12 low 8: 
+512322524221
+>^A<AA>AvAA^
+ Parsing delta_code, high 11 low 8: 
+51232252422
+>^A<AA>AvAA
+ Parsing delta_code, high 10 low 8: 
+5123225242
+>^A<AA>AvA
+ Parsing delta_code, high 9 low 8: 
+512322524
+>^A<AA>Av
+ Parsing delta_code, high 8 low 8: 
+51232252
+>^A<AA>A
+ Parsing delta_code, high 7 low 8: 
+5123225
+>^A<AA>
+ Parsing delta_code, high 6 low 8: 
+512322
+>^A<AA
+ Parsing delta_code, high 5 low 8: 
+51232
+>^A<A
+ Parsing delta_code, high 4 low 8: 
+5123
+>^A<
+ Parsing delta_code, high 3 low 8: 
+512
+>^A
+ Parsing delta_code, high 2 low 8: 
+51
+>^
+entry from keymap :
+433252152433255122422312
+v<<A>A^>Av<<A>>^AAvAA<^A
+ Parsing delta_code, high 20 low 9: 
+12322524221234222152
+^A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 19 low 9: 
+1232252422123422215
+^A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 18 low 9: 
+123225242212342221
+^A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 17 low 9: 
+12322524221234222
+^A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 16 low 9: 
+1232252422123422
+^A<AA>AvAA^A<vAA
+ Parsing delta_code, high 15 low 9: 
+123225242212342
+^A<AA>AvAA^A<vA
+ Parsing delta_code, high 14 low 9: 
+12322524221234
+^A<AA>AvAA^A<v
+ Parsing delta_code, high 13 low 9: 
+1232252422123
+^A<AA>AvAA^A<
+ Parsing delta_code, high 12 low 9: 
+123225242212
+^A<AA>AvAA^A
+ Parsing delta_code, high 11 low 9: 
+12322524221
+^A<AA>AvAA^
+ Parsing delta_code, high 10 low 9: 
+1232252422
+^A<AA>AvAA
+ Parsing delta_code, high 9 low 9: 
+123225242
+^A<AA>AvA
+ Parsing delta_code, high 8 low 9: 
+12322524
+^A<AA>Av
+ Parsing delta_code, high 7 low 9: 
+1232252
+^A<AA>A
+ Parsing delta_code, high 6 low 9: 
+123225
+^A<AA>
+ Parsing delta_code, high 5 low 9: 
+12322
+^A<AA
+ Parsing delta_code, high 4 low 9: 
+1232
+^A<A
+ Parsing delta_code, high 3 low 9: 
+123
+^A<
+ Parsing delta_code, high 2 low 9: 
+12
+^A
+entry from keymap :
+43325215243325512242231252
+v<<A>A^>Av<<A>>^AAvAA<^A>A
+ Parsing delta_code, high 19 low 10: 
+2322524221234222152
+A<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 18 low 10: 
+232252422123422215
+A<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 17 low 10: 
+23225242212342221
+A<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 16 low 10: 
+2322524221234222
+A<AA>AvAA^A<vAAA
+ Parsing delta_code, high 15 low 10: 
+232252422123422
+A<AA>AvAA^A<vAA
+ Parsing delta_code, high 14 low 10: 
+23225242212342
+A<AA>AvAA^A<vA
+ Parsing delta_code, high 13 low 10: 
+2322524221234
+A<AA>AvAA^A<v
+ Parsing delta_code, high 12 low 10: 
+232252422123
+A<AA>AvAA^A<
+ Parsing delta_code, high 11 low 10: 
+23225242212
+A<AA>AvAA^A
+ Parsing delta_code, high 10 low 10: 
+2322524221
+A<AA>AvAA^
+ Parsing delta_code, high 9 low 10: 
+232252422
+A<AA>AvAA
+ Parsing delta_code, high 8 low 10: 
+23225242
+A<AA>AvA
+ Parsing delta_code, high 7 low 10: 
+2322524
+A<AA>Av
+ Parsing delta_code, high 6 low 10: 
+232252
+A<AA>A
+ Parsing delta_code, high 5 low 10: 
+23225
+A<AA>
+ Parsing delta_code, high 4 low 10: 
+2322
+A<AA
+ Parsing delta_code, high 3 low 10: 
+232
+A<A
+ Parsing delta_code, high 2 low 10: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 18 low 11: 
+322524221234222152
+<AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 17 low 11: 
+32252422123422215
+<AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 16 low 11: 
+3225242212342221
+<AA>AvAA^A<vAAA^
+ Parsing delta_code, high 15 low 11: 
+322524221234222
+<AA>AvAA^A<vAAA
+ Parsing delta_code, high 14 low 11: 
+32252422123422
+<AA>AvAA^A<vAA
+ Parsing delta_code, high 13 low 11: 
+3225242212342
+<AA>AvAA^A<vA
+ Parsing delta_code, high 12 low 11: 
+322524221234
+<AA>AvAA^A<v
+ Parsing delta_code, high 11 low 11: 
+32252422123
+<AA>AvAA^A<
+ Parsing delta_code, high 10 low 11: 
+3225242212
+<AA>AvAA^A
+ Parsing delta_code, high 9 low 11: 
+322524221
+<AA>AvAA^
+ Parsing delta_code, high 8 low 11: 
+32252422
+<AA>AvAA
+ Parsing delta_code, high 7 low 11: 
+3225242
+<AA>AvA
+ Parsing delta_code, high 6 low 11: 
+322524
+<AA>Av
+ Parsing delta_code, high 5 low 11: 
+32252
+<AA>A
+ Parsing delta_code, high 4 low 11: 
+3225
+<AA>
+ Parsing delta_code, high 3 low 11: 
+322
+<AA
+ Parsing delta_code, high 2 low 11: 
+32
+<A
+entry from keymap :
+4332521524332551224223125243325512
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^A
+ Parsing delta_code, high 17 low 12: 
+22524221234222152
+AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 16 low 12: 
+2252422123422215
+AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 15 low 12: 
+225242212342221
+AA>AvAA^A<vAAA^
+ Parsing delta_code, high 14 low 12: 
+22524221234222
+AA>AvAA^A<vAAA
+ Parsing delta_code, high 13 low 12: 
+2252422123422
+AA>AvAA^A<vAA
+ Parsing delta_code, high 12 low 12: 
+225242212342
+AA>AvAA^A<vA
+ Parsing delta_code, high 11 low 12: 
+22524221234
+AA>AvAA^A<v
+ Parsing delta_code, high 10 low 12: 
+2252422123
+AA>AvAA^A<
+ Parsing delta_code, high 9 low 12: 
+225242212
+AA>AvAA^A
+ Parsing delta_code, high 8 low 12: 
+22524221
+AA>AvAA^
+ Parsing delta_code, high 7 low 12: 
+2252422
+AA>AvAA
+ Parsing delta_code, high 6 low 12: 
+225242
+AA>AvA
+ Parsing delta_code, high 5 low 12: 
+22524
+AA>Av
+ Parsing delta_code, high 4 low 12: 
+2252
+AA>A
+ Parsing delta_code, high 3 low 12: 
+225
+AA>
+ Parsing delta_code, high 2 low 12: 
+22
+AA
+entry from keymap :
+43325215243325512242231252433255122
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AA
+ Parsing delta_code, high 16 low 13: 
+2524221234222152
+A>AvAA^A<vAAA^>A
+ Parsing delta_code, high 15 low 13: 
+252422123422215
+A>AvAA^A<vAAA^>
+ Parsing delta_code, high 14 low 13: 
+25242212342221
+A>AvAA^A<vAAA^
+ Parsing delta_code, high 13 low 13: 
+2524221234222
+A>AvAA^A<vAAA
+ Parsing delta_code, high 12 low 13: 
+252422123422
+A>AvAA^A<vAA
+ Parsing delta_code, high 11 low 13: 
+25242212342
+A>AvAA^A<vA
+ Parsing delta_code, high 10 low 13: 
+2524221234
+A>AvAA^A<v
+ Parsing delta_code, high 9 low 13: 
+252422123
+A>AvAA^A<
+ Parsing delta_code, high 8 low 13: 
+25242212
+A>AvAA^A
+ Parsing delta_code, high 7 low 13: 
+2524221
+A>AvAA^
+ Parsing delta_code, high 6 low 13: 
+252422
+A>AvAA
+ Parsing delta_code, high 5 low 13: 
+25242
+A>AvA
+ Parsing delta_code, high 4 low 13: 
+2524
+A>Av
+ Parsing delta_code, high 3 low 13: 
+252
+A>A
+ Parsing delta_code, high 2 low 13: 
+25
+A>
+entry from keymap :
+4332521524332551224223125243325512242
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA
+ Parsing delta_code, high 15 low 14: 
+524221234222152
+>AvAA^A<vAAA^>A
+ Parsing delta_code, high 14 low 14: 
+52422123422215
+>AvAA^A<vAAA^>
+ Parsing delta_code, high 13 low 14: 
+5242212342221
+>AvAA^A<vAAA^
+ Parsing delta_code, high 12 low 14: 
+524221234222
+>AvAA^A<vAAA
+ Parsing delta_code, high 11 low 14: 
+52422123422
+>AvAA^A<vAA
+ Parsing delta_code, high 10 low 14: 
+5242212342
+>AvAA^A<vA
+ Parsing delta_code, high 9 low 14: 
+524221234
+>AvAA^A<v
+ Parsing delta_code, high 8 low 14: 
+52422123
+>AvAA^A<
+ Parsing delta_code, high 7 low 14: 
+5242212
+>AvAA^A
+ Parsing delta_code, high 6 low 14: 
+524221
+>AvAA^
+ Parsing delta_code, high 5 low 14: 
+52422
+>AvAA
+ Parsing delta_code, high 4 low 14: 
+5242
+>AvA
+ Parsing delta_code, high 3 low 14: 
+524
+>Av
+ Parsing delta_code, high 2 low 14: 
+52
+>A
+entry from keymap :
+433252152433255122422312524332551224212
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A
+ Parsing delta_code, high 14 low 15: 
+24221234222152
+AvAA^A<vAAA^>A
+ Parsing delta_code, high 13 low 15: 
+2422123422215
+AvAA^A<vAAA^>
+ Parsing delta_code, high 12 low 15: 
+242212342221
+AvAA^A<vAAA^
+ Parsing delta_code, high 11 low 15: 
+24221234222
+AvAA^A<vAAA
+ Parsing delta_code, high 10 low 15: 
+2422123422
+AvAA^A<vAA
+ Parsing delta_code, high 9 low 15: 
+242212342
+AvAA^A<vA
+ Parsing delta_code, high 8 low 15: 
+24221234
+AvAA^A<v
+ Parsing delta_code, high 7 low 15: 
+2422123
+AvAA^A<
+ Parsing delta_code, high 6 low 15: 
+242212
+AvAA^A
+ Parsing delta_code, high 5 low 15: 
+24221
+AvAA^
+ Parsing delta_code, high 4 low 15: 
+2422
+AvAA
+ Parsing delta_code, high 3 low 15: 
+242
+AvA
+ Parsing delta_code, high 2 low 15: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 13 low 16: 
+4221234222152
+vAA^A<vAAA^>A
+ Parsing delta_code, high 12 low 16: 
+422123422215
+vAA^A<vAAA^>
+ Parsing delta_code, high 11 low 16: 
+42212342221
+vAA^A<vAAA^
+ Parsing delta_code, high 10 low 16: 
+4221234222
+vAA^A<vAAA
+ Parsing delta_code, high 9 low 16: 
+422123422
+vAA^A<vAA
+ Parsing delta_code, high 8 low 16: 
+42212342
+vAA^A<vA
+ Parsing delta_code, high 7 low 16: 
+4221234
+vAA^A<v
+ Parsing delta_code, high 6 low 16: 
+422123
+vAA^A<
+ Parsing delta_code, high 5 low 16: 
+42212
+vAA^A
+ Parsing delta_code, high 4 low 16: 
+4221
+vAA^
+ Parsing delta_code, high 3 low 16: 
+422
+vAA
+ Parsing delta_code, high 2 low 16: 
+42
+vA
+entry from keymap :
+433252152433255122422312524332551224212342152
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>A
+ Parsing delta_code, high 12 low 17: 
+221234222152
+AA^A<vAAA^>A
+ Parsing delta_code, high 11 low 17: 
+22123422215
+AA^A<vAAA^>
+ Parsing delta_code, high 10 low 17: 
+2212342221
+AA^A<vAAA^
+ Parsing delta_code, high 9 low 17: 
+221234222
+AA^A<vAAA
+ Parsing delta_code, high 8 low 17: 
+22123422
+AA^A<vAA
+ Parsing delta_code, high 7 low 17: 
+2212342
+AA^A<vA
+ Parsing delta_code, high 6 low 17: 
+221234
+AA^A<v
+ Parsing delta_code, high 5 low 17: 
+22123
+AA^A<
+ Parsing delta_code, high 4 low 17: 
+2212
+AA^A
+ Parsing delta_code, high 3 low 17: 
+221
+AA^
+ Parsing delta_code, high 2 low 17: 
+22
+AA
+entry from keymap :
+4332521524332551224223125243325512242123421522
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA
+ Parsing delta_code, high 11 low 18: 
+21234222152
+A^A<vAAA^>A
+ Parsing delta_code, high 10 low 18: 
+2123422215
+A^A<vAAA^>
+ Parsing delta_code, high 9 low 18: 
+212342221
+A^A<vAAA^
+ Parsing delta_code, high 8 low 18: 
+21234222
+A^A<vAAA
+ Parsing delta_code, high 7 low 18: 
+2123422
+A^A<vAA
+ Parsing delta_code, high 6 low 18: 
+212342
+A^A<vA
+ Parsing delta_code, high 5 low 18: 
+21234
+A^A<v
+ Parsing delta_code, high 4 low 18: 
+2123
+A^A<
+ Parsing delta_code, high 3 low 18: 
+212
+A^A
+ Parsing delta_code, high 2 low 18: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 10 low 19: 
+1234222152
+^A<vAAA^>A
+ Parsing delta_code, high 9 low 19: 
+123422215
+^A<vAAA^>
+ Parsing delta_code, high 8 low 19: 
+12342221
+^A<vAAA^
+ Parsing delta_code, high 7 low 19: 
+1234222
+^A<vAAA
+ Parsing delta_code, high 6 low 19: 
+123422
+^A<vAA
+ Parsing delta_code, high 5 low 19: 
+12342
+^A<vA
+ Parsing delta_code, high 4 low 19: 
+1234
+^A<v
+ Parsing delta_code, high 3 low 19: 
+123
+^A<
+ Parsing delta_code, high 2 low 19: 
+12
+^A
+entry from keymap :
+43325215243325512242231252433255122421234215223252
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>A
+ Parsing delta_code, high 9 low 20: 
+234222152
+A<vAAA^>A
+ Parsing delta_code, high 8 low 20: 
+23422215
+A<vAAA^>
+ Parsing delta_code, high 7 low 20: 
+2342221
+A<vAAA^
+ Parsing delta_code, high 6 low 20: 
+234222
+A<vAAA
+ Parsing delta_code, high 5 low 20: 
+23422
+A<vAA
+ Parsing delta_code, high 4 low 20: 
+2342
+A<vA
+ Parsing delta_code, high 3 low 20: 
+234
+A<v
+ Parsing delta_code, high 2 low 20: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 8 low 21: 
+34222152
+<vAAA^>A
+ Parsing delta_code, high 7 low 21: 
+3422215
+<vAAA^>
+ Parsing delta_code, high 6 low 21: 
+342221
+<vAAA^
+ Parsing delta_code, high 5 low 21: 
+34222
+<vAAA
+ Parsing delta_code, high 4 low 21: 
+3422
+<vAA
+ Parsing delta_code, high 3 low 21: 
+342
+<vA
+ Parsing delta_code, high 2 low 21: 
+34
+<v
+entry from keymap :
+43325215243325512242231252433255122421234215223252433252
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>Av<<A>A
+ Parsing delta_code, high 7 low 22: 
+4222152
+vAAA^>A
+ Parsing delta_code, high 6 low 22: 
+422215
+vAAA^>
+ Parsing delta_code, high 5 low 22: 
+42221
+vAAA^
+ Parsing delta_code, high 4 low 22: 
+4222
+vAAA
+ Parsing delta_code, high 3 low 22: 
+422
+vAA
+ Parsing delta_code, high 2 low 22: 
+42
+vA
+entry from keymap :
+43325215243325512242231252433255122421234215223252433252152
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>Av<<A>A^>A
+ Parsing delta_code, high 6 low 23: 
+222152
+AAA^>A
+ Parsing delta_code, high 5 low 23: 
+22215
+AAA^>
+ Parsing delta_code, high 4 low 23: 
+2221
+AAA^
+ Parsing delta_code, high 3 low 23: 
+222
+AAA
+ Parsing delta_code, high 2 low 23: 
+22
+AA
+entry from keymap :
+433252152433255122422312524332551224212342152232524332521522
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>Av<<A>A^>AA
+ Parsing delta_code, high 5 low 24: 
+22152
+AA^>A
+ Parsing delta_code, high 4 low 24: 
+2215
+AA^>
+ Parsing delta_code, high 3 low 24: 
+221
+AA^
+ Parsing delta_code, high 2 low 24: 
+22
+AA
+entry from keymap :
+4332521524332551224223125243325512242123421522325243325215222
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>Av<<A>A^>AAA
+ Parsing delta_code, high 4 low 25: 
+2152
+A^>A
+ Parsing delta_code, high 3 low 25: 
+215
+A^>
+ Parsing delta_code, high 2 low 25: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 3 low 26: 
+152
+^>A
+ Parsing delta_code, high 2 low 26: 
+15
+^>
+entry from keymap :
+433252152433255122422312524332551224212342152232524332521522232452
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>Av<<A>A^>AAA<Av>A
+ Parsing delta_code, high 2 low 27: 
+52
+>A
+entry from keymap :
+43325215243325512242231252433255122421234215223252433252152223245212
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>Av<<A>A^>AAA<Av>A^A
+ Parsing delta_code, high 1 low 28: 
+2
+A
+43325215243325512242231252433255122421234215223252433252152223245212
+v<<A>A^>Av<<A>>^AAvAA<^A>Av<<A>>^AAvA^A<vA^>AA<A>Av<<A>A^>AAA<Av>A^A
+Number of key presses are: 68
+got x: -2 y: -2 from 11 to 3
+got x: 1 y: 0 from 3 to 4
+got x: 1 y: 0 from 4 to 5
+got x: 0 y: 2 from 5 to 11
+Num seq translated: 
+443325252442
+vv<<A>A>AvvA
+Calculating robot # 0
+ Parsing delta_code, high 13 low 0: 
+2443325252442
+Avv<<A>A>AvvA
+ Parsing delta_code, high 12 low 0: 
+244332525244
+Avv<<A>A>Avv
+ Parsing delta_code, high 11 low 0: 
+24433252524
+Avv<<A>A>Av
+ Parsing delta_code, high 10 low 0: 
+2443325252
+Avv<<A>A>A
+ Parsing delta_code, high 9 low 0: 
+244332525
+Avv<<A>A>
+ Parsing delta_code, high 8 low 0: 
+24433252
+Avv<<A>A
+ Parsing delta_code, high 7 low 0: 
+2443325
+Avv<<A>
+ Parsing delta_code, high 6 low 0: 
+244332
+Avv<<A
+ Parsing delta_code, high 5 low 0: 
+24433
+Avv<<
+ Parsing delta_code, high 4 low 0: 
+2443
+Avv<
+Match in key_map[delta_code]: 34232
+<vA<A
+ Parsing delta_code, high 10 low 3: 
+3325252442
+<<A>A>AvvA
+ Parsing delta_code, high 9 low 3: 
+332525244
+<<A>A>Avv
+ Parsing delta_code, high 8 low 3: 
+33252524
+<<A>A>Av
+ Parsing delta_code, high 7 low 3: 
+3325252
+<<A>A>A
+ Parsing delta_code, high 6 low 3: 
+332525
+<<A>A>
+ Parsing delta_code, high 5 low 3: 
+33252
+<<A>A
+ Parsing delta_code, high 4 low 3: 
+3325
+<<A>
+ Parsing delta_code, high 3 low 3: 
+332
+<<A
+ Parsing delta_code, high 2 low 3: 
+33
+<<
+entry from keymap :
+342322
+<vA<AA
+ Parsing delta_code, high 9 low 4: 
+325252442
+<A>A>AvvA
+ Parsing delta_code, high 8 low 4: 
+32525244
+<A>A>Avv
+ Parsing delta_code, high 7 low 4: 
+3252524
+<A>A>Av
+ Parsing delta_code, high 6 low 4: 
+325252
+<A>A>A
+ Parsing delta_code, high 5 low 4: 
+32525
+<A>A>
+ Parsing delta_code, high 4 low 4: 
+3252
+<A>A
+ Parsing delta_code, high 3 low 4: 
+325
+<A>
+ Parsing delta_code, high 2 low 4: 
+32
+<A
+entry from keymap :
+3423225512
+<vA<AA>>^A
+ Parsing delta_code, high 8 low 5: 
+25252442
+A>A>AvvA
+ Parsing delta_code, high 7 low 5: 
+2525244
+A>A>Avv
+ Parsing delta_code, high 6 low 5: 
+252524
+A>A>Av
+ Parsing delta_code, high 5 low 5: 
+25252
+A>A>A
+ Parsing delta_code, high 4 low 5: 
+2525
+A>A>
+ Parsing delta_code, high 3 low 5: 
+252
+A>A
+ Parsing delta_code, high 2 low 5: 
+25
+A>
+entry from keymap :
+342322551242
+<vA<AA>>^AvA
+ Parsing delta_code, high 7 low 6: 
+5252442
+>A>AvvA
+ Parsing delta_code, high 6 low 6: 
+525244
+>A>Avv
+ Parsing delta_code, high 5 low 6: 
+52524
+>A>Av
+ Parsing delta_code, high 4 low 6: 
+5252
+>A>A
+ Parsing delta_code, high 3 low 6: 
+525
+>A>
+ Parsing delta_code, high 2 low 6: 
+52
+>A
+entry from keymap :
+34232255124212
+<vA<AA>>^AvA^A
+ Parsing delta_code, high 6 low 7: 
+252442
+A>AvvA
+ Parsing delta_code, high 5 low 7: 
+25244
+A>Avv
+ Parsing delta_code, high 4 low 7: 
+2524
+A>Av
+ Parsing delta_code, high 3 low 7: 
+252
+A>A
+ Parsing delta_code, high 2 low 7: 
+25
+A>
+entry from keymap :
+3423225512421242
+<vA<AA>>^AvA^AvA
+ Parsing delta_code, high 5 low 8: 
+52442
+>AvvA
+ Parsing delta_code, high 4 low 8: 
+5244
+>Avv
+ Parsing delta_code, high 3 low 8: 
+524
+>Av
+ Parsing delta_code, high 2 low 8: 
+52
+>A
+entry from keymap :
+342322551242124212
+<vA<AA>>^AvA^AvA^A
+ Parsing delta_code, high 4 low 9: 
+2442
+AvvA
+ Parsing delta_code, high 3 low 9: 
+244
+Avv
+ Parsing delta_code, high 2 low 9: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 3 low 10: 
+442
+vvA
+ Parsing delta_code, high 2 low 10: 
+44
+vv
+entry from keymap :
+3423225512421242123422
+<vA<AA>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 2 low 11: 
+42
+vA
+entry from keymap :
+3423225512421242123422152
+<vA<AA>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 1 low 12: 
+2
+A
+3423225512421242123422152
+<vA<AA>>^AvA^AvA^A<vAA^>A
+Calculating robot # 1
+ Parsing delta_code, high 26 low 0: 
+23423225512421242123422152
+A<vA<AA>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 25 low 0: 
+2342322551242124212342215
+A<vA<AA>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 24 low 0: 
+234232255124212421234221
+A<vA<AA>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 23 low 0: 
+23423225512421242123422
+A<vA<AA>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 22 low 0: 
+2342322551242124212342
+A<vA<AA>>^AvA^AvA^A<vA
+ Parsing delta_code, high 21 low 0: 
+234232255124212421234
+A<vA<AA>>^AvA^AvA^A<v
+ Parsing delta_code, high 20 low 0: 
+23423225512421242123
+A<vA<AA>>^AvA^AvA^A<
+ Parsing delta_code, high 19 low 0: 
+2342322551242124212
+A<vA<AA>>^AvA^AvA^A
+ Parsing delta_code, high 18 low 0: 
+234232255124212421
+A<vA<AA>>^AvA^AvA^
+ Parsing delta_code, high 17 low 0: 
+23423225512421242
+A<vA<AA>>^AvA^AvA
+ Parsing delta_code, high 16 low 0: 
+2342322551242124
+A<vA<AA>>^AvA^Av
+ Parsing delta_code, high 15 low 0: 
+234232255124212
+A<vA<AA>>^AvA^A
+ Parsing delta_code, high 14 low 0: 
+23423225512421
+A<vA<AA>>^AvA^
+ Parsing delta_code, high 13 low 0: 
+2342322551242
+A<vA<AA>>^AvA
+ Parsing delta_code, high 12 low 0: 
+234232255124
+A<vA<AA>>^Av
+ Parsing delta_code, high 11 low 0: 
+23423225512
+A<vA<AA>>^A
+ Parsing delta_code, high 10 low 0: 
+2342322551
+A<vA<AA>>^
+ Parsing delta_code, high 9 low 0: 
+234232255
+A<vA<AA>>
+ Parsing delta_code, high 8 low 0: 
+23423225
+A<vA<AA>
+ Parsing delta_code, high 7 low 0: 
+2342322
+A<vA<AA
+ Parsing delta_code, high 6 low 0: 
+234232
+A<vA<A
+ Parsing delta_code, high 5 low 0: 
+23423
+A<vA<
+ Parsing delta_code, high 4 low 0: 
+2342
+A<vA
+ Parsing delta_code, high 3 low 0: 
+234
+A<v
+ Parsing delta_code, high 2 low 0: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 25 low 1: 
+3423225512421242123422152
+<vA<AA>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 24 low 1: 
+342322551242124212342215
+<vA<AA>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 23 low 1: 
+34232255124212421234221
+<vA<AA>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 22 low 1: 
+3423225512421242123422
+<vA<AA>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 21 low 1: 
+342322551242124212342
+<vA<AA>>^AvA^AvA^A<vA
+ Parsing delta_code, high 20 low 1: 
+34232255124212421234
+<vA<AA>>^AvA^AvA^A<v
+ Parsing delta_code, high 19 low 1: 
+3423225512421242123
+<vA<AA>>^AvA^AvA^A<
+ Parsing delta_code, high 18 low 1: 
+342322551242124212
+<vA<AA>>^AvA^AvA^A
+ Parsing delta_code, high 17 low 1: 
+34232255124212421
+<vA<AA>>^AvA^AvA^
+ Parsing delta_code, high 16 low 1: 
+3423225512421242
+<vA<AA>>^AvA^AvA
+ Parsing delta_code, high 15 low 1: 
+342322551242124
+<vA<AA>>^AvA^Av
+ Parsing delta_code, high 14 low 1: 
+34232255124212
+<vA<AA>>^AvA^A
+ Parsing delta_code, high 13 low 1: 
+3423225512421
+<vA<AA>>^AvA^
+ Parsing delta_code, high 12 low 1: 
+342322551242
+<vA<AA>>^AvA
+ Parsing delta_code, high 11 low 1: 
+34232255124
+<vA<AA>>^Av
+ Parsing delta_code, high 10 low 1: 
+3423225512
+<vA<AA>>^A
+ Parsing delta_code, high 9 low 1: 
+342322551
+<vA<AA>>^
+ Parsing delta_code, high 8 low 1: 
+34232255
+<vA<AA>>
+ Parsing delta_code, high 7 low 1: 
+3423225
+<vA<AA>
+ Parsing delta_code, high 6 low 1: 
+342322
+<vA<AA
+ Parsing delta_code, high 5 low 1: 
+34232
+<vA<A
+ Parsing delta_code, high 4 low 1: 
+3423
+<vA<
+ Parsing delta_code, high 3 low 1: 
+342
+<vA
+ Parsing delta_code, high 2 low 1: 
+34
+<v
+entry from keymap :
+433252
+v<<A>A
+ Parsing delta_code, high 24 low 2: 
+423225512421242123422152
+vA<AA>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 23 low 2: 
+42322551242124212342215
+vA<AA>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 22 low 2: 
+4232255124212421234221
+vA<AA>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 21 low 2: 
+423225512421242123422
+vA<AA>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 20 low 2: 
+42322551242124212342
+vA<AA>>^AvA^AvA^A<vA
+ Parsing delta_code, high 19 low 2: 
+4232255124212421234
+vA<AA>>^AvA^AvA^A<v
+ Parsing delta_code, high 18 low 2: 
+423225512421242123
+vA<AA>>^AvA^AvA^A<
+ Parsing delta_code, high 17 low 2: 
+42322551242124212
+vA<AA>>^AvA^AvA^A
+ Parsing delta_code, high 16 low 2: 
+4232255124212421
+vA<AA>>^AvA^AvA^
+ Parsing delta_code, high 15 low 2: 
+423225512421242
+vA<AA>>^AvA^AvA
+ Parsing delta_code, high 14 low 2: 
+42322551242124
+vA<AA>>^AvA^Av
+ Parsing delta_code, high 13 low 2: 
+4232255124212
+vA<AA>>^AvA^A
+ Parsing delta_code, high 12 low 2: 
+423225512421
+vA<AA>>^AvA^
+ Parsing delta_code, high 11 low 2: 
+42322551242
+vA<AA>>^AvA
+ Parsing delta_code, high 10 low 2: 
+4232255124
+vA<AA>>^Av
+ Parsing delta_code, high 9 low 2: 
+423225512
+vA<AA>>^A
+ Parsing delta_code, high 8 low 2: 
+42322551
+vA<AA>>^
+ Parsing delta_code, high 7 low 2: 
+4232255
+vA<AA>>
+ Parsing delta_code, high 6 low 2: 
+423225
+vA<AA>
+ Parsing delta_code, high 5 low 2: 
+42322
+vA<AA
+ Parsing delta_code, high 4 low 2: 
+4232
+vA<A
+ Parsing delta_code, high 3 low 2: 
+423
+vA<
+ Parsing delta_code, high 2 low 2: 
+42
+vA
+entry from keymap :
+433252152
+v<<A>A^>A
+ Parsing delta_code, high 23 low 3: 
+23225512421242123422152
+A<AA>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 22 low 3: 
+2322551242124212342215
+A<AA>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 21 low 3: 
+232255124212421234221
+A<AA>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 20 low 3: 
+23225512421242123422
+A<AA>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 19 low 3: 
+2322551242124212342
+A<AA>>^AvA^AvA^A<vA
+ Parsing delta_code, high 18 low 3: 
+232255124212421234
+A<AA>>^AvA^AvA^A<v
+ Parsing delta_code, high 17 low 3: 
+23225512421242123
+A<AA>>^AvA^AvA^A<
+ Parsing delta_code, high 16 low 3: 
+2322551242124212
+A<AA>>^AvA^AvA^A
+ Parsing delta_code, high 15 low 3: 
+232255124212421
+A<AA>>^AvA^AvA^
+ Parsing delta_code, high 14 low 3: 
+23225512421242
+A<AA>>^AvA^AvA
+ Parsing delta_code, high 13 low 3: 
+2322551242124
+A<AA>>^AvA^Av
+ Parsing delta_code, high 12 low 3: 
+232255124212
+A<AA>>^AvA^A
+ Parsing delta_code, high 11 low 3: 
+23225512421
+A<AA>>^AvA^
+ Parsing delta_code, high 10 low 3: 
+2322551242
+A<AA>>^AvA
+ Parsing delta_code, high 9 low 3: 
+232255124
+A<AA>>^Av
+ Parsing delta_code, high 8 low 3: 
+23225512
+A<AA>>^A
+ Parsing delta_code, high 7 low 3: 
+2322551
+A<AA>>^
+ Parsing delta_code, high 6 low 3: 
+232255
+A<AA>>
+ Parsing delta_code, high 5 low 3: 
+23225
+A<AA>
+ Parsing delta_code, high 4 low 3: 
+2322
+A<AA
+ Parsing delta_code, high 3 low 3: 
+232
+A<A
+ Parsing delta_code, high 2 low 3: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 22 low 4: 
+3225512421242123422152
+<AA>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 21 low 4: 
+322551242124212342215
+<AA>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 20 low 4: 
+32255124212421234221
+<AA>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 19 low 4: 
+3225512421242123422
+<AA>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 18 low 4: 
+322551242124212342
+<AA>>^AvA^AvA^A<vA
+ Parsing delta_code, high 17 low 4: 
+32255124212421234
+<AA>>^AvA^AvA^A<v
+ Parsing delta_code, high 16 low 4: 
+3225512421242123
+<AA>>^AvA^AvA^A<
+ Parsing delta_code, high 15 low 4: 
+322551242124212
+<AA>>^AvA^AvA^A
+ Parsing delta_code, high 14 low 4: 
+32255124212421
+<AA>>^AvA^AvA^
+ Parsing delta_code, high 13 low 4: 
+3225512421242
+<AA>>^AvA^AvA
+ Parsing delta_code, high 12 low 4: 
+322551242124
+<AA>>^AvA^Av
+ Parsing delta_code, high 11 low 4: 
+32255124212
+<AA>>^AvA^A
+ Parsing delta_code, high 10 low 4: 
+3225512421
+<AA>>^AvA^
+ Parsing delta_code, high 9 low 4: 
+322551242
+<AA>>^AvA
+ Parsing delta_code, high 8 low 4: 
+32255124
+<AA>>^Av
+ Parsing delta_code, high 7 low 4: 
+3225512
+<AA>>^A
+ Parsing delta_code, high 6 low 4: 
+322551
+<AA>>^
+ Parsing delta_code, high 5 low 4: 
+32255
+<AA>>
+ Parsing delta_code, high 4 low 4: 
+3225
+<AA>
+ Parsing delta_code, high 3 low 4: 
+322
+<AA
+ Parsing delta_code, high 2 low 4: 
+32
+<A
+entry from keymap :
+43325215243325512
+v<<A>A^>Av<<A>>^A
+ Parsing delta_code, high 21 low 5: 
+225512421242123422152
+AA>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 20 low 5: 
+22551242124212342215
+AA>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 19 low 5: 
+2255124212421234221
+AA>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 18 low 5: 
+225512421242123422
+AA>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 17 low 5: 
+22551242124212342
+AA>>^AvA^AvA^A<vA
+ Parsing delta_code, high 16 low 5: 
+2255124212421234
+AA>>^AvA^AvA^A<v
+ Parsing delta_code, high 15 low 5: 
+225512421242123
+AA>>^AvA^AvA^A<
+ Parsing delta_code, high 14 low 5: 
+22551242124212
+AA>>^AvA^AvA^A
+ Parsing delta_code, high 13 low 5: 
+2255124212421
+AA>>^AvA^AvA^
+ Parsing delta_code, high 12 low 5: 
+225512421242
+AA>>^AvA^AvA
+ Parsing delta_code, high 11 low 5: 
+22551242124
+AA>>^AvA^Av
+ Parsing delta_code, high 10 low 5: 
+2255124212
+AA>>^AvA^A
+ Parsing delta_code, high 9 low 5: 
+225512421
+AA>>^AvA^
+ Parsing delta_code, high 8 low 5: 
+22551242
+AA>>^AvA
+ Parsing delta_code, high 7 low 5: 
+2255124
+AA>>^Av
+ Parsing delta_code, high 6 low 5: 
+225512
+AA>>^A
+ Parsing delta_code, high 5 low 5: 
+22551
+AA>>^
+ Parsing delta_code, high 4 low 5: 
+2255
+AA>>
+ Parsing delta_code, high 3 low 5: 
+225
+AA>
+ Parsing delta_code, high 2 low 5: 
+22
+AA
+entry from keymap :
+433252152433255122
+v<<A>A^>Av<<A>>^AA
+ Parsing delta_code, high 20 low 6: 
+25512421242123422152
+A>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 19 low 6: 
+2551242124212342215
+A>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 18 low 6: 
+255124212421234221
+A>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 17 low 6: 
+25512421242123422
+A>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 16 low 6: 
+2551242124212342
+A>>^AvA^AvA^A<vA
+ Parsing delta_code, high 15 low 6: 
+255124212421234
+A>>^AvA^AvA^A<v
+ Parsing delta_code, high 14 low 6: 
+25512421242123
+A>>^AvA^AvA^A<
+ Parsing delta_code, high 13 low 6: 
+2551242124212
+A>>^AvA^AvA^A
+ Parsing delta_code, high 12 low 6: 
+255124212421
+A>>^AvA^AvA^
+ Parsing delta_code, high 11 low 6: 
+25512421242
+A>>^AvA^AvA
+ Parsing delta_code, high 10 low 6: 
+2551242124
+A>>^AvA^Av
+ Parsing delta_code, high 9 low 6: 
+255124212
+A>>^AvA^A
+ Parsing delta_code, high 8 low 6: 
+25512421
+A>>^AvA^
+ Parsing delta_code, high 7 low 6: 
+2551242
+A>>^AvA
+ Parsing delta_code, high 6 low 6: 
+255124
+A>>^Av
+ Parsing delta_code, high 5 low 6: 
+25512
+A>>^A
+ Parsing delta_code, high 4 low 6: 
+2551
+A>>^
+ Parsing delta_code, high 3 low 6: 
+255
+A>>
+ Parsing delta_code, high 2 low 6: 
+25
+A>
+entry from keymap :
+43325215243325512242
+v<<A>A^>Av<<A>>^AAvA
+ Parsing delta_code, high 19 low 7: 
+5512421242123422152
+>>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 18 low 7: 
+551242124212342215
+>>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 17 low 7: 
+55124212421234221
+>>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 16 low 7: 
+5512421242123422
+>>^AvA^AvA^A<vAA
+ Parsing delta_code, high 15 low 7: 
+551242124212342
+>>^AvA^AvA^A<vA
+ Parsing delta_code, high 14 low 7: 
+55124212421234
+>>^AvA^AvA^A<v
+ Parsing delta_code, high 13 low 7: 
+5512421242123
+>>^AvA^AvA^A<
+ Parsing delta_code, high 12 low 7: 
+551242124212
+>>^AvA^AvA^A
+ Parsing delta_code, high 11 low 7: 
+55124212421
+>>^AvA^AvA^
+ Parsing delta_code, high 10 low 7: 
+5512421242
+>>^AvA^AvA
+ Parsing delta_code, high 9 low 7: 
+551242124
+>>^AvA^Av
+ Parsing delta_code, high 8 low 7: 
+55124212
+>>^AvA^A
+ Parsing delta_code, high 7 low 7: 
+5512421
+>>^AvA^
+ Parsing delta_code, high 6 low 7: 
+551242
+>>^AvA
+ Parsing delta_code, high 5 low 7: 
+55124
+>>^Av
+ Parsing delta_code, high 4 low 7: 
+5512
+>>^A
+ Parsing delta_code, high 3 low 7: 
+551
+>>^
+ Parsing delta_code, high 2 low 7: 
+55
+>>
+entry from keymap :
+433252152433255122422
+v<<A>A^>Av<<A>>^AAvAA
+ Parsing delta_code, high 18 low 8: 
+512421242123422152
+>^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 17 low 8: 
+51242124212342215
+>^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 16 low 8: 
+5124212421234221
+>^AvA^AvA^A<vAA^
+ Parsing delta_code, high 15 low 8: 
+512421242123422
+>^AvA^AvA^A<vAA
+ Parsing delta_code, high 14 low 8: 
+51242124212342
+>^AvA^AvA^A<vA
+ Parsing delta_code, high 13 low 8: 
+5124212421234
+>^AvA^AvA^A<v
+ Parsing delta_code, high 12 low 8: 
+512421242123
+>^AvA^AvA^A<
+ Parsing delta_code, high 11 low 8: 
+51242124212
+>^AvA^AvA^A
+ Parsing delta_code, high 10 low 8: 
+5124212421
+>^AvA^AvA^
+ Parsing delta_code, high 9 low 8: 
+512421242
+>^AvA^AvA
+ Parsing delta_code, high 8 low 8: 
+51242124
+>^AvA^Av
+ Parsing delta_code, high 7 low 8: 
+5124212
+>^AvA^A
+ Parsing delta_code, high 6 low 8: 
+512421
+>^AvA^
+ Parsing delta_code, high 5 low 8: 
+51242
+>^AvA
+ Parsing delta_code, high 4 low 8: 
+5124
+>^Av
+ Parsing delta_code, high 3 low 8: 
+512
+>^A
+ Parsing delta_code, high 2 low 8: 
+51
+>^
+entry from keymap :
+433252152433255122422312
+v<<A>A^>Av<<A>>^AAvAA<^A
+ Parsing delta_code, high 17 low 9: 
+12421242123422152
+^AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 16 low 9: 
+1242124212342215
+^AvA^AvA^A<vAA^>
+ Parsing delta_code, high 15 low 9: 
+124212421234221
+^AvA^AvA^A<vAA^
+ Parsing delta_code, high 14 low 9: 
+12421242123422
+^AvA^AvA^A<vAA
+ Parsing delta_code, high 13 low 9: 
+1242124212342
+^AvA^AvA^A<vA
+ Parsing delta_code, high 12 low 9: 
+124212421234
+^AvA^AvA^A<v
+ Parsing delta_code, high 11 low 9: 
+12421242123
+^AvA^AvA^A<
+ Parsing delta_code, high 10 low 9: 
+1242124212
+^AvA^AvA^A
+ Parsing delta_code, high 9 low 9: 
+124212421
+^AvA^AvA^
+ Parsing delta_code, high 8 low 9: 
+12421242
+^AvA^AvA
+ Parsing delta_code, high 7 low 9: 
+1242124
+^AvA^Av
+ Parsing delta_code, high 6 low 9: 
+124212
+^AvA^A
+ Parsing delta_code, high 5 low 9: 
+12421
+^AvA^
+ Parsing delta_code, high 4 low 9: 
+1242
+^AvA
+ Parsing delta_code, high 3 low 9: 
+124
+^Av
+ Parsing delta_code, high 2 low 9: 
+12
+^A
+entry from keymap :
+43325215243325512242231252
+v<<A>A^>Av<<A>>^AAvAA<^A>A
+ Parsing delta_code, high 16 low 10: 
+2421242123422152
+AvA^AvA^A<vAA^>A
+ Parsing delta_code, high 15 low 10: 
+242124212342215
+AvA^AvA^A<vAA^>
+ Parsing delta_code, high 14 low 10: 
+24212421234221
+AvA^AvA^A<vAA^
+ Parsing delta_code, high 13 low 10: 
+2421242123422
+AvA^AvA^A<vAA
+ Parsing delta_code, high 12 low 10: 
+242124212342
+AvA^AvA^A<vA
+ Parsing delta_code, high 11 low 10: 
+24212421234
+AvA^AvA^A<v
+ Parsing delta_code, high 10 low 10: 
+2421242123
+AvA^AvA^A<
+ Parsing delta_code, high 9 low 10: 
+242124212
+AvA^AvA^A
+ Parsing delta_code, high 8 low 10: 
+24212421
+AvA^AvA^
+ Parsing delta_code, high 7 low 10: 
+2421242
+AvA^AvA
+ Parsing delta_code, high 6 low 10: 
+242124
+AvA^Av
+ Parsing delta_code, high 5 low 10: 
+24212
+AvA^A
+ Parsing delta_code, high 4 low 10: 
+2421
+AvA^
+ Parsing delta_code, high 3 low 10: 
+242
+AvA
+ Parsing delta_code, high 2 low 10: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 15 low 11: 
+421242123422152
+vA^AvA^A<vAA^>A
+ Parsing delta_code, high 14 low 11: 
+42124212342215
+vA^AvA^A<vAA^>
+ Parsing delta_code, high 13 low 11: 
+4212421234221
+vA^AvA^A<vAA^
+ Parsing delta_code, high 12 low 11: 
+421242123422
+vA^AvA^A<vAA
+ Parsing delta_code, high 11 low 11: 
+42124212342
+vA^AvA^A<vA
+ Parsing delta_code, high 10 low 11: 
+4212421234
+vA^AvA^A<v
+ Parsing delta_code, high 9 low 11: 
+421242123
+vA^AvA^A<
+ Parsing delta_code, high 8 low 11: 
+42124212
+vA^AvA^A
+ Parsing delta_code, high 7 low 11: 
+4212421
+vA^AvA^
+ Parsing delta_code, high 6 low 11: 
+421242
+vA^AvA
+ Parsing delta_code, high 5 low 11: 
+42124
+vA^Av
+ Parsing delta_code, high 4 low 11: 
+4212
+vA^A
+ Parsing delta_code, high 3 low 11: 
+421
+vA^
+ Parsing delta_code, high 2 low 11: 
+42
+vA
+entry from keymap :
+43325215243325512242231252342152
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A
+ Parsing delta_code, high 14 low 12: 
+21242123422152
+A^AvA^A<vAA^>A
+ Parsing delta_code, high 13 low 12: 
+2124212342215
+A^AvA^A<vAA^>
+ Parsing delta_code, high 12 low 12: 
+212421234221
+A^AvA^A<vAA^
+ Parsing delta_code, high 11 low 12: 
+21242123422
+A^AvA^A<vAA
+ Parsing delta_code, high 10 low 12: 
+2124212342
+A^AvA^A<vA
+ Parsing delta_code, high 9 low 12: 
+212421234
+A^AvA^A<v
+ Parsing delta_code, high 8 low 12: 
+21242123
+A^AvA^A<
+ Parsing delta_code, high 7 low 12: 
+2124212
+A^AvA^A
+ Parsing delta_code, high 6 low 12: 
+212421
+A^AvA^
+ Parsing delta_code, high 5 low 12: 
+21242
+A^AvA
+ Parsing delta_code, high 4 low 12: 
+2124
+A^Av
+ Parsing delta_code, high 3 low 12: 
+212
+A^A
+ Parsing delta_code, high 2 low 12: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 13 low 13: 
+1242123422152
+^AvA^A<vAA^>A
+ Parsing delta_code, high 12 low 13: 
+124212342215
+^AvA^A<vAA^>
+ Parsing delta_code, high 11 low 13: 
+12421234221
+^AvA^A<vAA^
+ Parsing delta_code, high 10 low 13: 
+1242123422
+^AvA^A<vAA
+ Parsing delta_code, high 9 low 13: 
+124212342
+^AvA^A<vA
+ Parsing delta_code, high 8 low 13: 
+12421234
+^AvA^A<v
+ Parsing delta_code, high 7 low 13: 
+1242123
+^AvA^A<
+ Parsing delta_code, high 6 low 13: 
+124212
+^AvA^A
+ Parsing delta_code, high 5 low 13: 
+12421
+^AvA^
+ Parsing delta_code, high 4 low 13: 
+1242
+^AvA
+ Parsing delta_code, high 3 low 13: 
+124
+^Av
+ Parsing delta_code, high 2 low 13: 
+12
+^A
+entry from keymap :
+433252152433255122422312523421523252
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A
+ Parsing delta_code, high 12 low 14: 
+242123422152
+AvA^A<vAA^>A
+ Parsing delta_code, high 11 low 14: 
+24212342215
+AvA^A<vAA^>
+ Parsing delta_code, high 10 low 14: 
+2421234221
+AvA^A<vAA^
+ Parsing delta_code, high 9 low 14: 
+242123422
+AvA^A<vAA
+ Parsing delta_code, high 8 low 14: 
+24212342
+AvA^A<vA
+ Parsing delta_code, high 7 low 14: 
+2421234
+AvA^A<v
+ Parsing delta_code, high 6 low 14: 
+242123
+AvA^A<
+ Parsing delta_code, high 5 low 14: 
+24212
+AvA^A
+ Parsing delta_code, high 4 low 14: 
+2421
+AvA^
+ Parsing delta_code, high 3 low 14: 
+242
+AvA
+ Parsing delta_code, high 2 low 14: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 11 low 15: 
+42123422152
+vA^A<vAA^>A
+ Parsing delta_code, high 10 low 15: 
+4212342215
+vA^A<vAA^>
+ Parsing delta_code, high 9 low 15: 
+421234221
+vA^A<vAA^
+ Parsing delta_code, high 8 low 15: 
+42123422
+vA^A<vAA
+ Parsing delta_code, high 7 low 15: 
+4212342
+vA^A<vA
+ Parsing delta_code, high 6 low 15: 
+421234
+vA^A<v
+ Parsing delta_code, high 5 low 15: 
+42123
+vA^A<
+ Parsing delta_code, high 4 low 15: 
+4212
+vA^A
+ Parsing delta_code, high 3 low 15: 
+421
+vA^
+ Parsing delta_code, high 2 low 15: 
+42
+vA
+entry from keymap :
+433252152433255122422312523421523252342152
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A
+ Parsing delta_code, high 10 low 16: 
+2123422152
+A^A<vAA^>A
+ Parsing delta_code, high 9 low 16: 
+212342215
+A^A<vAA^>
+ Parsing delta_code, high 8 low 16: 
+21234221
+A^A<vAA^
+ Parsing delta_code, high 7 low 16: 
+2123422
+A^A<vAA
+ Parsing delta_code, high 6 low 16: 
+212342
+A^A<vA
+ Parsing delta_code, high 5 low 16: 
+21234
+A^A<v
+ Parsing delta_code, high 4 low 16: 
+2123
+A^A<
+ Parsing delta_code, high 3 low 16: 
+212
+A^A
+ Parsing delta_code, high 2 low 16: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 9 low 17: 
+123422152
+^A<vAA^>A
+ Parsing delta_code, high 8 low 17: 
+12342215
+^A<vAA^>
+ Parsing delta_code, high 7 low 17: 
+1234221
+^A<vAA^
+ Parsing delta_code, high 6 low 17: 
+123422
+^A<vAA
+ Parsing delta_code, high 5 low 17: 
+12342
+^A<vA
+ Parsing delta_code, high 4 low 17: 
+1234
+^A<v
+ Parsing delta_code, high 3 low 17: 
+123
+^A<
+ Parsing delta_code, high 2 low 17: 
+12
+^A
+entry from keymap :
+4332521524332551224223125234215232523421523252
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A<A>A
+ Parsing delta_code, high 8 low 18: 
+23422152
+A<vAA^>A
+ Parsing delta_code, high 7 low 18: 
+2342215
+A<vAA^>
+ Parsing delta_code, high 6 low 18: 
+234221
+A<vAA^
+ Parsing delta_code, high 5 low 18: 
+23422
+A<vAA
+ Parsing delta_code, high 4 low 18: 
+2342
+A<vA
+ Parsing delta_code, high 3 low 18: 
+234
+A<v
+ Parsing delta_code, high 2 low 18: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 7 low 19: 
+3422152
+<vAA^>A
+ Parsing delta_code, high 6 low 19: 
+342215
+<vAA^>
+ Parsing delta_code, high 5 low 19: 
+34221
+<vAA^
+ Parsing delta_code, high 4 low 19: 
+3422
+<vAA
+ Parsing delta_code, high 3 low 19: 
+342
+<vA
+ Parsing delta_code, high 2 low 19: 
+34
+<v
+entry from keymap :
+4332521524332551224223125234215232523421523252433252
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A<A>Av<<A>A
+ Parsing delta_code, high 6 low 20: 
+422152
+vAA^>A
+ Parsing delta_code, high 5 low 20: 
+42215
+vAA^>
+ Parsing delta_code, high 4 low 20: 
+4221
+vAA^
+ Parsing delta_code, high 3 low 20: 
+422
+vAA
+ Parsing delta_code, high 2 low 20: 
+42
+vA
+entry from keymap :
+4332521524332551224223125234215232523421523252433252152
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A<A>Av<<A>A^>A
+ Parsing delta_code, high 5 low 21: 
+22152
+AA^>A
+ Parsing delta_code, high 4 low 21: 
+2215
+AA^>
+ Parsing delta_code, high 3 low 21: 
+221
+AA^
+ Parsing delta_code, high 2 low 21: 
+22
+AA
+entry from keymap :
+43325215243325512242231252342152325234215232524332521522
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A<A>Av<<A>A^>AA
+ Parsing delta_code, high 4 low 22: 
+2152
+A^>A
+ Parsing delta_code, high 3 low 22: 
+215
+A^>
+ Parsing delta_code, high 2 low 22: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 3 low 23: 
+152
+^>A
+ Parsing delta_code, high 2 low 23: 
+15
+^>
+entry from keymap :
+4332521524332551224223125234215232523421523252433252152232452
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A<A>Av<<A>A^>AA<Av>A
+ Parsing delta_code, high 2 low 24: 
+52
+>A
+entry from keymap :
+433252152433255122422312523421523252342152325243325215223245212
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A<A>Av<<A>A^>AA<Av>A^A
+ Parsing delta_code, high 1 low 25: 
+2
+A
+433252152433255122422312523421523252342152325243325215223245212
+v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA^>A<A>Av<<A>A^>AA<Av>A^A
+Number of key presses are: 63
+got x: 0 y: -1 from 11 to 8
+got x: -2 y: -2 from 8 to 0
+got x: 2 y: 0 from 0 to 2
+got x: 0 y: 3 from 2 to 11
+Num seq translated: 
+12331125524442
+^A<<^^A>>AvvvA
+Calculating robot # 0
+ Parsing delta_code, high 15 low 0: 
+212331125524442
+A^A<<^^A>>AvvvA
+ Parsing delta_code, high 14 low 0: 
+21233112552444
+A^A<<^^A>>Avvv
+ Parsing delta_code, high 13 low 0: 
+2123311255244
+A^A<<^^A>>Avv
+ Parsing delta_code, high 12 low 0: 
+212331125524
+A^A<<^^A>>Av
+ Parsing delta_code, high 11 low 0: 
+21233112552
+A^A<<^^A>>A
+ Parsing delta_code, high 10 low 0: 
+2123311255
+A^A<<^^A>>
+ Parsing delta_code, high 9 low 0: 
+212331125
+A^A<<^^A>
+ Parsing delta_code, high 8 low 0: 
+21233112
+A^A<<^^A
+ Parsing delta_code, high 7 low 0: 
+2123311
+A^A<<^^
+ Parsing delta_code, high 6 low 0: 
+212331
+A^A<<^
+ Parsing delta_code, high 5 low 0: 
+21233
+A^A<<
+ Parsing delta_code, high 4 low 0: 
+2123
+A^A<
+ Parsing delta_code, high 3 low 0: 
+212
+A^A
+ Parsing delta_code, high 2 low 0: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 14 low 1: 
+12331125524442
+^A<<^^A>>AvvvA
+ Parsing delta_code, high 13 low 1: 
+1233112552444
+^A<<^^A>>Avvv
+ Parsing delta_code, high 12 low 1: 
+123311255244
+^A<<^^A>>Avv
+ Parsing delta_code, high 11 low 1: 
+12331125524
+^A<<^^A>>Av
+ Parsing delta_code, high 10 low 1: 
+1233112552
+^A<<^^A>>A
+ Parsing delta_code, high 9 low 1: 
+123311255
+^A<<^^A>>
+ Parsing delta_code, high 8 low 1: 
+12331125
+^A<<^^A>
+ Parsing delta_code, high 7 low 1: 
+1233112
+^A<<^^A
+ Parsing delta_code, high 6 low 1: 
+123311
+^A<<^^
+ Parsing delta_code, high 5 low 1: 
+12331
+^A<<^
+ Parsing delta_code, high 4 low 1: 
+1233
+^A<<
+ Parsing delta_code, high 3 low 1: 
+123
+^A<
+ Parsing delta_code, high 2 low 1: 
+12
+^A
+entry from keymap :
+3252
+<A>A
+ Parsing delta_code, high 13 low 2: 
+2331125524442
+A<<^^A>>AvvvA
+ Parsing delta_code, high 12 low 2: 
+233112552444
+A<<^^A>>Avvv
+ Parsing delta_code, high 11 low 2: 
+23311255244
+A<<^^A>>Avv
+ Parsing delta_code, high 10 low 2: 
+2331125524
+A<<^^A>>Av
+ Parsing delta_code, high 9 low 2: 
+233112552
+A<<^^A>>A
+ Parsing delta_code, high 8 low 2: 
+23311255
+A<<^^A>>
+ Parsing delta_code, high 7 low 2: 
+2331125
+A<<^^A>
+ Parsing delta_code, high 6 low 2: 
+233112
+A<<^^A
+ Parsing delta_code, high 5 low 2: 
+23311
+A<<^^
+ Parsing delta_code, high 4 low 2: 
+2331
+A<<^
+ Parsing delta_code, high 3 low 2: 
+233
+A<<
+ Parsing delta_code, high 2 low 2: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 12 low 3: 
+331125524442
+<<^^A>>AvvvA
+ Parsing delta_code, high 11 low 3: 
+33112552444
+<<^^A>>Avvv
+ Parsing delta_code, high 10 low 3: 
+3311255244
+<<^^A>>Avv
+ Parsing delta_code, high 9 low 3: 
+331125524
+<<^^A>>Av
+ Parsing delta_code, high 8 low 3: 
+33112552
+<<^^A>>A
+ Parsing delta_code, high 7 low 3: 
+3311255
+<<^^A>>
+ Parsing delta_code, high 6 low 3: 
+331125
+<<^^A>
+ Parsing delta_code, high 5 low 3: 
+33112
+<<^^A
+ Parsing delta_code, high 4 low 3: 
+3311
+<<^^
+ Parsing delta_code, high 3 low 3: 
+331
+<<^
+ Parsing delta_code, high 2 low 3: 
+33
+<<
+entry from keymap :
+325243322
+<A>Av<<AA
+ Parsing delta_code, high 11 low 4: 
+31125524442
+<^^A>>AvvvA
+ Parsing delta_code, high 10 low 4: 
+3112552444
+<^^A>>Avvv
+ Parsing delta_code, high 9 low 4: 
+311255244
+<^^A>>Avv
+ Parsing delta_code, high 8 low 4: 
+31125524
+<^^A>>Av
+ Parsing delta_code, high 7 low 4: 
+3112552
+<^^A>>A
+ Parsing delta_code, high 6 low 4: 
+311255
+<^^A>>
+ Parsing delta_code, high 5 low 4: 
+31125
+<^^A>
+ Parsing delta_code, high 4 low 4: 
+3112
+<^^A
+ Parsing delta_code, high 3 low 4: 
+311
+<^^
+ Parsing delta_code, high 2 low 4: 
+31
+<^
+entry from keymap :
+325243322512
+<A>Av<<AA>^A
+ Parsing delta_code, high 10 low 5: 
+1125524442
+^^A>>AvvvA
+ Parsing delta_code, high 9 low 5: 
+112552444
+^^A>>Avvv
+ Parsing delta_code, high 8 low 5: 
+11255244
+^^A>>Avv
+ Parsing delta_code, high 7 low 5: 
+1125524
+^^A>>Av
+ Parsing delta_code, high 6 low 5: 
+112552
+^^A>>A
+ Parsing delta_code, high 5 low 5: 
+11255
+^^A>>
+ Parsing delta_code, high 4 low 5: 
+1125
+^^A>
+ Parsing delta_code, high 3 low 5: 
+112
+^^A
+ Parsing delta_code, high 2 low 5: 
+11
+^^
+entry from keymap :
+3252433225122
+<A>Av<<AA>^AA
+ Parsing delta_code, high 9 low 6: 
+125524442
+^A>>AvvvA
+ Parsing delta_code, high 8 low 6: 
+12552444
+^A>>Avvv
+ Parsing delta_code, high 7 low 6: 
+1255244
+^A>>Avv
+ Parsing delta_code, high 6 low 6: 
+125524
+^A>>Av
+ Parsing delta_code, high 5 low 6: 
+12552
+^A>>A
+ Parsing delta_code, high 4 low 6: 
+1255
+^A>>
+ Parsing delta_code, high 3 low 6: 
+125
+^A>
+ Parsing delta_code, high 2 low 6: 
+12
+^A
+entry from keymap :
+325243322512252
+<A>Av<<AA>^AA>A
+ Parsing delta_code, high 8 low 7: 
+25524442
+A>>AvvvA
+ Parsing delta_code, high 7 low 7: 
+2552444
+A>>Avvv
+ Parsing delta_code, high 6 low 7: 
+255244
+A>>Avv
+ Parsing delta_code, high 5 low 7: 
+25524
+A>>Av
+ Parsing delta_code, high 4 low 7: 
+2552
+A>>A
+ Parsing delta_code, high 3 low 7: 
+255
+A>>
+ Parsing delta_code, high 2 low 7: 
+25
+A>
+entry from keymap :
+32524332251225242
+<A>Av<<AA>^AA>AvA
+ Parsing delta_code, high 7 low 8: 
+5524442
+>>AvvvA
+ Parsing delta_code, high 6 low 8: 
+552444
+>>Avvv
+ Parsing delta_code, high 5 low 8: 
+55244
+>>Avv
+ Parsing delta_code, high 4 low 8: 
+5524
+>>Av
+ Parsing delta_code, high 3 low 8: 
+552
+>>A
+ Parsing delta_code, high 2 low 8: 
+55
+>>
+entry from keymap :
+325243322512252422
+<A>Av<<AA>^AA>AvAA
+ Parsing delta_code, high 6 low 9: 
+524442
+>AvvvA
+ Parsing delta_code, high 5 low 9: 
+52444
+>Avvv
+ Parsing delta_code, high 4 low 9: 
+5244
+>Avv
+ Parsing delta_code, high 3 low 9: 
+524
+>Av
+ Parsing delta_code, high 2 low 9: 
+52
+>A
+entry from keymap :
+32524332251225242212
+<A>Av<<AA>^AA>AvAA^A
+ Parsing delta_code, high 5 low 10: 
+24442
+AvvvA
+ Parsing delta_code, high 4 low 10: 
+2444
+Avvv
+ Parsing delta_code, high 3 low 10: 
+244
+Avv
+ Parsing delta_code, high 2 low 10: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 4 low 11: 
+4442
+vvvA
+ Parsing delta_code, high 3 low 11: 
+444
+vvv
+ Parsing delta_code, high 2 low 11: 
+44
+vv
+entry from keymap :
+325243322512252422123422
+<A>Av<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 3 low 12: 
+442
+vvA
+ Parsing delta_code, high 2 low 12: 
+44
+vv
+entry from keymap :
+3252433225122524221234222
+<A>Av<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 2 low 13: 
+42
+vA
+entry from keymap :
+3252433225122524221234222152
+<A>Av<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 1 low 14: 
+2
+A
+3252433225122524221234222152
+<A>Av<<AA>^AA>AvAA^A<vAAA^>A
+Calculating robot # 1
+ Parsing delta_code, high 29 low 0: 
+23252433225122524221234222152
+A<A>Av<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 28 low 0: 
+2325243322512252422123422215
+A<A>Av<<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 27 low 0: 
+232524332251225242212342221
+A<A>Av<<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 26 low 0: 
+23252433225122524221234222
+A<A>Av<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 25 low 0: 
+2325243322512252422123422
+A<A>Av<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 24 low 0: 
+232524332251225242212342
+A<A>Av<<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 23 low 0: 
+23252433225122524221234
+A<A>Av<<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 22 low 0: 
+2325243322512252422123
+A<A>Av<<AA>^AA>AvAA^A<
+ Parsing delta_code, high 21 low 0: 
+232524332251225242212
+A<A>Av<<AA>^AA>AvAA^A
+ Parsing delta_code, high 20 low 0: 
+23252433225122524221
+A<A>Av<<AA>^AA>AvAA^
+ Parsing delta_code, high 19 low 0: 
+2325243322512252422
+A<A>Av<<AA>^AA>AvAA
+ Parsing delta_code, high 18 low 0: 
+232524332251225242
+A<A>Av<<AA>^AA>AvA
+ Parsing delta_code, high 17 low 0: 
+23252433225122524
+A<A>Av<<AA>^AA>Av
+ Parsing delta_code, high 16 low 0: 
+2325243322512252
+A<A>Av<<AA>^AA>A
+ Parsing delta_code, high 15 low 0: 
+232524332251225
+A<A>Av<<AA>^AA>
+ Parsing delta_code, high 14 low 0: 
+23252433225122
+A<A>Av<<AA>^AA
+ Parsing delta_code, high 13 low 0: 
+2325243322512
+A<A>Av<<AA>^A
+ Parsing delta_code, high 12 low 0: 
+232524332251
+A<A>Av<<AA>^
+ Parsing delta_code, high 11 low 0: 
+23252433225
+A<A>Av<<AA>
+ Parsing delta_code, high 10 low 0: 
+2325243322
+A<A>Av<<AA
+ Parsing delta_code, high 9 low 0: 
+232524332
+A<A>Av<<A
+ Parsing delta_code, high 8 low 0: 
+23252433
+A<A>Av<<
+ Parsing delta_code, high 7 low 0: 
+2325243
+A<A>Av<
+ Parsing delta_code, high 6 low 0: 
+232524
+A<A>Av
+ Parsing delta_code, high 5 low 0: 
+23252
+A<A>A
+ Parsing delta_code, high 4 low 0: 
+2325
+A<A>
+ Parsing delta_code, high 3 low 0: 
+232
+A<A
+ Parsing delta_code, high 2 low 0: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 28 low 1: 
+3252433225122524221234222152
+<A>Av<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 27 low 1: 
+325243322512252422123422215
+<A>Av<<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 26 low 1: 
+32524332251225242212342221
+<A>Av<<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 25 low 1: 
+3252433225122524221234222
+<A>Av<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 24 low 1: 
+325243322512252422123422
+<A>Av<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 23 low 1: 
+32524332251225242212342
+<A>Av<<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 22 low 1: 
+3252433225122524221234
+<A>Av<<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 21 low 1: 
+325243322512252422123
+<A>Av<<AA>^AA>AvAA^A<
+ Parsing delta_code, high 20 low 1: 
+32524332251225242212
+<A>Av<<AA>^AA>AvAA^A
+ Parsing delta_code, high 19 low 1: 
+3252433225122524221
+<A>Av<<AA>^AA>AvAA^
+ Parsing delta_code, high 18 low 1: 
+325243322512252422
+<A>Av<<AA>^AA>AvAA
+ Parsing delta_code, high 17 low 1: 
+32524332251225242
+<A>Av<<AA>^AA>AvA
+ Parsing delta_code, high 16 low 1: 
+3252433225122524
+<A>Av<<AA>^AA>Av
+ Parsing delta_code, high 15 low 1: 
+325243322512252
+<A>Av<<AA>^AA>A
+ Parsing delta_code, high 14 low 1: 
+32524332251225
+<A>Av<<AA>^AA>
+ Parsing delta_code, high 13 low 1: 
+3252433225122
+<A>Av<<AA>^AA
+ Parsing delta_code, high 12 low 1: 
+325243322512
+<A>Av<<AA>^A
+ Parsing delta_code, high 11 low 1: 
+32524332251
+<A>Av<<AA>^
+ Parsing delta_code, high 10 low 1: 
+3252433225
+<A>Av<<AA>
+ Parsing delta_code, high 9 low 1: 
+325243322
+<A>Av<<AA
+ Parsing delta_code, high 8 low 1: 
+32524332
+<A>Av<<A
+ Parsing delta_code, high 7 low 1: 
+3252433
+<A>Av<<
+ Parsing delta_code, high 6 low 1: 
+325243
+<A>Av<
+ Parsing delta_code, high 5 low 1: 
+32524
+<A>Av
+ Parsing delta_code, high 4 low 1: 
+3252
+<A>A
+ Parsing delta_code, high 3 low 1: 
+325
+<A>
+ Parsing delta_code, high 2 low 1: 
+32
+<A
+entry from keymap :
+43325512
+v<<A>>^A
+ Parsing delta_code, high 27 low 2: 
+252433225122524221234222152
+A>Av<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 26 low 2: 
+25243322512252422123422215
+A>Av<<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 25 low 2: 
+2524332251225242212342221
+A>Av<<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 24 low 2: 
+252433225122524221234222
+A>Av<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 23 low 2: 
+25243322512252422123422
+A>Av<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 22 low 2: 
+2524332251225242212342
+A>Av<<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 21 low 2: 
+252433225122524221234
+A>Av<<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 20 low 2: 
+25243322512252422123
+A>Av<<AA>^AA>AvAA^A<
+ Parsing delta_code, high 19 low 2: 
+2524332251225242212
+A>Av<<AA>^AA>AvAA^A
+ Parsing delta_code, high 18 low 2: 
+252433225122524221
+A>Av<<AA>^AA>AvAA^
+ Parsing delta_code, high 17 low 2: 
+25243322512252422
+A>Av<<AA>^AA>AvAA
+ Parsing delta_code, high 16 low 2: 
+2524332251225242
+A>Av<<AA>^AA>AvA
+ Parsing delta_code, high 15 low 2: 
+252433225122524
+A>Av<<AA>^AA>Av
+ Parsing delta_code, high 14 low 2: 
+25243322512252
+A>Av<<AA>^AA>A
+ Parsing delta_code, high 13 low 2: 
+2524332251225
+A>Av<<AA>^AA>
+ Parsing delta_code, high 12 low 2: 
+252433225122
+A>Av<<AA>^AA
+ Parsing delta_code, high 11 low 2: 
+25243322512
+A>Av<<AA>^A
+ Parsing delta_code, high 10 low 2: 
+2524332251
+A>Av<<AA>^
+ Parsing delta_code, high 9 low 2: 
+252433225
+A>Av<<AA>
+ Parsing delta_code, high 8 low 2: 
+25243322
+A>Av<<AA
+ Parsing delta_code, high 7 low 2: 
+2524332
+A>Av<<A
+ Parsing delta_code, high 6 low 2: 
+252433
+A>Av<<
+ Parsing delta_code, high 5 low 2: 
+25243
+A>Av<
+ Parsing delta_code, high 4 low 2: 
+2524
+A>Av
+ Parsing delta_code, high 3 low 2: 
+252
+A>A
+ Parsing delta_code, high 2 low 2: 
+25
+A>
+entry from keymap :
+4332551242
+v<<A>>^AvA
+ Parsing delta_code, high 26 low 3: 
+52433225122524221234222152
+>Av<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 25 low 3: 
+5243322512252422123422215
+>Av<<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 24 low 3: 
+524332251225242212342221
+>Av<<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 23 low 3: 
+52433225122524221234222
+>Av<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 22 low 3: 
+5243322512252422123422
+>Av<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 21 low 3: 
+524332251225242212342
+>Av<<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 20 low 3: 
+52433225122524221234
+>Av<<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 19 low 3: 
+5243322512252422123
+>Av<<AA>^AA>AvAA^A<
+ Parsing delta_code, high 18 low 3: 
+524332251225242212
+>Av<<AA>^AA>AvAA^A
+ Parsing delta_code, high 17 low 3: 
+52433225122524221
+>Av<<AA>^AA>AvAA^
+ Parsing delta_code, high 16 low 3: 
+5243322512252422
+>Av<<AA>^AA>AvAA
+ Parsing delta_code, high 15 low 3: 
+524332251225242
+>Av<<AA>^AA>AvA
+ Parsing delta_code, high 14 low 3: 
+52433225122524
+>Av<<AA>^AA>Av
+ Parsing delta_code, high 13 low 3: 
+5243322512252
+>Av<<AA>^AA>A
+ Parsing delta_code, high 12 low 3: 
+524332251225
+>Av<<AA>^AA>
+ Parsing delta_code, high 11 low 3: 
+52433225122
+>Av<<AA>^AA
+ Parsing delta_code, high 10 low 3: 
+5243322512
+>Av<<AA>^A
+ Parsing delta_code, high 9 low 3: 
+524332251
+>Av<<AA>^
+ Parsing delta_code, high 8 low 3: 
+52433225
+>Av<<AA>
+ Parsing delta_code, high 7 low 3: 
+5243322
+>Av<<AA
+ Parsing delta_code, high 6 low 3: 
+524332
+>Av<<A
+ Parsing delta_code, high 5 low 3: 
+52433
+>Av<<
+ Parsing delta_code, high 4 low 3: 
+5243
+>Av<
+ Parsing delta_code, high 3 low 3: 
+524
+>Av
+ Parsing delta_code, high 2 low 3: 
+52
+>A
+entry from keymap :
+433255124212
+v<<A>>^AvA^A
+ Parsing delta_code, high 25 low 4: 
+2433225122524221234222152
+Av<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 24 low 4: 
+243322512252422123422215
+Av<<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 23 low 4: 
+24332251225242212342221
+Av<<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 22 low 4: 
+2433225122524221234222
+Av<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 21 low 4: 
+243322512252422123422
+Av<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 20 low 4: 
+24332251225242212342
+Av<<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 19 low 4: 
+2433225122524221234
+Av<<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 18 low 4: 
+243322512252422123
+Av<<AA>^AA>AvAA^A<
+ Parsing delta_code, high 17 low 4: 
+24332251225242212
+Av<<AA>^AA>AvAA^A
+ Parsing delta_code, high 16 low 4: 
+2433225122524221
+Av<<AA>^AA>AvAA^
+ Parsing delta_code, high 15 low 4: 
+243322512252422
+Av<<AA>^AA>AvAA
+ Parsing delta_code, high 14 low 4: 
+24332251225242
+Av<<AA>^AA>AvA
+ Parsing delta_code, high 13 low 4: 
+2433225122524
+Av<<AA>^AA>Av
+ Parsing delta_code, high 12 low 4: 
+243322512252
+Av<<AA>^AA>A
+ Parsing delta_code, high 11 low 4: 
+24332251225
+Av<<AA>^AA>
+ Parsing delta_code, high 10 low 4: 
+2433225122
+Av<<AA>^AA
+ Parsing delta_code, high 9 low 4: 
+243322512
+Av<<AA>^A
+ Parsing delta_code, high 8 low 4: 
+24332251
+Av<<AA>^
+ Parsing delta_code, high 7 low 4: 
+2433225
+Av<<AA>
+ Parsing delta_code, high 6 low 4: 
+243322
+Av<<AA
+ Parsing delta_code, high 5 low 4: 
+24332
+Av<<A
+ Parsing delta_code, high 4 low 4: 
+2433
+Av<<
+ Parsing delta_code, high 3 low 4: 
+243
+Av<
+ Parsing delta_code, high 2 low 4: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 24 low 5: 
+433225122524221234222152
+v<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 23 low 5: 
+43322512252422123422215
+v<<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 22 low 5: 
+4332251225242212342221
+v<<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 21 low 5: 
+433225122524221234222
+v<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 20 low 5: 
+43322512252422123422
+v<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 19 low 5: 
+4332251225242212342
+v<<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 18 low 5: 
+433225122524221234
+v<<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 17 low 5: 
+43322512252422123
+v<<AA>^AA>AvAA^A<
+ Parsing delta_code, high 16 low 5: 
+4332251225242212
+v<<AA>^AA>AvAA^A
+ Parsing delta_code, high 15 low 5: 
+433225122524221
+v<<AA>^AA>AvAA^
+ Parsing delta_code, high 14 low 5: 
+43322512252422
+v<<AA>^AA>AvAA
+ Parsing delta_code, high 13 low 5: 
+4332251225242
+v<<AA>^AA>AvA
+ Parsing delta_code, high 12 low 5: 
+433225122524
+v<<AA>^AA>Av
+ Parsing delta_code, high 11 low 5: 
+43322512252
+v<<AA>^AA>A
+ Parsing delta_code, high 10 low 5: 
+4332251225
+v<<AA>^AA>
+ Parsing delta_code, high 9 low 5: 
+433225122
+v<<AA>^AA
+ Parsing delta_code, high 8 low 5: 
+43322512
+v<<AA>^A
+ Parsing delta_code, high 7 low 5: 
+4332251
+v<<AA>^
+ Parsing delta_code, high 6 low 5: 
+433225
+v<<AA>
+ Parsing delta_code, high 5 low 5: 
+43322
+v<<AA
+ Parsing delta_code, high 4 low 5: 
+4332
+v<<A
+ Parsing delta_code, high 3 low 5: 
+433
+v<<
+ Parsing delta_code, high 2 low 5: 
+43
+v<
+entry from keymap :
+43325512421234232
+v<<A>>^AvA^A<vA<A
+ Parsing delta_code, high 23 low 6: 
+33225122524221234222152
+<<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 22 low 6: 
+3322512252422123422215
+<<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 21 low 6: 
+332251225242212342221
+<<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 20 low 6: 
+33225122524221234222
+<<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 19 low 6: 
+3322512252422123422
+<<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 18 low 6: 
+332251225242212342
+<<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 17 low 6: 
+33225122524221234
+<<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 16 low 6: 
+3322512252422123
+<<AA>^AA>AvAA^A<
+ Parsing delta_code, high 15 low 6: 
+332251225242212
+<<AA>^AA>AvAA^A
+ Parsing delta_code, high 14 low 6: 
+33225122524221
+<<AA>^AA>AvAA^
+ Parsing delta_code, high 13 low 6: 
+3322512252422
+<<AA>^AA>AvAA
+ Parsing delta_code, high 12 low 6: 
+332251225242
+<<AA>^AA>AvA
+ Parsing delta_code, high 11 low 6: 
+33225122524
+<<AA>^AA>Av
+ Parsing delta_code, high 10 low 6: 
+3322512252
+<<AA>^AA>A
+ Parsing delta_code, high 9 low 6: 
+332251225
+<<AA>^AA>
+ Parsing delta_code, high 8 low 6: 
+33225122
+<<AA>^AA
+ Parsing delta_code, high 7 low 6: 
+3322512
+<<AA>^A
+ Parsing delta_code, high 6 low 6: 
+332251
+<<AA>^
+ Parsing delta_code, high 5 low 6: 
+33225
+<<AA>
+ Parsing delta_code, high 4 low 6: 
+3322
+<<AA
+ Parsing delta_code, high 3 low 6: 
+332
+<<A
+ Parsing delta_code, high 2 low 6: 
+33
+<<
+entry from keymap :
+433255124212342322
+v<<A>>^AvA^A<vA<AA
+ Parsing delta_code, high 22 low 7: 
+3225122524221234222152
+<AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 21 low 7: 
+322512252422123422215
+<AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 20 low 7: 
+32251225242212342221
+<AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 19 low 7: 
+3225122524221234222
+<AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 18 low 7: 
+322512252422123422
+<AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 17 low 7: 
+32251225242212342
+<AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 16 low 7: 
+3225122524221234
+<AA>^AA>AvAA^A<v
+ Parsing delta_code, high 15 low 7: 
+322512252422123
+<AA>^AA>AvAA^A<
+ Parsing delta_code, high 14 low 7: 
+32251225242212
+<AA>^AA>AvAA^A
+ Parsing delta_code, high 13 low 7: 
+3225122524221
+<AA>^AA>AvAA^
+ Parsing delta_code, high 12 low 7: 
+322512252422
+<AA>^AA>AvAA
+ Parsing delta_code, high 11 low 7: 
+32251225242
+<AA>^AA>AvA
+ Parsing delta_code, high 10 low 7: 
+3225122524
+<AA>^AA>Av
+ Parsing delta_code, high 9 low 7: 
+322512252
+<AA>^AA>A
+ Parsing delta_code, high 8 low 7: 
+32251225
+<AA>^AA>
+ Parsing delta_code, high 7 low 7: 
+3225122
+<AA>^AA
+ Parsing delta_code, high 6 low 7: 
+322512
+<AA>^A
+ Parsing delta_code, high 5 low 7: 
+32251
+<AA>^
+ Parsing delta_code, high 4 low 7: 
+3225
+<AA>
+ Parsing delta_code, high 3 low 7: 
+322
+<AA
+ Parsing delta_code, high 2 low 7: 
+32
+<A
+entry from keymap :
+4332551242123423225512
+v<<A>>^AvA^A<vA<AA>>^A
+ Parsing delta_code, high 21 low 8: 
+225122524221234222152
+AA>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 20 low 8: 
+22512252422123422215
+AA>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 19 low 8: 
+2251225242212342221
+AA>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 18 low 8: 
+225122524221234222
+AA>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 17 low 8: 
+22512252422123422
+AA>^AA>AvAA^A<vAA
+ Parsing delta_code, high 16 low 8: 
+2251225242212342
+AA>^AA>AvAA^A<vA
+ Parsing delta_code, high 15 low 8: 
+225122524221234
+AA>^AA>AvAA^A<v
+ Parsing delta_code, high 14 low 8: 
+22512252422123
+AA>^AA>AvAA^A<
+ Parsing delta_code, high 13 low 8: 
+2251225242212
+AA>^AA>AvAA^A
+ Parsing delta_code, high 12 low 8: 
+225122524221
+AA>^AA>AvAA^
+ Parsing delta_code, high 11 low 8: 
+22512252422
+AA>^AA>AvAA
+ Parsing delta_code, high 10 low 8: 
+2251225242
+AA>^AA>AvA
+ Parsing delta_code, high 9 low 8: 
+225122524
+AA>^AA>Av
+ Parsing delta_code, high 8 low 8: 
+22512252
+AA>^AA>A
+ Parsing delta_code, high 7 low 8: 
+2251225
+AA>^AA>
+ Parsing delta_code, high 6 low 8: 
+225122
+AA>^AA
+ Parsing delta_code, high 5 low 8: 
+22512
+AA>^A
+ Parsing delta_code, high 4 low 8: 
+2251
+AA>^
+ Parsing delta_code, high 3 low 8: 
+225
+AA>
+ Parsing delta_code, high 2 low 8: 
+22
+AA
+entry from keymap :
+43325512421234232255122
+v<<A>>^AvA^A<vA<AA>>^AA
+ Parsing delta_code, high 20 low 9: 
+25122524221234222152
+A>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 19 low 9: 
+2512252422123422215
+A>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 18 low 9: 
+251225242212342221
+A>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 17 low 9: 
+25122524221234222
+A>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 16 low 9: 
+2512252422123422
+A>^AA>AvAA^A<vAA
+ Parsing delta_code, high 15 low 9: 
+251225242212342
+A>^AA>AvAA^A<vA
+ Parsing delta_code, high 14 low 9: 
+25122524221234
+A>^AA>AvAA^A<v
+ Parsing delta_code, high 13 low 9: 
+2512252422123
+A>^AA>AvAA^A<
+ Parsing delta_code, high 12 low 9: 
+251225242212
+A>^AA>AvAA^A
+ Parsing delta_code, high 11 low 9: 
+25122524221
+A>^AA>AvAA^
+ Parsing delta_code, high 10 low 9: 
+2512252422
+A>^AA>AvAA
+ Parsing delta_code, high 9 low 9: 
+251225242
+A>^AA>AvA
+ Parsing delta_code, high 8 low 9: 
+25122524
+A>^AA>Av
+ Parsing delta_code, high 7 low 9: 
+2512252
+A>^AA>A
+ Parsing delta_code, high 6 low 9: 
+251225
+A>^AA>
+ Parsing delta_code, high 5 low 9: 
+25122
+A>^AA
+ Parsing delta_code, high 4 low 9: 
+2512
+A>^A
+ Parsing delta_code, high 3 low 9: 
+251
+A>^
+ Parsing delta_code, high 2 low 9: 
+25
+A>
+entry from keymap :
+4332551242123423225512242
+v<<A>>^AvA^A<vA<AA>>^AAvA
+ Parsing delta_code, high 19 low 10: 
+5122524221234222152
+>^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 18 low 10: 
+512252422123422215
+>^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 17 low 10: 
+51225242212342221
+>^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 16 low 10: 
+5122524221234222
+>^AA>AvAA^A<vAAA
+ Parsing delta_code, high 15 low 10: 
+512252422123422
+>^AA>AvAA^A<vAA
+ Parsing delta_code, high 14 low 10: 
+51225242212342
+>^AA>AvAA^A<vA
+ Parsing delta_code, high 13 low 10: 
+5122524221234
+>^AA>AvAA^A<v
+ Parsing delta_code, high 12 low 10: 
+512252422123
+>^AA>AvAA^A<
+ Parsing delta_code, high 11 low 10: 
+51225242212
+>^AA>AvAA^A
+ Parsing delta_code, high 10 low 10: 
+5122524221
+>^AA>AvAA^
+ Parsing delta_code, high 9 low 10: 
+512252422
+>^AA>AvAA
+ Parsing delta_code, high 8 low 10: 
+51225242
+>^AA>AvA
+ Parsing delta_code, high 7 low 10: 
+5122524
+>^AA>Av
+ Parsing delta_code, high 6 low 10: 
+512252
+>^AA>A
+ Parsing delta_code, high 5 low 10: 
+51225
+>^AA>
+ Parsing delta_code, high 4 low 10: 
+5122
+>^AA
+ Parsing delta_code, high 3 low 10: 
+512
+>^A
+ Parsing delta_code, high 2 low 10: 
+51
+>^
+entry from keymap :
+4332551242123423225512242312
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A
+ Parsing delta_code, high 18 low 11: 
+122524221234222152
+^AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 17 low 11: 
+12252422123422215
+^AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 16 low 11: 
+1225242212342221
+^AA>AvAA^A<vAAA^
+ Parsing delta_code, high 15 low 11: 
+122524221234222
+^AA>AvAA^A<vAAA
+ Parsing delta_code, high 14 low 11: 
+12252422123422
+^AA>AvAA^A<vAA
+ Parsing delta_code, high 13 low 11: 
+1225242212342
+^AA>AvAA^A<vA
+ Parsing delta_code, high 12 low 11: 
+122524221234
+^AA>AvAA^A<v
+ Parsing delta_code, high 11 low 11: 
+12252422123
+^AA>AvAA^A<
+ Parsing delta_code, high 10 low 11: 
+1225242212
+^AA>AvAA^A
+ Parsing delta_code, high 9 low 11: 
+122524221
+^AA>AvAA^
+ Parsing delta_code, high 8 low 11: 
+12252422
+^AA>AvAA
+ Parsing delta_code, high 7 low 11: 
+1225242
+^AA>AvA
+ Parsing delta_code, high 6 low 11: 
+122524
+^AA>Av
+ Parsing delta_code, high 5 low 11: 
+12252
+^AA>A
+ Parsing delta_code, high 4 low 11: 
+1225
+^AA>
+ Parsing delta_code, high 3 low 11: 
+122
+^AA
+ Parsing delta_code, high 2 low 11: 
+12
+^A
+entry from keymap :
+433255124212342322551224231252
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>A
+ Parsing delta_code, high 17 low 12: 
+22524221234222152
+AA>AvAA^A<vAAA^>A
+ Parsing delta_code, high 16 low 12: 
+2252422123422215
+AA>AvAA^A<vAAA^>
+ Parsing delta_code, high 15 low 12: 
+225242212342221
+AA>AvAA^A<vAAA^
+ Parsing delta_code, high 14 low 12: 
+22524221234222
+AA>AvAA^A<vAAA
+ Parsing delta_code, high 13 low 12: 
+2252422123422
+AA>AvAA^A<vAA
+ Parsing delta_code, high 12 low 12: 
+225242212342
+AA>AvAA^A<vA
+ Parsing delta_code, high 11 low 12: 
+22524221234
+AA>AvAA^A<v
+ Parsing delta_code, high 10 low 12: 
+2252422123
+AA>AvAA^A<
+ Parsing delta_code, high 9 low 12: 
+225242212
+AA>AvAA^A
+ Parsing delta_code, high 8 low 12: 
+22524221
+AA>AvAA^
+ Parsing delta_code, high 7 low 12: 
+2252422
+AA>AvAA
+ Parsing delta_code, high 6 low 12: 
+225242
+AA>AvA
+ Parsing delta_code, high 5 low 12: 
+22524
+AA>Av
+ Parsing delta_code, high 4 low 12: 
+2252
+AA>A
+ Parsing delta_code, high 3 low 12: 
+225
+AA>
+ Parsing delta_code, high 2 low 12: 
+22
+AA
+entry from keymap :
+4332551242123423225512242312522
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AA
+ Parsing delta_code, high 16 low 13: 
+2524221234222152
+A>AvAA^A<vAAA^>A
+ Parsing delta_code, high 15 low 13: 
+252422123422215
+A>AvAA^A<vAAA^>
+ Parsing delta_code, high 14 low 13: 
+25242212342221
+A>AvAA^A<vAAA^
+ Parsing delta_code, high 13 low 13: 
+2524221234222
+A>AvAA^A<vAAA
+ Parsing delta_code, high 12 low 13: 
+252422123422
+A>AvAA^A<vAA
+ Parsing delta_code, high 11 low 13: 
+25242212342
+A>AvAA^A<vA
+ Parsing delta_code, high 10 low 13: 
+2524221234
+A>AvAA^A<v
+ Parsing delta_code, high 9 low 13: 
+252422123
+A>AvAA^A<
+ Parsing delta_code, high 8 low 13: 
+25242212
+A>AvAA^A
+ Parsing delta_code, high 7 low 13: 
+2524221
+A>AvAA^
+ Parsing delta_code, high 6 low 13: 
+252422
+A>AvAA
+ Parsing delta_code, high 5 low 13: 
+25242
+A>AvA
+ Parsing delta_code, high 4 low 13: 
+2524
+A>Av
+ Parsing delta_code, high 3 low 13: 
+252
+A>A
+ Parsing delta_code, high 2 low 13: 
+25
+A>
+entry from keymap :
+433255124212342322551224231252242
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA
+ Parsing delta_code, high 15 low 14: 
+524221234222152
+>AvAA^A<vAAA^>A
+ Parsing delta_code, high 14 low 14: 
+52422123422215
+>AvAA^A<vAAA^>
+ Parsing delta_code, high 13 low 14: 
+5242212342221
+>AvAA^A<vAAA^
+ Parsing delta_code, high 12 low 14: 
+524221234222
+>AvAA^A<vAAA
+ Parsing delta_code, high 11 low 14: 
+52422123422
+>AvAA^A<vAA
+ Parsing delta_code, high 10 low 14: 
+5242212342
+>AvAA^A<vA
+ Parsing delta_code, high 9 low 14: 
+524221234
+>AvAA^A<v
+ Parsing delta_code, high 8 low 14: 
+52422123
+>AvAA^A<
+ Parsing delta_code, high 7 low 14: 
+5242212
+>AvAA^A
+ Parsing delta_code, high 6 low 14: 
+524221
+>AvAA^
+ Parsing delta_code, high 5 low 14: 
+52422
+>AvAA
+ Parsing delta_code, high 4 low 14: 
+5242
+>AvA
+ Parsing delta_code, high 3 low 14: 
+524
+>Av
+ Parsing delta_code, high 2 low 14: 
+52
+>A
+entry from keymap :
+43325512421234232255122423125224212
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A
+ Parsing delta_code, high 14 low 15: 
+24221234222152
+AvAA^A<vAAA^>A
+ Parsing delta_code, high 13 low 15: 
+2422123422215
+AvAA^A<vAAA^>
+ Parsing delta_code, high 12 low 15: 
+242212342221
+AvAA^A<vAAA^
+ Parsing delta_code, high 11 low 15: 
+24221234222
+AvAA^A<vAAA
+ Parsing delta_code, high 10 low 15: 
+2422123422
+AvAA^A<vAA
+ Parsing delta_code, high 9 low 15: 
+242212342
+AvAA^A<vA
+ Parsing delta_code, high 8 low 15: 
+24221234
+AvAA^A<v
+ Parsing delta_code, high 7 low 15: 
+2422123
+AvAA^A<
+ Parsing delta_code, high 6 low 15: 
+242212
+AvAA^A
+ Parsing delta_code, high 5 low 15: 
+24221
+AvAA^
+ Parsing delta_code, high 4 low 15: 
+2422
+AvAA
+ Parsing delta_code, high 3 low 15: 
+242
+AvA
+ Parsing delta_code, high 2 low 15: 
+24
+Av
+Match in key_map[delta_code]: 342
+<vA
+ Parsing delta_code, high 13 low 16: 
+4221234222152
+vAA^A<vAAA^>A
+ Parsing delta_code, high 12 low 16: 
+422123422215
+vAA^A<vAAA^>
+ Parsing delta_code, high 11 low 16: 
+42212342221
+vAA^A<vAAA^
+ Parsing delta_code, high 10 low 16: 
+4221234222
+vAA^A<vAAA
+ Parsing delta_code, high 9 low 16: 
+422123422
+vAA^A<vAA
+ Parsing delta_code, high 8 low 16: 
+42212342
+vAA^A<vA
+ Parsing delta_code, high 7 low 16: 
+4221234
+vAA^A<v
+ Parsing delta_code, high 6 low 16: 
+422123
+vAA^A<
+ Parsing delta_code, high 5 low 16: 
+42212
+vAA^A
+ Parsing delta_code, high 4 low 16: 
+4221
+vAA^
+ Parsing delta_code, high 3 low 16: 
+422
+vAA
+ Parsing delta_code, high 2 low 16: 
+42
+vA
+entry from keymap :
+43325512421234232255122423125224212342152
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>A
+ Parsing delta_code, high 12 low 17: 
+221234222152
+AA^A<vAAA^>A
+ Parsing delta_code, high 11 low 17: 
+22123422215
+AA^A<vAAA^>
+ Parsing delta_code, high 10 low 17: 
+2212342221
+AA^A<vAAA^
+ Parsing delta_code, high 9 low 17: 
+221234222
+AA^A<vAAA
+ Parsing delta_code, high 8 low 17: 
+22123422
+AA^A<vAA
+ Parsing delta_code, high 7 low 17: 
+2212342
+AA^A<vA
+ Parsing delta_code, high 6 low 17: 
+221234
+AA^A<v
+ Parsing delta_code, high 5 low 17: 
+22123
+AA^A<
+ Parsing delta_code, high 4 low 17: 
+2212
+AA^A
+ Parsing delta_code, high 3 low 17: 
+221
+AA^
+ Parsing delta_code, high 2 low 17: 
+22
+AA
+entry from keymap :
+433255124212342322551224231252242123421522
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA
+ Parsing delta_code, high 11 low 18: 
+21234222152
+A^A<vAAA^>A
+ Parsing delta_code, high 10 low 18: 
+2123422215
+A^A<vAAA^>
+ Parsing delta_code, high 9 low 18: 
+212342221
+A^A<vAAA^
+ Parsing delta_code, high 8 low 18: 
+21234222
+A^A<vAAA
+ Parsing delta_code, high 7 low 18: 
+2123422
+A^A<vAA
+ Parsing delta_code, high 6 low 18: 
+212342
+A^A<vA
+ Parsing delta_code, high 5 low 18: 
+21234
+A^A<v
+ Parsing delta_code, high 4 low 18: 
+2123
+A^A<
+ Parsing delta_code, high 3 low 18: 
+212
+A^A
+ Parsing delta_code, high 2 low 18: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 10 low 19: 
+1234222152
+^A<vAAA^>A
+ Parsing delta_code, high 9 low 19: 
+123422215
+^A<vAAA^>
+ Parsing delta_code, high 8 low 19: 
+12342221
+^A<vAAA^
+ Parsing delta_code, high 7 low 19: 
+1234222
+^A<vAAA
+ Parsing delta_code, high 6 low 19: 
+123422
+^A<vAA
+ Parsing delta_code, high 5 low 19: 
+12342
+^A<vA
+ Parsing delta_code, high 4 low 19: 
+1234
+^A<v
+ Parsing delta_code, high 3 low 19: 
+123
+^A<
+ Parsing delta_code, high 2 low 19: 
+12
+^A
+entry from keymap :
+4332551242123423225512242312522421234215223252
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>A
+ Parsing delta_code, high 9 low 20: 
+234222152
+A<vAAA^>A
+ Parsing delta_code, high 8 low 20: 
+23422215
+A<vAAA^>
+ Parsing delta_code, high 7 low 20: 
+2342221
+A<vAAA^
+ Parsing delta_code, high 6 low 20: 
+234222
+A<vAAA
+ Parsing delta_code, high 5 low 20: 
+23422
+A<vAA
+ Parsing delta_code, high 4 low 20: 
+2342
+A<vA
+ Parsing delta_code, high 3 low 20: 
+234
+A<v
+ Parsing delta_code, high 2 low 20: 
+23
+A<
+Match in key_map[delta_code]: 4332
+v<<A
+ Parsing delta_code, high 8 low 21: 
+34222152
+<vAAA^>A
+ Parsing delta_code, high 7 low 21: 
+3422215
+<vAAA^>
+ Parsing delta_code, high 6 low 21: 
+342221
+<vAAA^
+ Parsing delta_code, high 5 low 21: 
+34222
+<vAAA
+ Parsing delta_code, high 4 low 21: 
+3422
+<vAA
+ Parsing delta_code, high 3 low 21: 
+342
+<vA
+ Parsing delta_code, high 2 low 21: 
+34
+<v
+entry from keymap :
+4332551242123423225512242312522421234215223252433252
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>Av<<A>A
+ Parsing delta_code, high 7 low 22: 
+4222152
+vAAA^>A
+ Parsing delta_code, high 6 low 22: 
+422215
+vAAA^>
+ Parsing delta_code, high 5 low 22: 
+42221
+vAAA^
+ Parsing delta_code, high 4 low 22: 
+4222
+vAAA
+ Parsing delta_code, high 3 low 22: 
+422
+vAA
+ Parsing delta_code, high 2 low 22: 
+42
+vA
+entry from keymap :
+4332551242123423225512242312522421234215223252433252152
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>Av<<A>A^>A
+ Parsing delta_code, high 6 low 23: 
+222152
+AAA^>A
+ Parsing delta_code, high 5 low 23: 
+22215
+AAA^>
+ Parsing delta_code, high 4 low 23: 
+2221
+AAA^
+ Parsing delta_code, high 3 low 23: 
+222
+AAA
+ Parsing delta_code, high 2 low 23: 
+22
+AA
+entry from keymap :
+43325512421234232255122423125224212342152232524332521522
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>Av<<A>A^>AA
+ Parsing delta_code, high 5 low 24: 
+22152
+AA^>A
+ Parsing delta_code, high 4 low 24: 
+2215
+AA^>
+ Parsing delta_code, high 3 low 24: 
+221
+AA^
+ Parsing delta_code, high 2 low 24: 
+22
+AA
+entry from keymap :
+433255124212342322551224231252242123421522325243325215222
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>Av<<A>A^>AAA
+ Parsing delta_code, high 4 low 25: 
+2152
+A^>A
+ Parsing delta_code, high 3 low 25: 
+215
+A^>
+ Parsing delta_code, high 2 low 25: 
+21
+A^
+Match in key_map[delta_code]: 32
+<A
+ Parsing delta_code, high 3 low 26: 
+152
+^>A
+ Parsing delta_code, high 2 low 26: 
+15
+^>
+entry from keymap :
+43325512421234232255122423125224212342152232524332521522232452
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>Av<<A>A^>AAA<Av>A
+ Parsing delta_code, high 2 low 27: 
+52
+>A
+entry from keymap :
+4332551242123423225512242312522421234215223252433252152223245212
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>Av<<A>A^>AAA<Av>A^A
+ Parsing delta_code, high 1 low 28: 
+2
+A
+4332551242123423225512242312522421234215223252433252152223245212
+v<<A>>^AvA^A<vA<AA>>^AAvA<^A>AAvA^A<vA^>AA<A>Av<<A>A^>AAA<Av>A^A
+Number of key presses are: 64
+Length: 68, number: 29
+Length: 60, number: 980
+Length: 68, number: 179
+Length: 63, number: 456
+Length: 64, number: 379
+Sum of complexities: 125928
