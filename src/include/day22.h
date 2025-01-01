@@ -1,7 +1,6 @@
 #pragma once
 #include <fstream>
-
-class Day18 {
+class Day22 {
 public:
   static void run(std::ifstream &file);
 };

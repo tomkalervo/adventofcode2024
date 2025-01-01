@@ -19,13 +19,14 @@
 #include "include/day19.h"
 #include "include/day20.h"
 #include "include/day21.h"
+#include "include/day22.h"
 #include <cctype>
 #include <cstring>
 #include <fstream>
 #include <iostream>
 #include <string>
 
-int DAYS_COMPLETED = 21;
+int DAYS_COMPLETED = 22;
 
 void usage() {
   std::cout << "./aoc --Day challenge --File filepath" << std::endl;
@@ -130,6 +131,8 @@ int main(int argc, char **argv) {
     Day20::run(file);
   } else if (21 == day) {
     Day21::run(file);
+  } else if (22 == day) {
+    Day22::run(file);
   } else {
     std::cerr << "Did not find a matching challenge to run." << std::endl;
   }
